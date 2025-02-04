@@ -55,7 +55,7 @@ The full text of the license is available at:
 
 © 2025 [Weather Factory]. All rights reserved.
 
-© 2025 [HSE]. Все права защищены.
+© 2025 [HSE]. All rights reserved.
 
 Data from the games "Cultist Simulator" and "Book of Hours" belong to "Weather Factory" and are used with their
 permission.
