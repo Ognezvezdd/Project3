@@ -1,0 +1,2309 @@
+{
+  "elements": [
+    {
+      "id": ".hea",
+      "label": ""
+    },
+    {
+      "id": "prefs.agdistis",
+      "desc": "阿格狄斯提斯偏好含有<sprite name=heart>的食物与饮品。"
+    },
+    {
+      "id": "egg",
+      "label": "卵",
+      "desc": "“卵未亡之时，某物或可孵出。卵已亡之时，某物或可置入。”——蒂尔扎·布雷克，噤声居屋第七任图书管理员"
+    },
+    {
+      "id": "mystery.scale",
+      "label": "奥秘：鳞",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "inspiring.fear.ys",
+      "label": "恐惧：伊苏"
+    },
+    {
+      "id": "message.rhonwen.act1",
+      "label": "来自圣罗文的信件",
+      "desc": "一封回信，或是一纸通知。"
+    },
+    {
+      "id": "appointing",
+      "label": "任命",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "reading.grail",
+      "label": "我读到……"
+    },
+    {
+      "id": "carcass",
+      "label": "畜体",
+      "desc": "曾经不需我帮忙就能自行移动的东西。[可在尸检台上将其分解为兽骨。]"
+    },
+    {
+      "Label": "以亚兰语写就",
+      "id": "w.aramaic",
+      "desc": "亚兰与她这三千多年以来所养育的众多孩子所使用的语言。[图书管理员读得懂亚兰语，但别假定其他人也能。]"
+    },
+    {
+      "id": "mastery.moth",
+      "label": "精通：蛾",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "fatiguing.sustenance",
+      "label": "专门针对食物",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "recruiting",
+      "label": "招募（内部文本？）",
+      "desc": "(recipe aspect)招聘/招募/援助之人（内部文本？）"
+    },
+    {
+      "id": "mystery.knock",
+      "label": "奥秘：启",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "cache.night.rarities",
+      "label": "黑夜珍品",
+      "desc": "何种午夜赠礼？"
+    },
+    {
+      "id": "rank",
+      "label": "Rank",
+      "desc": "(HIDDEN ASPECT used for level-ranking，e.g. in hand spheres)"
+    },
+    {
+      "id": "mastering.nectar",
+      "label": "掌握：蜜",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "convo.wist",
+      "label": "C：铭晓",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "visitor.embarking",
+      "label": "访客：登船",
+      "desc": "这位来访者急于赶路，通常不会逗留交谈。"
+    },
+    {
+      "id": "persistent",
+      "label": "存留",
+      "desc": "存留的回忆能留过拂晓，但当名为闰时的时节离去时，它们会随之消失。平均每九个时节，闰时都会降临布兰库格岛——而其确切的时间仍不得知。可能经年累月，而闰时雾气却仍不得见。"
+    },
+    {
+      "id": "memories.cartographer",
+      "label": "记忆：制图师",
+      "desc": "“没有地图可以描绘太阳的居屋，那隐秘众神漫步之处。其内年年变化，却岁岁相同，怎能绘出？描绘起来确实棘手。但毫无可能吗？我看未必。”"
+    },
+    {
+      "id": "mystery.moon",
+      "label": "奥秘：月",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "reading.knock",
+      "label": "我读到……"
+    },
+    {
+      "id": "departing",
+      "label": "离开",
+      "desc": "(recipe aspect)——失效的援助(也能让来访者为匆忙离开做好准备，但是我们现在只提供满意+衰减（内部文本？）"
+    },
+    {
+      "id": "soaked",
+      "label": "浸湿的",
+      "desc": "它快要散架了！赶紧做点什么，但别慌张。"
+    },
+    {
+      "id": "prefs.serena",
+      "desc": "瑟雷娜偏好含有<sprite name=forge>的食物和饮品。"
+    },
+    {
+      "id": "b.hushery",
+      "label": "主题：静默术",
+      "desc": "尤关寂静之经文。"
+    },
+    {
+      "id": "unlocking",
+      "label": "Unlocking（内部文本？）",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "raw",
+      "label": "生的",
+      "desc": "这个大概能吃，但你可不会把它盛盘里端给客人。"
+    },
+    {
+      "id": "opportunity",
+      "label": "机遇",
+      "desc": "一个远超预期的机会。"
+    },
+    {
+      "Label": "以渊深曼达安语写就",
+      "id": "w.mandaic",
+      "desc": "一门引发共鸣的语言。"
+    },
+    {
+      "id": "mastering.scale",
+      "label": "掌握：鳞",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "inspired",
+      "label": "受启发",
+      "desc": "此人有着更崇高的计划。"
+    },
+    {
+      "id": "period.dawn",
+      "label": "拂晓时期",
+      "desc": "传统说法是，最初的修道院建立于公元599年，有时被称作黑鸽修道院，有时则是白鸦修道院……但三重绳结姐妹会在此建立他们庙宇的时间则比那早得多。"
+    },
+    {
+      "id": "cooperative",
+      "label": "合作伙伴",
+      "desc": "不会给我惹麻烦——至少现在还不会。"
+    },
+    {
+      "id": "mystery.grail",
+      "label": "奥秘：杯",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "boost.rose",
+      "label": "提升：引"
+    },
+    {
+      "id": "prefs.stanislav",
+      "desc": "斯坦尼斯拉夫偏好含有<sprite name=heart>的食物和饮品。"
+    },
+    {
+      "id": "cache.unregarded.rarities",
+      "label": "被忽视的珍品",
+      "desc": "何种被忽视的美丽？"
+    },
+    {
+      "id": "reading.nectar",
+      "label": "我读到……"
+    },
+    {
+      "id": "w.ithastry",
+      "label": "盗火术",
+      "desc": "炼金术、冶金学、烟火工艺：盗火术有时被称为改变之技艺。"
+    },
+    {
+      "Label": "了解梵语",
+      "id": "u.sanskrit",
+      "desc": "（如我一般。）"
+    },
+    {
+      "id": "skill.chandlery",
+      "label": "制烛术",
+      "desc": "一种可以用，合适的原料制作蜡烛的技艺。[最常用的原料是蜂蜡和草药；但为了迷惑村民和访客，在“合适”这个词之前要有一个意味深长的停顿。]"
+    },
+    {
+      "id": "sceptical",
+      "label": "怀疑",
+      "desc": "信任可以买到，也可以赢得。"
+    },
+    {
+      "id": "agenda.secrecy",
+      "label": "计划：守密",
+      "desc": "此人认识到了知识的害处和根冠的益处。"
+    },
+    {
+      "id": "b.illumination",
+      "label": "主题：照明术",
+      "desc": "关于净化自我及周遭之经文。"
+    },
+    {
+      "id": "w.nyctodromy",
+      "label": "夜游术",
+      "desc": "“夜间出行既不更快也不更安全。这就是我们这么做的原因。”关于超越世俗之道路与小径的学识。"
+    },
+    {
+      "id": "inspiring.agenda.secrecy",
+      "label": "计划：守密"
+    },
+    {
+      "id": "convo.chor",
+      "label": "C：脉律",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "difficulty.oddities",
+      "label": "难关：奇物",
+      "desc": "[这一等级的相关性相会给你一个发现奇物的机会。]"
+    },
+    {
+      "id": "difficulty.scholar",
+      "label": "学者级挑战",
+      "desc": "更艰深的技术既需要力量，又需要卓越的技艺。[具有挑战性的配方需要提供十点相关性相。每个学者级的配方也需要一份具有特定性相的原料。]"
+    },
+    {
+      "id": "journal",
+      "label": "日记",
+      "desc": "后于我而存在，但将与我同日终结。"
+    },
+    {
+      "id": "reading.scale",
+      "label": "我读到……"
+    },
+    {
+      "Label": "了解解踪语",
+      "id": "u.cracktrack",
+      "desc": "此人了解这门原始的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "grateful",
+      "label": "心满意足",
+      "desc": "此人对我的服务心满意足。"
+    },
+    {
+      "id": "agenda.revelation",
+      "label": "计划：揭示",
+      "desc": "此人希望分享知识，即使受根冠的阻拦。"
+    },
+    {
+      "Label": "以希克索斯语写就",
+      "id": "w.hyksos",
+      "desc": "一门诡谲的语言。"
+    },
+    {
+      "Label": "了解赫沃尔语",
+      "id": "u.henavek",
+      "desc": "此人了解这门被遗忘的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "malady.cure.heart",
+      "label": "以心治愈",
+      "desc": "该病症可以通过卧床及滋补身体的饮品治愈，与之同等级的<b>心</b>相将恢复虚弱的肉体。"
+    },
+    {
+      "id": "mastering.knock",
+      "label": "掌握：启",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "x",
+      "label": "x"
+    },
+    {
+      "id": "b.bosk",
+      "label": "主题：丛林学",
+      "desc": "关于原始丛林谜团之经文。"
+    },
+    {
+      "id": "boost.lantern",
+      "label": "提升：灯"
+    },
+    {
+      "id": "skill.language",
+      "label": "语言",
+      "desc": "一种可以用来阅读特定书籍的技艺，其他功能则没那么重要。"
+    },
+    {
+      "id": "mastering.heart",
+      "label": "掌握：心",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "prefs.yvette",
+      "desc": "伊薇特什么都吃。她不喜欢小题大做。"
+    },
+    {
+      "id": "exalted.beverage",
+      "label": "已强化：饮品",
+      "desc": "享用饮品提高了助手今天的能力。"
+    },
+    {
+      "id": "dissatisfying",
+      "label": "失望而归",
+      "desc": "例如劝说一位访客不值得他们花费时间。我们既可以用它来标记他们的吸取，也可以用它来进行满意度的评价。（内部文本？）"
+    },
+    {
+      "id": "zmoon",
+      "label": "月[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>月</b>。]"
+    },
+    {
+      "id": "brewable",
+      "label": "可冲泡",
+      "desc": "待沏泡，或温烫，或转化。[在壁炉或厨房区域内使用这个。]"
+    },
+    {
+      "id": "convo.mettle",
+      "label": "C：刚毅",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "prefs.morgen",
+      "desc": "摩根偏好含有<sprite name=sky>的食物和饮品……至少在体面的场合如此。"
+    },
+    {
+      "id": "exalted.fabric",
+      "label": "已强化：布料",
+      "desc": "一件织就的物品提高了这名助手今天的能力。"
+    },
+    {
+      "Label": "了解厄里卡帕奥语",
+      "id": "u.ericapaean",
+      "desc": "此人了解这门优雅的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "ductile",
+      "label": "可塑的",
+      "desc": "[可在工作台上加工为金属丝。]"
+    },
+    {
+      "Label": "了解伐诃语",
+      "id": "u.vak",
+      "desc": "此人了解这门自满的语言。"
+    },
+    {
+      "id": "period.nocturnal",
+      "label": "夜勤时期",
+      "desc": "20世纪伊始，一位图书管理员不明智的狂热使噤声居屋陷入贫困。夜勤处，即日后的防剿局——介入此地，并提供了一套债务解决方案。噤声居屋得到拨款，但每年都须接受审查，还要交出岛屿的一部分用作夜勤处的监狱。"
+    },
+    {
+      "id": "delivering",
+      "label": "发表",
+      "desc": "(recipe aspect)——用其结果替换邮购购买或联系请求，或者是从屏幕中抽牌/抓牌。（内部文本？）"
+    },
+    {
+      "id": "inspiring.agenda.better.gods",
+      "label": "计划：更佳诸神"
+    },
+    {
+      "id": "fatigued",
+      "label": "疲劳",
+      "desc": "稍候片刻。[疲劳的能力总会在拂晓复原，除非你找到了更快的恢复途径。]"
+    },
+    {
+      "id": "invitation",
+      "label": "一封邀请函",
+      "desc": "如果我把它送到邮局，如果我还有钱买邮票，如果收信人在家，如果此人没有其他事，如果此人没有恰巧正准备离开布兰库格，那么这份邀请函就会将之带到这里。"
+    },
+    {
+      "id": "inspiring.sympathy.ys",
+      "label": "偏向：伊苏"
+    },
+    {
+      "id": "count",
+      "label": "计数",
+      "desc": "如果你要确认数量，这就是你会数出的数字。"
+    },
+    {
+      "id": "state.cracked",
+      "label": "Cracked（疑似未实装？）",
+      "desc": "- cracked -（疑似未实装？）"
+    },
+    {
+      "id": "wrapping",
+      "label": "Wrapping（内部文本？）",
+      "desc": "Turns an order form back into a delivery（内部文本？）"
+    },
+    {
+      "id": "mystery.moth",
+      "label": "奥秘：蛾",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": ".fet",
+      "label": ""
+    },
+    {
+      "id": "knife",
+      "label": "刀",
+      "desc": "“这便是分裂的界线。”——沃尔夫"
+    },
+    {
+      "id": "malady.curing",
+      "label": "病症：已治愈！"
+    },
+    {
+      "id": "befriending",
+      "label": "结交",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "prefs.chaima",
+      "desc": "柴玛偏好含有<sprite name=edge>的食物和饮品。"
+    },
+    {
+      "id": "circumstance",
+      "label": "境况",
+      "desc": "某事境况如此——但只是现在。[境况会在闰时消失。]"
+    },
+    {
+      "id": "mastery.knock",
+      "label": "精通：启",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "mastery.grail",
+      "label": "精通：杯",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "znectar",
+      "label": "蜜[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>蜜</b>。]"
+    },
+    {
+      "id": "prefs.ehsan",
+      "desc": "埃桑偏好含有<sprite name=moon>的食物，以及含有<sprite name=sky>的饮品。"
+    },
+    {
+      "id": "cost.pence",
+      "label": "以便士计价",
+      "desc": "该价格可用王国的货币支付。"
+    },
+    {
+      "id": "delegacizing",
+      "label": "Delegacizing（内部文本？）",
+      "desc": "Recipe meta aspect for resolving problem content（内部文本？）"
+    },
+    {
+      "id": "blank",
+      "label": "空白",
+      "desc": "等待着友善的话语。"
+    },
+    {
+      "id": "upgrading.down",
+      "label": "提升：向下",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "requesting",
+      "label": "请求",
+      "desc": "(recipe aspect) 从联系地址生成请求（内部文本？）"
+    },
+    {
+      "id": "reading.heart",
+      "label": "我读到……"
+    },
+    {
+      "id": "sleepytime",
+      "label": "睡觉时间",
+      "desc": "正派人应当上床盖好被子；不义者可能还在做他们不义的勾当。"
+    },
+    {
+      "id": "spicing",
+      "label": "香料",
+      "desc": "可用于增添奇异滋味的工具，或知识。"
+    },
+    {
+      "id": "instrument",
+      "label": "乐器",
+      "desc": "音乐于此静待。"
+    },
+    {
+      "id": "lens",
+      "label": "透镜",
+      "desc": "人称“沉默男爵”的托马斯·德沃尔夫，建造了布兰库格的天文台。众所周知，他不吝丰厚的酬劳，但他的要求非常苛刻，以致于没有任何磨镜师愿意和他再次共事。"
+    },
+    {
+      "id": "inspiring.sympathy.carapace",
+      "label": "偏向：介壳种"
+    },
+    {
+      "id": "kitchenware",
+      "label": "厨具",
+      "desc": "很适合放在炖锅旁。"
+    },
+    {
+      "id": "uncatalogued",
+      "label": "未编目",
+      "desc": "“没有什么比无知更安全——或者更危险。”——尼罗·沃尔夫"
+    },
+    {
+      "id": "season.pausing",
+      "label": "时节暂停",
+      "desc": "奔赴闰时，将时节冻结。"
+    },
+    {
+      "id": "prefs.connie",
+      "desc": "康妮偏好含有<sprite name=sky>的食物和饮品。"
+    },
+    {
+      "id": "skill",
+      "label": "技艺",
+      "desc": "万物皆可习得；万物皆可忘却。"
+    },
+    {
+      "id": "root",
+      "label": "根",
+      "desc": "植物之足。"
+    },
+    {
+      "id": "appointment.treasurer",
+      "label": "司库",
+      "desc": "司库负责学会的财政事务。"
+    },
+    {
+      "id": "mastering.grail",
+      "label": "掌握：杯",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "wisdom.committed",
+      "label": "呈递",
+      "desc": "你已确定这一技艺在理解的广袤王国中应所属何处。[这一技艺已经呈递于卡上标注的智慧。]"
+    },
+    {
+      "id": "inspiring.agenda.corrivality",
+      "label": "计划：角争"
+    },
+    {
+      "id": ".wis",
+      "label": ""
+    },
+    {
+      "id": "mastery.moon",
+      "label": "精通：月",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "numen",
+      "label": "闰识",
+      "desc": "把真理写进一本没人读的书，然后见鬼去吧。没人知道你写了什么——除非那个真理是<i>闰识</i>。[闰识是一类如此强大的真理，以致于它们或许能够实现自己。你可以在合适的书桌上使用闰识书写新的历史……只要你能凑齐25级与之匹配的性相。]"
+    },
+    {
+      "id": "sympathy.chandler",
+      "label": "偏向：制烛人",
+      "desc": "此人认可制烛人许下的金色承诺。"
+    },
+    {
+      "id": "mastery.winter",
+      "label": "精通：冬",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "campable",
+      "label": "虚位以待",
+      "desc": "[可将有此性相的访客或魂质安置于一张客床上，以占用它一段时间。]"
+    },
+    {
+      "id": "material",
+      "label": "材料",
+      "desc": "如果我把它加入某样东西里，这种物质就有变成另一种物质的潜力。"
+    },
+    {
+      "id": "uqterrence",
+      "label": ""
+    },
+    {
+      "Label": "以富奇诺语写就",
+      "id": "w.fucine",
+      "desc": "一门令人干渴的语言。"
+    },
+    {
+      "id": "w.horomachistry",
+      "label": "司辰学",
+      "desc": "此种智慧与司辰（及其化身）所布法则（与分歧）有关。"
+    },
+    {
+      "id": "camping",
+      "label": "安营扎寨",
+      "desc": "我已经选择此处作为我的憩所——眼下如此。"
+    },
+    {
+      "id": "reading.grail.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "period.solar",
+      "label": "太阳哥特时期",
+      "desc": "11世纪到16世纪早期，圣布伦丹教堂的修女与修士们居住在该岛上。这里曾是圣地，宝地与学术中心——尽管仅限于那些晦涩得出奇的知识。之后，在1534年，青铜王亨利解散了修道院，遣散了众教友，将该岛赏赐给德沃尔夫家族。"
+    },
+    {
+      "id": "curated.busts",
+      "label": "展览：噤声居屋的诸位图书管理员",
+      "desc": "我把此物放在了该放的地方。"
+    },
+    {
+      "id": "fatiguing.ability",
+      "label": "削弱一种能力",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "b.nyctodromy",
+      "label": "主题：夜游术",
+      "desc": "关于超越俗世的道路与小径之经文。"
+    },
+    {
+      "id": "malady.cure.moth",
+      "label": "以蛾治愈",
+      "desc": "该病症可通过卧床及合适的饮品治愈，与之同等级的<b>蛾</b>相将迷惑附着于我灵魂中的存在。"
+    },
+    {
+      "id": "tablet",
+      "label": "碑文",
+      "desc": "一本页数很少的书。"
+    },
+    {
+      "id": "reading.sky.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "exalted.omen",
+      "label": "已强化：预兆",
+      "desc": "一个适时的征兆提高了这名助手今天的能力。"
+    },
+    {
+      "id": "appointment.vigilant",
+      "label": "警戒理事",
+      "desc": "警戒理事保证学会的安全。"
+    },
+    {
+      "id": "uqcat",
+      "label": ""
+    },
+    {
+      "id": "agenda.autarchy",
+      "label": "计划：自治",
+      "desc": "此人认为，重要的是人类——以及保护他们的学会——能够在没有司辰庇护的情况下生存。"
+    },
+    {
+      "id": "sky",
+      "label": "穹",
+      "desc": "轻风，暴风，回响，歌咏；数学的复杂，飞行的原理。法则的碰触有时比我们想象的要轻。[平衡，和谐与必然性。]"
+    },
+    {
+      "id": "inspiring.fear.devourers",
+      "label": "恐惧：吞噬者"
+    },
+    {
+      "id": "mastery.nectar",
+      "label": "精通：蜜",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "inspiring.sympathy.reckoners",
+      "label": "偏向：清算人"
+    },
+    {
+      "id": "metal",
+      "label": "金属",
+      "desc": "这就是岩石严肃起来时会产生的东西。"
+    },
+    {
+      "id": "course.first",
+      "label": "前菜",
+      "desc": "通常作为小吃，或在主菜前享用。"
+    },
+    {
+      "id": "zforge",
+      "label": "铸[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>铸</b>。]"
+    },
+    {
+      "id": "fear.ys",
+      "label": "恐惧：伊苏",
+      "desc": "此人知晓伊苏诱惑的危害。"
+    },
+    {
+      "Label": "以弗里吉亚语写就",
+      "id": "w.phrygian",
+      "desc": "弗里吉亚人崇拜的“伟大母亲”就是我们所称的圣杯。他们的土地曾见证过绳结姐妹会的诞生，而这门语言便是轰雷之皮飞升时用于恳求的语言。[图书管理员读得懂弗里吉亚语，但几乎没有其他人能读懂。]"
+    },
+    {
+      "id": "mastering.moth",
+      "label": "掌握：蛾",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "mastering.sky",
+      "label": "掌握：穹",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "fatiguing",
+      "label": "疲惫",
+      "desc": "(recipe aspect)"
+    },
+    {
+      "id": "convo.trist",
+      "label": "C：悲恸",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "recovering",
+      "label": "痊愈（内部文本？）",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "mystery.winter",
+      "label": "奥秘：冬",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "season.unpausing",
+      "label": "继续时节",
+      "desc": "恢复一个时节（内部文本？）"
+    },
+    {
+      "id": "host.technique.summon.echidna",
+      "label": "招待厄客德娜的技巧",
+      "desc": "此技艺可主持召唤厄客德娜的技巧。"
+    },
+    {
+      "id": "mystery.nectar",
+      "label": "奥秘：蜜",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "uqtuppence",
+      "label": ""
+    },
+    {
+      "id": "unwrapping",
+      "label": "Unwrapping（内部文本？）",
+      "desc": "Used when opening a delivery to provoke spawns（内部文本？）"
+    },
+    {
+      "id": "ability",
+      "label": "魂质",
+      "desc": "人类的灵魂由九种元素构成，这便是其中之一。其他事物的灵魂大多更为简单。[每张魂质在每天可以使用一次，用于那些需要你劳心费力的事情；这通常意味着“与人交谈”或“制作”。]"
+    },
+    {
+      "id": "soph",
+      "label": "精致"
+    },
+    {
+      "id": "milk.aspect",
+      "label": "奶"
+    },
+    {
+      "id": "bread",
+      "label": "面包",
+      "desc": "谷物历经磨难，方可进入我们的内里，并成为我们的一部分。"
+    },
+    {
+      "id": "pence",
+      "label": "便士",
+      "desc": "衰落帝国的古怪货币。一便士是四法寻，十二便士是一先令，以此类推。"
+    },
+    {
+      "id": "distributable",
+      "label": "用于分装",
+      "desc": "可以被倒入玻璃杯或茶杯里。"
+    },
+    {
+      "Label": "以拉丁语写就",
+      "id": "w.latin",
+      "desc": "一门死去的语言：如金刚石般了无生机。[图书管理员读得懂拉丁语，但别假定其他人也能。]"
+    },
+    {
+      "id": "hidden.mihail.sarcophagus",
+      "label": "米哈尔于石棺中"
+    },
+    {
+      "id": "mybed",
+      "label": "我的床",
+      "desc": "我安息的地方，虽然我希望这不是我<i>最后</i>安息的地方。[如果你想换张床休息，就用一张健康的魂质卡来整理床褥并把你的东西搬出去。]"
+    },
+    {
+      "id": "lantern",
+      "label": "灯",
+      "desc": "“生命是束纯净的火焰，我们内心都拥有一颗无形的太阳。”——托马斯·布朗。[<b>灯</b>是有“太阳之居屋”之称的隐秘场所与其上光芒的准则。]"
+    },
+    {
+      "id": "comfort",
+      "label": "慰藉",
+      "desc": "有人形容噤声居屋“荒凉惨淡”，但一般只有那些从未进入其中的人才会这样说。"
+    },
+    {
+      "Label": "以梵语写就",
+      "id": "w.sanskrit",
+      "desc": "次大陆的神圣语言。通向四千年的诗歌、典仪和奥秘的大门如今对你敞开，只要你能从它如同莲花般卷曲的词汇中挣出一条路。[图书管理员读得懂梵语，但别假定其他人也能。]"
+    },
+    {
+      "id": "reading.scale.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "decamping",
+      "label": "暂歇结束",
+      "desc": "我得走了。"
+    },
+    {
+      "id": "wooden",
+      "label": "木制品",
+      "desc": "[可在工作台上加工为废木料。]"
+    },
+    {
+      "id": "reading.edge",
+      "label": "我读到……"
+    },
+    {
+      "id": "convo.fet",
+      "label": "C：灵躯",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "candle",
+      "label": "蜡烛",
+      "desc": "蜡烛烧得更亮，而我们烧得更久。"
+    },
+    {
+      "id": "appointment.enigmatic",
+      "label": "隐秘理事",
+      "desc": "隐秘理事主管隐藏或揭示学会的秘密。"
+    },
+    {
+      "id": "rose",
+      "label": "引",
+      "desc": "“指引一切的罗盘玫瑰”。通向新视界的九重引导。[探索？启迪？希望？]"
+    },
+    {
+      "id": "zwinter",
+      "label": "冬[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>冬</b>。]"
+    },
+    {
+      "id": "boost.grail",
+      "label": "提升：杯"
+    },
+    {
+      "id": "fuel",
+      "label": "燃料",
+      "desc": "“司辰各有其色彩。火焰各有其燃料。不要相信你的梦。”——乔治·科勒斯，布兰库格监狱第一位也是最后一位典狱长"
+    },
+    {
+      "id": "dist",
+      "label": "距离（内部文本？）",
+      "desc": "分发，大量流出，可能需要重新命名（内部文本？）"
+    },
+    {
+      "id": "codex",
+      "label": "典籍",
+      "desc": "内页、封皮、书脊、知识，都像器官一样被妥善地收纳于其中。"
+    },
+    {
+      "id": "forgetting.persistent",
+      "label": "遗忘（内部文本？）",
+      "desc": "(recipe aspect)——设置回忆为隐退做好准备，甚至是那些存留的（内部文本？）"
+    },
+    {
+      "id": "retiring.arthur",
+      "label": "与亚瑟永别",
+      "desc": "(recipe aspect - 与亚瑟永别)"
+    },
+    {
+      "id": "edge",
+      "label": "刃",
+      "desc": "一切征服都在<b>刃</b>处开始。有一位居于此处之人目盲且不受创伤。而另一位，则是强力无匹，且越战越强。[<b>刃</b>是战斗与抗争的准则。]"
+    },
+    {
+      "id": "mystery.heart",
+      "label": "奥秘：心",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "b.preservation",
+      "label": "主题：保存术",
+      "desc": "关于治愈与修复之经文。"
+    },
+    {
+      "id": "cost.tally",
+      "label": "以账筹计价",
+      "desc": "无形世界用于计价的面额；只能以不同寻常的货币支付，例如被称作<i>斯宾特里亚</i>的古币。"
+    },
+    {
+      "id": "period.curia",
+      "label": "决议会时期",
+      "desc": "18世纪，一群研究隐秘学识的学者们成立了“岛屿决议会”以管理噤声居屋，使之成为知识的庇护所，直到1896年，某位名声扫地的图书管理员使噤声居屋陷入贫困。"
+    },
+    {
+      "id": "malady.cure.grail",
+      "label": "以杯治愈",
+      "desc": "此病症可以通过卧床及适意诱人的饮品治愈，与之同等级的<b>杯</b>相将使人回想起肉体的真实。"
+    },
+    {
+      "id": "grail",
+      "label": "杯",
+      "desc": "食、色、性，有溺而无还者也。[<b>杯</b>是生育与飨宴的准则。]"
+    },
+    {
+      "id": "fear.devourers",
+      "label": "恐惧：吞噬者",
+      "desc": "此人知晓隐秘世界中的种种危险：吸血阿卢卡，漫宿灵体，饥饿幽魂……"
+    },
+    {
+      "Label": "了解拉丁语",
+      "id": "u.latin",
+      "desc": "（如我一般。）"
+    },
+    {
+      "id": "satisfying.echidna",
+      "label": "满足厄客德娜",
+      "desc": "以确保我们不会误把一位将永别的访客也一齐满足。"
+    },
+    {
+      "id": "agenda.better.gods",
+      "label": "计划：更佳诸神",
+      "desc": "此人希望创造司辰的替代品。"
+    },
+    {
+      "id": "upgrading.out",
+      "label": "提升：向外",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "reading.lantern",
+      "label": "我读到……"
+    },
+    {
+      "id": "upgrading",
+      "label": "提升",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "malady.inflicting",
+      "label": "病症：罹患！"
+    },
+    {
+      "id": "form.order",
+      "label": "订单"
+    },
+    {
+      "id": ".sha",
+      "label": ""
+    },
+    {
+      "id": "boost.edge",
+      "label": "提升：刃"
+    },
+    {
+      "id": ".cho",
+      "label": ""
+    },
+    {
+      "id": "film",
+      "label": "胶卷",
+      "desc": "这让你想到<i>书籍</i>是可燃的。[这件物品只在广义上是“可读的”。找一台投影仪来播放它。]"
+    },
+    {
+      "Label": "以希腊语写就",
+      "id": "w.greek",
+      "desc": "一门属于哲学家、神学家和英雄的语言。[图书管理员读得懂希腊语，但别假定其他人也能。]"
+    },
+    {
+      "id": "tool",
+      "label": "工具",
+      "desc": "猿猴得以击败甲虫的原因之一。"
+    },
+    {
+      "id": "heart",
+      "label": "心",
+      "desc": "为了保护我们所知世界的表皮，不息之心无尽地搏动着。[<b>心</b>是长存与延续的准则。]"
+    },
+    {
+      "id": "agenda.stone.consumed",
+      "label": "计划：吞噬石神",
+      "desc": "此人将焚烧或粉碎石源神的残余，从而为自身的目的添柴加薪。"
+    },
+    {
+      "id": "reading.winter.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "exalted.flower",
+      "label": "已强化：花",
+      "desc": "一瞬的灵感提高了这名助手今天的能力。"
+    },
+    {
+      "id": "w.birdsong",
+      "label": "鸟鸣学",
+      "desc": "音乐、谜语、杂记。一位对此嗤之以鼻的学者曾言：“与其说是智慧，不如说是在漫长岁月中圣化的流言蜚语。”"
+    },
+    {
+      "id": "memories.executioner",
+      "label": "记忆：处刑者",
+      "desc": "“我曾受雇于防剿局，消灭那些行走于黑夜之物，以保护白昼的世界。多年来，我始终忠于职守……但有时我的猎物会在我屠戮它们时鸣泣。因此，最终我放下屠刀，来到此地，来到这个我无法再伤害它们的地方。或许我甚至能偿赎罪孽。”"
+    },
+    {
+      "id": "fatiguing.spintria",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "mastering.forge",
+      "label": "掌握：铸",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "Label": "了解渊深曼达安语",
+      "id": "u.mandaic",
+      "desc": "此人了解这门引发共鸣的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "uqnumen",
+      "label": ""
+    },
+    {
+      "id": "memories.revolutionary",
+      "label": "记忆：革命者",
+      "desc": "“‘知识是压迫者的噩梦。’我已推翻我那份世俗的压迫，但根冠是永恒的暴君。只有当我们最终能够直呼其名且活下来时——我们才可宣称自己是自由的。”"
+    },
+    {
+      "id": "mastery.scale",
+      "label": "精通：鳞",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "fruit",
+      "label": "果实",
+      "desc": "植物之子宫？"
+    },
+    {
+      "id": "sympathy.carapace",
+      "label": "偏向：介壳种",
+      "desc": "此人了解介壳种的可能性：结盟，觉醒。"
+    },
+    {
+      "id": "fear.carapace",
+      "label": "恐惧：介壳种",
+      "desc": "此人知晓介壳种或会吞噬人类……或将其转变的面目全非。"
+    },
+    {
+      "id": "boost.heart",
+      "label": "提升：心"
+    },
+    {
+      "id": "appointment.persistent",
+      "label": "存续理事",
+      "desc": "存续理事担负着维持护学会存在的最高责任。"
+    },
+    {
+      "id": "numatic",
+      "label": "……？",
+      "desc": "这是来自闰时的某物或某人——在闰时，“似然”和“确然”在“历史”和“永恒”间交锋。"
+    },
+    {
+      "id": "considerable",
+      "label": "可研究",
+      "desc": "我可以通过<b>研究</b>这件物品来收集更多有关信息。"
+    },
+    {
+      "Label": "以萨巴佐因语写就",
+      "id": "w.sabazine",
+      "desc": "一门神秘的语言。"
+    },
+    {
+      "id": "fatiguing.memory",
+      "label": "厌倦一种回忆",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "exalted.collaboration",
+      "label": "协作",
+      "desc": "今天你和这名助手合作。"
+    },
+    {
+      "Label": "以赫沃尔语写就",
+      "id": "w.henavek",
+      "desc": "一门被遗忘的语言。"
+    },
+    {
+      "id": "agenda.stone.remembered",
+      "label": "计划：铭记石神",
+      "desc": "此人将忆起或保护石源神的残余。"
+    },
+    {
+      "id": "provisioning",
+      "label": "Provisioning（内部文本？）",
+      "desc": "To provoke offsyage effects from e.g. order forms（内部文本？）"
+    },
+    {
+      "id": "appointment.salvant",
+      "label": "护理理事",
+      "desc": "护理理事主管学会的治愈与修复工作。"
+    },
+    {
+      "id": "reading.rose",
+      "label": "我读到……"
+    },
+    {
+      "Label": "了解希腊语",
+      "id": "u.greek",
+      "desc": "（如我一般。）"
+    },
+    {
+      "id": "run.day",
+      "label": "一日欢宴",
+      "desc": "[这位访客正忙于解决手头的要务。明天再来吧。]"
+    },
+    {
+      "id": "satisfying",
+      "label": "令人满意",
+      "desc": "例如帮助一位访客。我们既可以用它来标记他们的登船，也可以用它来进行满意度的评价。（内部文本？）"
+    },
+    {
+      "id": "employable",
+      "label": "可雇佣",
+      "desc": "可雇佣此人一日。"
+    },
+    {
+      "id": "prefs.dagmar",
+      "desc": "妲格玛偏好含有<sprite name=knock>的食物和饮品。"
+    },
+    {
+      "id": "reading.edge.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "manuscript",
+      "label": "手稿",
+      "desc": "是我写成了它；我无法靠阅读它学到任何新知识，但访客们可以。"
+    },
+    {
+      "id": "infinitereadable",
+      "label": "并非孤本",
+      "desc": "[这本书有许多版本。每个版本都可以阅读；一旦某个时代的书籍全部编目完毕，你就会开始发现它们。]"
+    },
+    {
+      "id": "zlantern",
+      "label": "灯[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>灯</b>。]"
+    },
+    {
+      "id": "inspiring.agenda.autarchy",
+      "label": "计划：自治"
+    },
+    {
+      "id": "opportunity.realise",
+      "label": "实现机会",
+      "desc": "配方性相：在相应的回忆中增添一种额外的可能性，以便在后续的调和中触发新的选择。（内部文本？）"
+    },
+    {
+      "id": "zmoth",
+      "label": "蛾[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>蛾</b>。是的它会。不对它不会。是的它会。是的它可能会。]"
+    },
+    {
+      "id": "uqchaq",
+      "label": ""
+    },
+    {
+      "id": "incident",
+      "label": "事件",
+      "desc": "访客感兴趣的事项。[一个事件通常会持续数个时节；访客们将在下次事件发生前的间隙继续来访。]"
+    },
+    {
+      "id": "difficulty.prentice",
+      "label": "入门级挑战",
+      "desc": "简单的技术仅需技艺本身。[基础的配方需要提供五点相关性相。]"
+    },
+    {
+      "id": "prefs.azita",
+      "desc": "阿齐塔偏好含有<sprite name=edge>的食物和饮品。"
+    },
+    {
+      "id": "convo.phost",
+      "label": "C：明识"
+    },
+    {
+      "id": "reading.rose.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "b.birdsong",
+      "label": "主题：鸟鸣学",
+      "desc": "关于音乐、谜语、杂记之经文。"
+    },
+    {
+      "id": "zheart",
+      "label": "心[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>心</b>。]"
+    },
+    {
+      "id": "qf",
+      "label": "QF（内部文本？）",
+      "desc": "Xtrigger-rehydrate suitabiliser（内部文本？）"
+    },
+    {
+      "id": "skillingup",
+      "label": "技艺",
+      "desc": "万物皆可习得；万物皆可忘却。"
+    },
+    {
+      "id": "friend",
+      "label": "朋友",
+      "desc": "一个很了解你而足以信任你的人。"
+    },
+    {
+      "id": "sympathy.ys",
+      "label": "偏向：伊苏",
+      "desc": "此人了解与伊苏结盟的薄弱优势。"
+    },
+    {
+      "id": "cache",
+      "label": "藏存之物",
+      "desc": "这里面肯定封存着什么有意思的东西！[对此物进行<b>研究</b>。]"
+    },
+    {
+      "id": "zrose",
+      "label": "引[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>引</b>。]"
+    },
+    {
+      "id": "reading.sky",
+      "label": "我读到……"
+    },
+    {
+      "id": "prefs.arun",
+      "desc": "阿伦偏好含有<sprite name=moon>的食物和饮品。"
+    },
+    {
+      "id": "sustenance",
+      "label": "食物",
+      "desc": "“愚者会为吃喝而生存，智者会为生存而吃喝。”——苏格拉底"
+    },
+    {
+      "id": "pigment",
+      "label": "颜料",
+      "desc": "唤作色彩，唤作渍染，唤作待琢之珠玉。"
+    },
+    {
+      "id": "mastery.edge",
+      "label": "精通：刃",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "zgrail",
+      "label": "杯[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>杯</b>。]"
+    },
+    {
+      "id": "device",
+      "label": "装置",
+      "desc": "只能运行一次的机器。倘若它是个<i>暴脾气</i>的装置，这就意味着它会爆炸，所以要小心。"
+    },
+    {
+      "id": "fatiguing.ingredients",
+      "label": "使用各种各样的物品",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "seed",
+      "label": "种子",
+      "desc": "一颗种子在某个花园中可能比在其他花园里长势差，而在某个时节中可能比在其他时节里长势好。"
+    },
+    {
+      "id": "record.phonograph",
+      "label": "唱片",
+      "desc": "纹路的迷宫正热切地等待着唱针到来。[这件物品只在广义上是“可读的”。找一台留声机来播放它。]"
+    },
+    {
+      "id": "scrutiny",
+      "label": "研究",
+      "desc": "某物正在被查验或揭示。"
+    },
+    {
+      "id": "period.baronial",
+      "label": "男爵时期",
+      "desc": "16世纪，德沃尔夫家族被封为布兰库格男爵，他们将这座岛屿作为私人地产统治——直至1759年，他们的血脉在疯狂与死亡中终结。"
+    },
+    {
+      "id": "covenant",
+      "label": "盟约",
+      "desc": "——（内部文本？）"
+    },
+    {
+      "id": "mastering.moon",
+      "label": "掌握：月",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "workstationhasaspect",
+      "label": "圣所",
+      "desc": "[此地是某种意义上的圣所，这意味着它本身就能提供性相。]"
+    },
+    {
+      "id": "beverage",
+      "label": "饮品",
+      "desc": "有些饮品适合在早上饮用……有些则更适合在晚上。"
+    },
+    {
+      "id": "zsky",
+      "label": "穹[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>穹</b>。]"
+    },
+    {
+      "id": "key",
+      "label": "钥匙",
+      "desc": "“灵魂中被称为<i>辩闻</i>的部分被留在漫宿的纯白之门外，如同留在门上的钥匙。”（若按照高贵之举社团的说法，也可将其比作留在国王宫殿外的利剑。）"
+    },
+    {
+      "id": "retiring.yvette",
+      "label": "与伊薇特永别",
+      "desc": "(recipe aspect - retires Yvette permanently)"
+    },
+    {
+      "id": "ingredient",
+      "label": "食材",
+      "desc": "它将成为更伟大之物的一部分。[拥有《光之居屋》后，可以在厨房里用食材烹饪或制作食物。]"
+    },
+    {
+      "id": "mastering.lantern",
+      "label": "掌握：灯",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "correspondence",
+      "label": "来信",
+      "desc": "我可以在书桌前回信。"
+    },
+    {
+      "id": "mastery.rose",
+      "label": "精通：引",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "w.hushery",
+      "label": "静默术",
+      "desc": "伟大之术中的静默术理解沉默，及其分离之美。"
+    },
+    {
+      "id": "b.skolekosophy",
+      "label": "主题：蠕虫学",
+      "desc": "关于不应成文之经文。"
+    },
+    {
+      "id": "unsociable",
+      "label": "不愿交际",
+      "desc": "[带有“不愿交际”标签的访客会对其他访客保持警惕。他们不会参加常规沙龙。]"
+    },
+    {
+      "id": "inspiring.agenda.peace",
+      "label": "计划：和平"
+    },
+    {
+      "id": "flower",
+      "label": "花",
+      "desc": "植物之发。"
+    },
+    {
+      "Label": "了解富奇诺语",
+      "id": "u.fucine",
+      "desc": "此人了解这门令人干渴的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "openair",
+      "label": "露天",
+      "desc": "群鸟与时节都可自由造访此地。"
+    },
+    {
+      "id": "inspiring.fear.nowhere",
+      "label": "恐惧：虚界"
+    },
+    {
+      "id": ".ere",
+      "label": ""
+    },
+    {
+      "id": "thing",
+      "label": "物品",
+      "desc": "“君子役物，小人役于物。”——荀子"
+    },
+    {
+      "id": "reading.moth.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "malady.cure.winter",
+      "label": "以冬治愈",
+      "desc": "该病症可通过卧床及合适的（也许是寒冷彻骨的）饮品治愈，与之同等级的<b>冬</b>相将缓和敏感脆弱的灵魂。"
+    },
+    {
+      "id": "spencer",
+      "label": "斯宾塞"
+    },
+    {
+      "id": "boost.forge",
+      "label": "提升：铸"
+    },
+    {
+      "id": "memories.archaeologist",
+      "label": "记忆：考古学家",
+      "desc": "“我曾掘开一座坟墓，却寻得一座监牢——但我发现得太迟了。如今，我所释放的瘟疫成了我的影子——亦或我才是它的倒影。纠正事态为时已晚，但保护未来免受过去的伤害永远不算迟。我在噤声居屋无法伤害他者。或许，我还能偿赎罪孽。”"
+    },
+    {
+      "id": "state.torn",
+      "label": "Torn（疑似未实装？）",
+      "desc": "- torn - （疑似未实装？）"
+    },
+    {
+      "id": "remains",
+      "label": "遗骸",
+      "desc": "凭此可辨何者终有一死。"
+    },
+    {
+      "id": "agenda.corrivality",
+      "label": "计划：角争",
+      "desc": "此人认为纷争对于世界的存续是必要的。"
+    },
+    {
+      "id": "arriving",
+      "label": "到达",
+      "desc": "（recipe aspect）——访客已达到目的，将不再吸取。"
+    },
+    {
+      "id": "prefs.olympe",
+      "desc": "奥兰普偏好含有<sprite name=forge>的食物和饮品。"
+    },
+    {
+      "Label": "以夜魄语写就",
+      "id": "w.killasimi",
+      "desc": "一门织就的语言。"
+    },
+    {
+      "Label": "了解亚兰语",
+      "id": "u.aramaic",
+      "desc": "（如我一般。）"
+    },
+    {
+      "id": "forgetting",
+      "label": "遗忘（内部文本？）",
+      "desc": "(recipe aspect)——设置回忆为隐退做好准备（内部文本？）"
+    },
+    {
+      "id": "difficulty.keeper",
+      "label": "秘授级挑战",
+      "desc": "仅容聪慧之人、伟大之人和那些最幸运的蠢货通过。[最具挑战性的配方需要提供十五点相关性相。每个秘授级配方还需要一份特定的原料——理想的原料可能意味着更低的性相需求。]。"
+    },
+    {
+      "id": "wood",
+      "label": "木材",
+      "desc": "对某些人来说是天空的支柱，对另一些人来说则是将制的纸张。"
+    },
+    {
+      "id": "reluctant",
+      "label": "勉勉强强",
+      "desc": "此人会提供帮助……但只是<i>基本的</i>帮助。"
+    },
+    {
+      "id": "retiring.azita",
+      "label": "与阿齐塔永别",
+      "desc": "(recipe aspect - 与阿齐塔永别)"
+    },
+    {
+      "id": ".pho",
+      "label": ""
+    },
+    {
+      "id": "wc.markeraspect",
+      "label": "wcma",
+      "desc": "NO NEED TO LOCALISE THIS Marker aspect for writing case so it can go in village slots without confusing non-HOL players. Cleaner to use 'blank' but then we get branch creep."
+    },
+    {
+      "id": "glass",
+      "label": "玻璃",
+      "desc": "透亮而脆弱。即便是沙子，有朝一日也能成为石之眼眸。"
+    },
+    {
+      "id": "retiring.chaima",
+      "label": "与柴玛永别",
+      "desc": "(recipe aspect - 与柴玛永别)"
+    },
+    {
+      "id": "numa.other.visitors.arrive",
+      "label": "其他闰时访客到达",
+      "desc": "(recipe aspect) - 例如斯宾塞"
+    },
+    {
+      "id": "prefs.corso",
+      "desc": "科尔索偏好含有<sprite name=grail>的食物和饮品。"
+    },
+    {
+      "id": ".tri",
+      "label": ""
+    },
+    {
+      "id": "memories.symurgist",
+      "label": "记忆：鸟慧者",
+      "desc": "“我偷听了鸟形司辰的歌声。我曾被警告过：我会失去我的思想，我的灵魂，我的表皮。这并无半点虚假，但从未有人告诫过你侥幸逃脱后会发生什么……也就是说，从那之后，就再也没有什么值得倾听的事了。”"
+    },
+    {
+      "id": "retiring.wisp",
+      "label": "与幽荧永别",
+      "desc": "(recipe aspect - retires Wisp permanently)"
+    },
+    {
+      "id": "encaustum",
+      "label": "终刻墨",
+      "desc": "“历史必将善待于我，因为我将要书写它。”——丘吉尔[使用终刻墨来做出会产生深远影响的决定。]"
+    },
+    {
+      "id": "agenda.peace",
+      "label": "计划：和平",
+      "desc": "此人认为对抗与战争可能为世界毁灭的原因。"
+    },
+    {
+      "id": "forge",
+      "label": "铸",
+      "desc": "我曾经看到过这样一句话，“火是严冬，却是带有温度。火是暖春，却会耗尽一切。”[<b>铸</b>是变换与毁灭的准则。]"
+    },
+    {
+      "Label": "以拉姆桑德语写就",
+      "id": "w.ramsund",
+      "desc": "一门生动的语言。"
+    },
+    {
+      "id": "retiring.liselotte",
+      "label": "与莉泽洛特永别",
+      "desc": "(recipe aspect - retires Liselotte permanently)"
+    },
+    {
+      "id": "fixed",
+      "label": "位置固定",
+      "desc": "不用足以损坏它的力量，我就没法把这东西取下来……而居屋的图书管理员不会如此粗鲁。"
+    },
+    {
+      "id": "fatiguing.beverage",
+      "label": "专门针对饮品",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "season.cleanup",
+      "label": "清除时节"
+    },
+    {
+      "id": "memory",
+      "label": "回忆",
+      "desc": "所铭记的或许就是所理解的。[回忆可以帮助完成配方或升级技艺。回忆会在每天拂晓消失——除了那些存留的回忆。]"
+    },
+    {
+      "id": "knock",
+      "label": "启",
+      "desc": "被称作<b>启</b>的准则不允许封闭和孤立存在。它欢快地将我们推出无知的庇护。[<b>启</b>是开启与拆解的准则。]"
+    },
+    {
+      "id": "b.ithastry",
+      "label": "主题：盗火术",
+      "desc": "关于炼金术、冶金学、烟火工艺之经文。"
+    },
+    {
+      "id": "memories.magnate",
+      "label": "记忆：富豪",
+      "desc": "“我已活过漫长岁月，但我仍未准备好逝去。我已品尝过世间百味，可我仍未因此满足。给我静默；给我安宁；给我雪一般的安宁。”"
+    },
+    {
+      "id": "prefs.aladim",
+      "desc": "阿迪姆偏好含有<sprite name=scale>的食物，并且绝不会碰酒精饮料。"
+    },
+    {
+      "id": "w.skolekosophy",
+      "label": "蠕虫学",
+      "desc": "对那些不应研究的事物的研究。有些人称它为一种智慧。"
+    },
+    {
+      "id": "beast",
+      "label": "兽类",
+      "desc": "它会动，但既不是风，也不是人。"
+    },
+    {
+      "id": "assistance",
+      "label": "协助",
+      "desc": "图书管理员离群索居。但你也不必因此羞于向他人寻求帮助。[助手可以帮你开启新的房间或帮助研究。助手卡在使用后或拂晓来临时会消失。]"
+    },
+    {
+      "id": "reading.forge.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "mystery.rose",
+      "label": "奥秘：引",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "prefs.coquille",
+      "desc": "科基尔偏好含有<sprite name=grail>的食物和饮品。"
+    },
+    {
+      "id": "mystery.forge",
+      "label": "奥秘：铸",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "fear.chandler",
+      "label": "恐惧：制烛人",
+      "desc": "此人知晓制烛人降临将带来的危险。"
+    },
+    {
+      "id": "zknock",
+      "label": "启[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>启</b>。]"
+    },
+    {
+      "id": "replying",
+      "label": "回复",
+      "desc": "回复来信。"
+    },
+    {
+      "id": "reading.nectar.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "delivery",
+      "label": "快递",
+      "desc": "给我的？"
+    },
+    {
+      "id": "ability.setup",
+      "label": "魂质？",
+      "desc": "人类的灵魂由九种元素构成……[借助你的日记，忆起你的身份。]"
+    },
+    {
+      "id": "boost.knock",
+      "label": "提升：启"
+    },
+    {
+      "id": "wallart",
+      "label": "墙饰",
+      "desc": "你可以将整栋房子描述成一本书，虽然给它编目会很麻烦。"
+    },
+    {
+      "id": "boost.moon",
+      "label": "提升：月"
+    },
+    {
+      "id": "hidden.mihail.altar",
+      "label": "米哈尔于祭坛上"
+    },
+    {
+      "Label": "了解希克索斯语",
+      "id": "u.hyksos",
+      "desc": "此人了解这门诡谲的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "restorative",
+      "label": "促进复元",
+      "desc": "有益休息与恢复。[此物可以帮助你治愈病症。你可以在床上使用它并配以合适的力量性相，不过如果它本身就具备足够的力量性相，后者就并非必要。]"
+    },
+    {
+      "id": "stone",
+      "label": "岩石",
+      "desc": "“寻求耐心者，此为尔等之导师。”"
+    },
+    {
+      "id": "reading.lantern.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "reading.heart.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": ".met",
+      "label": ""
+    },
+    {
+      "id": "exalted.wood",
+      "label": "已强化：木材",
+      "desc": "一种有用的材料提高了这名助手今天的能力。"
+    },
+    {
+      "id": "mark",
+      "label": "印迹",
+      "desc": "一抹脆弱的，不稳定的痕迹。"
+    },
+    {
+      "id": "offering.remove",
+      "label": "移走祭品",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "sympathy.reckoners",
+      "label": "偏向：清算人",
+      "desc": "此人了解与年岁商人合作的益处。"
+    },
+    {
+      "id": "woven",
+      "label": "织物",
+      "desc": "[可在工作台上加工为碎布。]"
+    },
+    {
+      "Label": "了解萨巴佐因语",
+      "id": "u.sabazine",
+      "desc": "此人了解这门神秘的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "mystery.sky",
+      "label": "奥秘：穹",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "reading.forge",
+      "label": "我读到……"
+    },
+    {
+      "id": "boost.sky",
+      "label": "提升：穹"
+    },
+    {
+      "id": "course.side",
+      "label": "配菜",
+      "desc": "通常作为小吃，或与主菜搭配享用。"
+    },
+    {
+      "id": "memories.twiceborn",
+      "label": "记忆：二度降生者",
+      "desc": "“我记得，我曾作为没有实体的不朽者漫步于太阳的居屋，但有件事只有我重获肉身才能解决。如今，若我重返太阳的居屋，我将被追捕并遭惩罚；若我仍留存于肉身，我将被追捕并遭吞噬。我需要第三种选择。作为图书管理员，留在噤声居屋，就是第三种选择。但或许不止于此。”"
+    },
+    {
+      "id": "mastering.edge",
+      "label": "掌握：刃",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "inspiring.agenda.stone.remembered",
+      "label": "计划：铭记石神"
+    },
+    {
+      "id": "reading.moth",
+      "label": "我读到……"
+    },
+    {
+      "id": "inspiring.fear.chandler",
+      "label": "恐惧：制烛人"
+    },
+    {
+      "id": "inspiring.agenda.revelation",
+      "label": "计划：揭示"
+    },
+    {
+      "id": "weather",
+      "label": "天气",
+      "desc": "每种天气都会带来不同的影响。我可以将其作为回忆使用。"
+    },
+    {
+      "id": "memories.prodigal",
+      "label": "记忆：浪子",
+      "desc": "“我的父母是长生者，也就是不朽的存在，而长生者禁止生育子嗣。他们所受的惩罚即为：既然知道我还存活，就只能无休止地追逐，直到将我吞噬。在噤声居屋中，我是安全的。我甚至可能学会造出足以自卫的武器。”"
+    },
+    {
+      "id": "season",
+      "label": "时节",
+      "desc": "时日往复。"
+    },
+    {
+      "id": "payment",
+      "label": "付款",
+      "desc": "目前这只会移除整个硬币。若有了一些额外的行动，它应会有所改变。（内部文本？）"
+    },
+    {
+      "id": "mastery.sky",
+      "label": "精通：穹",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "exalted.metal",
+      "label": "已强化：金属",
+      "desc": "一种有用的金属提高了这名助手今天的能力。"
+    },
+    {
+      "id": "visitor.villager",
+      "label": "访客：村民",
+      "desc": "某位布兰库格人接受了来自居屋的邀请。[你一次只能邀请一位村民来居屋。]"
+    },
+    {
+      "id": "reading.moon.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "lesson",
+      "label": "教诲",
+      "desc": "智慧阶梯上的一小步。[使用它来习得或提升技艺。]"
+    },
+    {
+      "id": "scroll",
+      "label": "卷轴",
+      "desc": "一本书页很长的书。"
+    },
+    {
+      "id": "difficulty.rarities",
+      "label": "难关：珍品",
+      "desc": "[这一等级的相关性相会给你一个发现珍品的机会。]"
+    },
+    {
+      "id": "w.illumination",
+      "label": "照明术",
+      "desc": "照明术学者净化自我及其周遭。最终，人们往往看不出两者之间的任何区别。"
+    },
+    {
+      "id": "exalted.candle",
+      "label": "已强化：蜡烛",
+      "desc": "这名助手有一盏照亮黑暗的明灯，这能提高他们今天的能力。"
+    },
+    {
+      "id": "outofbounds",
+      "label": "边境之外",
+      "desc": "此地坐落于居屋的边境之外。"
+    },
+    {
+      "id": "moon",
+      "label": "月",
+      "desc": "秘密轻柔；夜柔更甚；大海低语。而倾听未必总是明智。[行于夜者，被遗忘者。]"
+    },
+    {
+      "id": "omen",
+      "label": "预兆",
+      "desc": "知者能见，见者方知。"
+    },
+    {
+      "id": "malady.cure.nectar",
+      "label": "以蜜治愈",
+      "desc": "该病症可以通过卧床及合适的（也许是翠绿而使人镇静的）饮品治愈，与之同等级的<b>蜜</b>相将使狂热的灵魂重回清醒。"
+    },
+    {
+      "id": "light",
+      "label": "光源",
+      "desc": "因此我们得以见物，或者说，因此我们得以庆祝。"
+    },
+    {
+      "id": "fabric",
+      "label": "布料与丝缕",
+      "desc": "夜魄语，“织就的语言”，以丝线织就而非用墨水书写。当然了，丝线也有其他乏味一点的用途。内饰这个话题能比听上去的更新奇。"
+    },
+    {
+      "id": "reading.knock.intro",
+      "label": "正在阅读……"
+    },
+    {
+      "id": "w.preservation",
+      "label": "保存术",
+      "desc": "治愈和恢复。一种不起眼的智慧，至少对那些从不怀疑世界为何仍然存续的人来说。"
+    },
+    {
+      "id": "study",
+      "label": "研究",
+      "desc": "某些事物（通常是书籍）曾被细细钻研。（内部文本？）"
+    },
+    {
+      "id": "boost.winter",
+      "label": "提升：冬"
+    },
+    {
+      "id": "mystery.edge",
+      "label": "奥秘：刃",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "convo.ereb",
+      "label": "C：黯晦",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "gem",
+      "label": "宝石",
+      "desc": "时而闪亮；总是珍稀。"
+    },
+    {
+      "id": "intoxicating",
+      "label": "含酒精",
+      "desc": "“快，给我杯酒，让我能润润脑子，讲些聪明话。”——阿里斯托芬"
+    },
+    {
+      "id": "writing",
+      "label": "Writing（内部文本？）",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "retiring.zachary",
+      "label": "与扎迦利永别",
+      "desc": "(recipe aspect - 与扎迦利永别)"
+    },
+    {
+      "id": "recovering.ability",
+      "label": "回复一种能力（内部文本？）",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "malady.cure.forge",
+      "label": "以铸治愈",
+      "desc": "此病症可以通过卧床及令人振奋的饮品治愈，与之同等级的<b>铸</b>相将从灵魂中升腾起丛丛蒸汽。"
+    },
+    {
+      "id": "beverage.raveline",
+      "label": "饮品：拉维林酒",
+      "desc": "[Invisible marker aspect for the various Raveline wine objects]"
+    },
+    {
+      "id": "malady.cure.lantern",
+      "label": "以灯治愈",
+      "desc": "此病症可以通过卧床及合适的（也许是明亮而充满生机的）饮品治愈，与之同等级的<b>灯</b>相将重新点亮灵魂之光。"
+    },
+    {
+      "id": "leaf",
+      "label": "叶",
+      "desc": "植物之手。"
+    },
+    {
+      "id": "retiring.spencer",
+      "label": "与斯宾塞永别",
+      "desc": "(recipe aspect - retires Spencer permanently)"
+    },
+    {
+      "id": "mastery.heart",
+      "label": "精通：心",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "liquid",
+      "label": "液体",
+      "desc": "“何物去往低处，逃离高处，且不受任何铸造的锁链束缚？”"
+    },
+    {
+      "id": "drying",
+      "label": "干燥中",
+      "desc": "(recipe aspect)"
+    },
+    {
+      "id": "advancing",
+      "label": "提前",
+      "desc": "(recipe aspect)"
+    },
+    {
+      "id": "connie.resigning",
+      "label": "康妮辞职",
+      "desc": "(recipe aspect——康妮离开防剿局)"
+    },
+    {
+      "id": "hanging",
+      "label": "帷幔",
+      "desc": "装饰大厅。"
+    },
+    {
+      "Label": "以厄里卡帕奥语写就",
+      "id": "w.ericapaean",
+      "desc": "一门优雅的语言。"
+    },
+    {
+      "id": "kod",
+      "label": "未发布",
+      "desc": "这里需要的东西没有人有。[这标志着此材料只能在以后使用或完成；在这个早期版本中没有。]"
+    },
+    {
+      "id": "mastering.rose",
+      "label": "掌握：引",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "exalted.pigment",
+      "label": "已强化：颜料",
+      "desc": "一抹奇异的颜料提高了这名助手今天的能力。"
+    },
+    {
+      "id": "mastering.winter",
+      "label": "掌握：冬",
+      "desc": "施展各类技艺的诀窍。"
+    },
+    {
+      "id": "uqdog",
+      "label": ""
+    },
+    {
+      "id": "sound",
+      "label": "声音",
+      "desc": "寂静之前，寂静之后。"
+    },
+    {
+      "id": "fee",
+      "label": "费用",
+      "desc": "雇佣此人工作一天的价格。"
+    },
+    {
+      "id": "boost.moth",
+      "label": "提升：蛾"
+    },
+    {
+      "id": "malady.cure.sky",
+      "label": "以穹治愈",
+      "desc": "该病症可通过卧床及合适的（也许是起泡的）饮品治愈，与之同等级的<b>穹</b>相将振奋忧虑不安的灵魂。"
+    },
+    {
+      "Label": "以伐诃语写就",
+      "id": "w.vak",
+      "desc": "一门自满的语言。"
+    },
+    {
+      "id": "memories.artist",
+      "label": "记忆：艺术家",
+      "desc": "“达达主义只是开始。超现实主义者的宣言？那是前进路上的一步，但仅仅只是一步。这条路要么通往无处，要么就必然通往林地。这是一条我们只能在黑暗中前行的路。不，等下，不是‘在黑暗中’。是‘在鲜血中’，‘<i>深及髋部</i>的鲜血中’。啊闭嘴。把笔给我，我来写——”"
+    },
+    {
+      "id": "course.pudding",
+      "label": "甜点",
+      "desc": "“你要是不把碗里的肉吃完，就别想吃甜点。肉都没吃完还想吃甜点？”——罗格·沃特斯"
+    },
+    {
+      "id": "exalted.tool",
+      "label": "已强化：工具",
+      "desc": "借用工具提高了这名助手今天的能力。"
+    },
+    {
+      "id": "reading.moon",
+      "label": "我读到……"
+    },
+    {
+      "id": "reading.correspondence",
+      "label": "信上写着……"
+    },
+    {
+      "id": "lyterion",
+      "label": "莱特里昂",
+      "desc": "与莱特里昂有关的知识可以放入此处。"
+    },
+    {
+      "id": "mystery.lantern",
+      "label": "奥秘：灯",
+      "desc": "更艰深的挑战需要更强力的技艺。"
+    },
+    {
+      "id": "mastery.forge",
+      "label": "精通：铸",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "prefs.arthur",
+      "desc": "亚瑟偏好含有<sprite name=lantern>的食物和饮品。"
+    },
+    {
+      "id": "mastery.lantern",
+      "label": "精通：灯",
+      "desc": "我对这些文本相当熟悉了。"
+    },
+    {
+      "id": "inspiring.agenda.stone.consumed",
+      "label": "计划：吞噬石神"
+    },
+    {
+      "id": "readable",
+      "label": "可读",
+      "desc": "世上总有更不堪入目的东西。"
+    },
+    {
+      "id": "zscale",
+      "label": "鳞[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>鳞</b>。]"
+    },
+    {
+      "id": "moth",
+      "label": "蛾",
+      "desc": "我知道有一个人会将蛾子捉来关在玻璃罩下。然后在如今夜一般的夜晚，将它们逐个放出，令其死于火烛。[<b>蛾</b>，狂野又凶险，是混沌与渴慕的准则。]"
+    },
+    {
+      "id": "inspiring.sympathy.chandler",
+      "label": "偏向：制烛人"
+    },
+    {
+      "id": "finished",
+      "label": "已完成",
+      "desc": "至少从某种意义上讲，这是完成；结束；终结。"
+    },
+    {
+      "id": "history",
+      "label": "历史",
+      "desc": "历史不是已然发生之事；是已知发生之事。[你做出了将改变世界进程的决定。在闰时把你的日记带到<b>树</b>下。]"
+    },
+    {
+      "id": "water",
+      "label": "水"
+    },
+    {
+      "id": "prefs.hokobald",
+      "desc": "霍科博尔德只享用含<sprite name=forge>的食物与饮品。"
+    },
+    {
+      "id": "boost.scale",
+      "label": "提升：鳞"
+    },
+    {
+      "id": "dissipating",
+      "label": "Dissipating（内部文本？）",
+      "desc": "(recipe aspect) - removes or sets ready for retirement temporary conditions (like dampness) - xpans at dawn（内部文本？）"
+    },
+    {
+      "id": "w.bosk",
+      "label": "丛林学",
+      "desc": "原始丛林之智慧；鲜少书写，常被感知。"
+    },
+    {
+      "id": "visitor",
+      "label": "访客",
+      "desc": "书籍进入与离开图书馆的主要途径。访客的到来可能会导致各种各样的影响。"
+    },
+    {
+      "Label": "以解踪语写就",
+      "id": "w.cracktrack",
+      "desc": "一门原始的语言。"
+    },
+    {
+      "Label": "了解拉姆桑德语",
+      "id": "u.ramsund",
+      "desc": "此人了解这门生动的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "reading.winter",
+      "label": "我读到……"
+    },
+    {
+      "id": "cache.bright.rarities",
+      "label": "闪耀珍品",
+      "desc": "何种闪耀珍宝？"
+    },
+    {
+      "id": "winter",
+      "label": "冬",
+      "desc": "……[<b>冬</b>是静默、终结和不尽然逝去之物的准则。]"
+    },
+    {
+      "id": "scale",
+      "label": "鳞",
+      "desc": "坚于表，固于里；难唤醒，更难抑。[此为大地深处原始力量的残余。]"
+    },
+    {
+      "id": "exalted.memory",
+      "label": "已强化：回忆",
+      "desc": "一段分享的回忆提高了这名助手今天的能力。"
+    },
+    {
+      "id": "zedge",
+      "label": "刃[疲劳]",
+      "desc": "[当这张卡恢复时，它将再次拥有这一等级的<b>刃</b>。]"
+    },
+    {
+      "id": "exalted.sustenance",
+      "label": "已强化：食物",
+      "desc": "享用食物提高了这名助手今天的能力。"
+    },
+    {
+      "id": "fear.nowhere",
+      "label": "恐惧：虚界",
+      "desc": "此人了解虚源诸神吞噬一切的恐怖。"
+    },
+    {
+      "id": "soiled",
+      "label": "脏污的",
+      "desc": "需要清洗的东西。"
+    },
+    {
+      "id": "b.horomachistry",
+      "label": "主题：司辰学",
+      "desc": "关于司辰（及其化身）所布法则（与分歧）之经文。"
+    },
+    {
+      "id": "malady",
+      "label": "病症",
+      "desc": "有什么东西缠上了我的灵魂，或是让其染病。[暴露在危险的影响下——作业失败时偶有发生——会使魂质卡被病症污染。染上病症的魂质不会枯竭，但会发生转变或弱化，若不及时处理将导致严重的后果。]"
+    },
+    {
+      "id": "inert",
+      "label": "未启动的",
+      "desc": "一样装置；但不会随便摆弄两下就启动。[将之用于<b>研究</b>不会消耗它；尽管其在用于制作时依然会被消耗。]"
+    },
+    {
+      "Label": "了解夜魄语",
+      "id": "u.killasimi",
+      "desc": "此人了解这门织就的语言，足以阅读此语或教授他人。"
+    },
+    {
+      "id": "prefs.zachary",
+      "desc": "扎迦利偏好含有<sprite name=winter>的食物和饮品。"
+    },
+    {
+      "id": "undiscovered",
+      "label": "未发现",
+      "desc": "[一旦你发现了这一配方，它的需求就会在这里显示。]"
+    },
+    {
+      "id": "introduction",
+      "label": "引见",
+      "desc": "即使在这个偏远的地方，人也能交到新的朋友，亦或是树立新的敌人。"
+    },
+    {
+      "id": "boost.nectar",
+      "label": "提升：蜜"
+    },
+    {
+      "id": "cleaning",
+      "label": "清洁中",
+      "desc": "(recipe aspect)（内部文本？）"
+    },
+    {
+      "id": "ink",
+      "label": "墨水",
+      "desc": "若行笔不畅，混匀就好。"
+    },
+    {
+      "id": "post.ready",
+      "label": "准备寄送",
+      "desc": "一旦信箱之力应许，这封信就会找到它的目的地……[把这份文件，以及用于邮票或汇票的现金一同带到邮局。]"
+    },
+    {
+      "id": "nectar",
+      "label": "蜜",
+      "desc": "世界脉络中的常绿珍宝；时节轮转的跃动脉搏。[很久以前，一些人把该准则称作“血”。]"
+    },
+    {
+      "id": "posting",
+      "label": "寄送中",
+      "desc": "这是用来在发送内容时引起评论的，因为“递送”于幕后。（内部文本？）"
+    },
+    {
+      "Label": "了解弗里吉亚语",
+      "id": "u.phrygian",
+      "desc": "（如我一般。）"
+    },
+    {
+      "id": "convo.shapt",
+      "label": "C：辩闻",
+      "desc": "triggers ability req in salons(no loc needed)"
+    },
+    {
+      "id": "appointment.nunciant",
+      "label": "通讯理事",
+      "desc": "通讯理事负责与其他组织沟通及洽谈。"
+    },
+    {
+      "id": "exalted.fuel",
+      "label": "已强化：燃料",
+      "desc": "一些燃料提高了这名助手今天的能力。"
+    },
+    {
+      "id": "prefs.douglas",
+      "desc": "道格拉斯偏好含有<sprite name=lantern>的食物和饮品。"
+    },
+    {
+      "id": "inspiring.fear.carapace",
+      "label": "恐惧：介壳种"
+    },
+    {
+      "id": "course.main",
+      "label": "主菜",
+      "desc": "一顿美餐的核心与支柱。"
+    },
+    {
+      "id": "tally",
+      "label": "账筹",
+      "desc": "无形世界的公认货币。十分之非官方，永是一贯如此。"
+    },
+    {
+      "id": "cache.sovereign.rarities",
+      "label": "王者珍品",
+      "desc": "何种王者瑰宝？"
+    },
+    {
+      "id": "prefs.fraser",
+      "desc": "弗雷泽偏好含有<sprite name=scale>的食物和饮品。"
+    }
+  ]
+}

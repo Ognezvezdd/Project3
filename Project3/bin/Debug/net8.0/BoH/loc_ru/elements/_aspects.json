@@ -1,0 +1,3180 @@
+﻿{
+  "elements": [
+    {
+      "id": ".cho",
+      "label": "Маркер: хор",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".ere",
+      "label": "Маркер: эреб",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".fet",
+      "label": "Маркер: фет",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".hea",
+      "label": "Маркер: здоровье",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".met",
+      "label": "Маркер: решимость",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".pho",
+      "label": "Маркер: фост",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".sha",
+      "label": "Маркер: шапт",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".tri",
+      "label": "Маркер: трист",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": ".wis",
+      "label": "Маркер: вист",
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "edge",
+      "label": "Грань",
+      "desc": "Грань – место, где свершаются все завоевания. Один из обитающих там слеп и не может быть ранен. Другой силён и делается всё сильнее. [Грань – принцип борьбы и битвы.]",
+      "isAspect": true,
+      "sort": "group1_primary.edge"
+    },
+    {
+      "id": "forge",
+      "label": "Кузня",
+      "desc": "«Огонь, – встретилось мне в одной книге, – есть зима, которая согревает, и весна, которая поглощает». [Кузня – принцип преображения и разрушения.]",
+      "isAspect": true,
+      "sort": "group1_primary.forge"
+    },
+    {
+      "id": "grail",
+      "label": "Чаша",
+      "desc": "Голод, похоть, манящая глубь. [Принцип Чаши чтит таинства рождения и пира.]",
+      "isAspect": true,
+      "sort": "group1_primary.grail"
+    },
+    {
+      "id": "heart",
+      "label": "Сердце",
+      "desc": "Немолчное Сердце бьётся, чтобы не разорвался покров зримого мира. [Сердце есть принцип продолжающий и сохраняющий.]",
+      "isAspect": true,
+      "sort": "group1_primary.heart"
+    },
+    {
+      "id": "knock",
+      "label": "Стук",
+      "desc": "Стук суть принцип, не терпящий замков и уединения. Он громогласно возвещает о себе, срывая с нас покровы невежества. [Стук открывает двери и ломает печати.]",
+      "isAspect": true,
+      "sort": "group1_primary.knock"
+    },
+    {
+      "id": "lantern",
+      "label": "Лампада",
+      "desc": "«Жизнь – чистое пламя; мы живём с невидимым солнцем внутри нас» (Томас Браун). [Лампада – принцип тайного места, которое иногда называют Домом Солнца, и света над ним.]",
+      "isAspect": true,
+      "sort": "group1_primary.lantern"
+    },
+    {
+      "id": "moon",
+      "label": "Луна",
+      "desc": "Тайны нежны; ночная тьма нежней; нам шепчет море. Порою безопаснее не слушать. [Всё, что принадлежит ночи; всё, что забыто.]",
+      "isAspect": true,
+      "sort": "group1_primary.moon"
+    },
+    {
+      "id": "moth",
+      "label": "Мотылёк",
+      "desc": "Я знал человека, что ловил мотыльков и сажал их под стеклянный колпак. В такие ночи он выпускал их одного за другим и смотрел, как они сгорают в пламени свечи. [Мотылёк – непредсказуемый и опасный принцип хаоса и стремлений.]",
+      "isAspect": true,
+      "sort": "group1_primary.moth"
+    },
+    {
+      "id": "nectar",
+      "label": "Нектар",
+      "desc": "Зелёное золото, бегущее по жилам мира. Всё, чем животворятся времена года. [Принцип, некогда именовавшийся Кровью.]",
+      "isAspect": true,
+      "sort": "group1_primary.nectar"
+    },
+    {
+      "id": "rose",
+      "label": "Роза",
+      "desc": "«Та, что вмещает в себе всё». Девять сторон света. Новые земли без числа. [Странствие? Просветление? Надежда?]",
+      "isAspect": true,
+      "sort": "group1_primary.rose"
+    },
+    {
+      "id": "scale",
+      "label": "Чешуя",
+      "desc": "Нелегко поранить, нелегко убить, нелегко поднять, ещё труднее упокоить. [Всё то, что ещё осталось от животной силы подземного мира.]",
+      "isAspect": true,
+      "sort": "group1_primary.scale"
+    },
+    {
+      "id": "sky",
+      "label": "Небо",
+      "desc": "Ветер, буря, эхо, песня; нюансы математики и принципы полёта. Рука закона легче, чем нам порою кажется. [К ведению Неба относятся вопросы равновесия, гармонии и необходимости.]",
+      "isAspect": true,
+      "sort": "group1_primary.sky"
+    },
+    {
+      "id": "winter",
+      "label": "Зима",
+      "desc": "... [Зима – принцип безмолвия, конца и всего, что застыло на границе жизни и смерти.]",
+      "isAspect": true,
+      "sort": "group1_primary.winter"
+    },
+    {
+      "id": "boost.edge",
+      "label": "Усиление: Грань",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.forge",
+      "label": "Усиление: Кузня",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.grail",
+      "label": "Усиление: Чаша",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.heart",
+      "label": "Усиление: Сердце",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.knock",
+      "label": "Усиление: Стук",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.lantern",
+      "label": "Усиление: Лампада",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.moon",
+      "label": "Усиление: Луна",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.moth",
+      "label": "Усиление: Мотылёк",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.nectar",
+      "label": "Усиление: Нектар",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.rose",
+      "label": "Усиление: Роза",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.scale",
+      "label": "Усиление: Чешуя",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.sky",
+      "label": "Усиление: Небо",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "boost.winter",
+      "label": "Усиление: Зима",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "mystery.edge",
+      "label": "Тайна: Грань",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.edge",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.forge",
+      "label": "Тайна: Кузня",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.forge",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.grail",
+      "label": "Тайна: Чаша",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.grail",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.heart",
+      "label": "Тайна: Сердце",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.heart",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.knock",
+      "label": "Тайна: Стук",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.knock",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.lantern",
+      "label": "Тайна: Лампада",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.lantern",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.moon",
+      "label": "Тайна: Луна",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.moon",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.moth",
+      "label": "Тайна: Мотылёк",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.moth",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.nectar",
+      "label": "Тайна: Нектар",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.nectar",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.rose",
+      "label": "Тайна: Роза",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.rose",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.scale",
+      "label": "Тайна: Чешуя",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.scale",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.sky",
+      "label": "Тайна: Небо",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.sky",
+      "isAspect": true
+    },
+    {
+      "id": "mystery.winter",
+      "label": "Тайна: Зима",
+      "desc": "Трудные задачи требуют более развитых навыков.",
+      "sort": "group2_challenges.winter",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.edge",
+      "label": "Знание: Грань",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.forge",
+      "label": "Знание: Кузня",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.grail",
+      "label": "Знание: Чаша",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.heart",
+      "label": "Знание: Сердце",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.knock",
+      "label": "Знание: Стук",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.lantern",
+      "label": "Знание: Лампада",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.moon",
+      "label": "Знание: Луна",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.moth",
+      "label": "Знание: Мотылёк",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.nectar",
+      "label": "Знание: Нектар",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.rose",
+      "label": "Знание: Роза",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.scale",
+      "label": "Знание: Чешуя",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.sky",
+      "label": "Знание: Небо",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastery.winter",
+      "label": "Знание: Зима",
+      "desc": "Этот текст мне хорошо знаком.",
+      "isAspect": true
+    },
+    {
+      "id": "mastering.edge",
+      "label": "Познание: Грань",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.forge",
+      "label": "Познание: Кузня",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.grail",
+      "label": "Познание: Чаша",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.heart",
+      "label": "Познание: Сердце",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.knock",
+      "label": "Познание: Стук",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.lantern",
+      "label": "Познание: Лампада",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.moon",
+      "label": "Познание: Луна",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.moth",
+      "label": "Познание: Мотылёк",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.nectar",
+      "label": "Познание: Нектар",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.rose",
+      "label": "Познание: Роза",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.scale",
+      "label": "Познание: Чешуя",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.sky",
+      "label": "Познание: Небо",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mastering.winter",
+      "label": "Познание: Зима",
+      "desc": "Аспект рецепта, при котором срабатывает навык и т.п.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "ability",
+      "label": "Часть души",
+      "sort": "group3_me.0ability",
+      "desc": "Душа человека состоит из девяти частей, например этой. Души иных вещей намного проще. [Каждую из карт души можно один раз в день употребить на какое-нибудь занятие. Скажем, «общение» или «работу с рецептами».]",
+      "isAspect": true
+    },
+    {
+      "id": "ability.setup",
+      "label": "Часть души?",
+      "sort": "group3_me.0ability",
+      "desc": "Душа человека состоит из девяти частей... [Вспомните, кем вы были, изучив ваш дневник.]",
+      "icon": "ability",
+      "isAspect": true
+    },
+    {
+      "id": "advancing",
+      "label": "Продвижение",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "comments": "Also used as an invisible tick element",
+      "ishidden": true
+    },
+    {
+      "id": "agenda.corrivality",
+      "label": "Цель: Совражество",
+      "desc": "Этот персонаж верит, что мир держится за счёт конфликта.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.peace",
+      "label": "Цель: мир",
+      "desc": "Этот персонаж верит, что конфликты и вражда ещё способны испепелить наш мир.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.secrecy",
+      "label": "Цель: секретность",
+      "desc": "Этот персонаж знает, как опасно знание и как важна роль Калиптры.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.revelation",
+      "label": "Цель: откровение",
+      "desc": "Этот персонаж желает делиться знаниями вопреки Калиптре.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.autarchy",
+      "label": "Цель: автаркия",
+      "desc": "Этот персонаж полагает, что человечество – и любое общество, что стоит на его страже – должно справляться без покровительства Часов.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.better.gods",
+      "label": "Цель: иные боги",
+      "desc": "Этот персонаж надеется создать что-то, что заменит нам Часов.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.stone.consumed",
+      "label": "Цель: Камень поглощённый",
+      "desc": "Этот персонаж хотел бы в угоду своим планам сжечь или изничтожить всё, что осталось от богов-из-камня.",
+      "isaspect": true
+    },
+    {
+      "id": "agenda.stone.remembered",
+      "label": "Цель: Камень не забытый",
+      "desc": "Этот персонаж хотел бы сохранить какую-то толику богов-из-камня.",
+      "isaspect": true
+    },
+    {
+      "id": "appointing",
+      "label": "Назначение",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "appointment.enigmatic",
+      "label": "Энигматический советник",
+      "desc": "Энигматический советник скрывает или раскрывает тайны Общества.",
+      "isaspect": true
+    },
+    {
+      "id": "appointment.nunciant",
+      "label": "Нунциатический советник",
+      "desc": "Нунциатический советник сообщается с другими организациями и ведёт с ними официальные переговоры.",
+      "isaspect": true
+    },
+    {
+      "id": "appointment.persistent",
+      "label": "Непреходящий советник",
+      "desc": "На плечах Непреходящего советника лежат вопросы связи времён.",
+      "isaspect": true
+    },
+    {
+      "id": "appointment.salvant",
+      "label": "Асклепический советник",
+      "desc": "Асклепический советник заведует вопросами лечения и восстановления.",
+      "isaspect": true
+    },
+    {
+      "id": "appointment.treasurer",
+      "label": "Казначей",
+      "desc": "Казначей заведует финансами Общества.",
+      "isaspect": true
+    },
+    {
+      "id": "appointment.vigilant",
+      "label": "Паноптический советник",
+      "desc": "Паноптический советник обеспечивает безопасность Общества.",
+      "isaspect": true
+    },
+    {
+      "id": "arriving",
+      "label": "Прибытие",
+      "desc": "(аспект рецепта) - посетитель достиг цели назначения и уже не собирается в путь",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "assistance",
+      "label": "Помощь",
+      "desc": "Библиотекарь оставил мир людей. Но нет ничего постыдного в том, чтобы просить других о помощи. [Помощники способны открывать для вас новые комнаты или помогать с работой. Помощник покинет вас, когда задание будет выполнено, или с наступлением рассвета.]",
+      "isAspect": true
+    },
+    {
+      "id": "beverage",
+      "label": "Напиток",
+      "desc": "Каждому напитку своё время. Одним – утро, другие разумней отложить до вечера.",
+      "isAspect": true
+    },
+    {
+      "id": "beverage.raveline",
+      "label": "Напиток: Равелин",
+      "desc": "[Невидимый аспект, отмечающий различные вина из Равелина]",
+      "ishidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "brewable",
+      "label": "Можно вскипятить",
+      "desc": "Настоять; подогреть; видоизменить. [Подержите этот предмет над огнём или плитой.]",
+      "isAspect": true
+    },
+    {
+      "id": "blank",
+      "label": "Чистый лист",
+      "desc": "Минута – и слова свободно потекут.",
+      "isAspect": true
+    },
+    {
+      "id": "cache",
+      "label": "Припасы",
+      "desc": "Это должно быть интересно! [Изучите этот предмет.]",
+      "isAspect": true
+    },
+    {
+      "id": "cache.bright.rarities",
+      "label": "Блистающий раритет",
+      "desc": "Что за полуденная драгоценность?",
+      "isAspect": true,
+      "icon": "cache"
+    },
+    {
+      "id": "cache.night.rarities",
+      "label": "Ночной раритет",
+      "desc": "Что за полуночный дар?",
+      "isAspect": true,
+      "icon": "cache"
+    },
+    {
+      "id": "cache.unregarded.rarities",
+      "label": "Малоизведанный раритет",
+      "desc": "Что за неведомая услада?",
+      "isAspect": true,
+      "icon": "cache"
+    },
+    {
+      "id": "cache.sovereign.rarities",
+      "label": "Беспримерный раритет",
+      "desc": "Что за превосходное чудо?",
+      "isAspect": true,
+      "icon": "cache"
+    },
+    {
+      "id": "campable",
+      "label": "Обитатель",
+      "desc": "[Если у посетителя или части души есть данный аспект, их можно на время разместить в гостевой кровати.]",
+      "icon": "mybed",
+      "isAspect": true
+    },
+    {
+      "id": "camping",
+      "label": "Ночлег",
+      "desc": "Я буду спать здесь. По крайней мере, пока.",
+      "isAspect": true
+    },
+    {
+      "id": "carcass",
+      "label": "Туша",
+      "desc": "Нечто, что прежде двигалось само. [Отнесите это на анатомический стол, чтобы разобрать на кости.]",
+      "isAspect": true
+    },
+    {
+      "id": "circumstance",
+      "label": "Обстоятельство",
+      "desc": "Нечто существующее, но лишь до времени. [В нуму обстоятельства исчезают.]",
+      "isAspect": true
+    },
+    {
+      "id": "curated.busts",
+      "label": "Порядок: библиотекари Дома безмолвия",
+      "desc": "Я расставил всё на свои места.",
+      "isAspect": true
+    },
+    {
+      "id": "comfort",
+      "label": "Уют",
+      "desc": "Люди называют Дом безмолвия «аскетичным». Как правило, так говорят те, кто в нём ни разу не был.",
+      "isAspect": true
+    },
+    {
+      "id": "connie.resigning",
+      "label": "Конни уходит в отставку",
+      "desc": "(аспект рецепта – Конни уходит из Бюро)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "cooperative",
+      "label": "Благосклонность",
+      "desc": "Всё, что вам угодно. Во всяком случае, пока.",
+      "isAspect": true
+    },
+    {
+      "id": "considerable",
+      "label": "Можно изучить",
+      "desc": "Я могу изучить это, чтобы узнать больше.",
+      "isAspect": true,
+      "isHidden": true
+    },
+    {
+      "id": "convo.mettle",
+      "label": "Б: решимость",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.chor",
+      "label": "Б: хор",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.ereb",
+      "label": "Б: эреб",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.fet",
+      "label": "Б: фет",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.phost",
+      "label": "Б: фост",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.shapt",
+      "label": "Б: шапт",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.trist",
+      "label": "Б: трист",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "convo.wist",
+      "label": "Б: вист",
+      "desc": "triggers ability req in salons(no loc needed)",
+      "isHidden": true,
+      "isAspect": true
+    },
+    {
+      "id": "correspondence",
+      "label": "Корреспонденция",
+      "desc": "Если урвать минутку и сесть за письменный стол, я могу набросать ответ.",
+      "isAspect": true
+    },
+    {
+      "id": "cost.pence",
+      "label": "Цена в пенсах",
+      "desc": "Подлежащая оплате сумма звонкой монетой.",
+      "sort": "group2_challenges.5",
+      "isAspect": true
+    },
+    {
+      "id": "cost.tally",
+      "label": "Цена в числах",
+      "desc": "Цена по меркам незримого мира. Подлежит оплате экзотической монетой, например <i>спинтриями</i>.",
+      "sort": "group2_challenges.5",
+      "isAspect": true
+    },
+    {
+      "id": "count",
+      "label": "Счёт",
+      "desc": "Число, которое можно счесть. Если вам это нужно.",
+      "isAspect": true
+    },
+    {
+      "id": "course.first",
+      "label": "Первое",
+      "desc": "Подаётся как правило в качестве закуски либо в преддверии горячего.",
+      "isAspect": true
+    },
+    {
+      "id": "course.main",
+      "label": "Горячее",
+      "desc": "Главное блюдо и смысловой центр трапезы.",
+      "isAspect": true
+    },
+    {
+      "id": "course.side",
+      "label": "Гарнир",
+      "desc": "Подаётся как правило в качестве закуски либо одновременно с горячим.",
+      "isAspect": true
+    },
+    {
+      "id": "course.pudding",
+      "label": "Сладкое",
+      "desc": "«Кто не ест мяса, не получит сладкого. Какое тебе сладкое, если ты и мяса не съел?» (Уотерс).",
+      "isAspect": true
+    },
+    {
+      "id": "decamping",
+      "label": "Возьми постель свою",
+      "desc": "Отныне моё место не здесь.",
+      "isAspect": true
+    },
+    {
+      "id": "departing",
+      "label": "Уходит",
+      "desc": "(аспект рецепта) - выводим со сцены помощника (можно также использовать в случае, когда посетителю нужно срочно удалиться, но пока что мы используем неудовлетворённость + таяние)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "delivery",
+      "label": "Посылка",
+      "desc": "Это мне?",
+      "isAspect": true,
+      "comments": "Doesn't line up very relevantly with delivering aspect"
+    },
+    {
+      "id": "delivering",
+      "label": "Доставка",
+      "desc": "(аспект рецепта) - заменяем бланк почтового заказа или запрос адресата результатом ЛИБО токеном, требующим тянуть карту из колоды / вне колоды.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "difficulty.oddities",
+      "label": "Диковинки",
+      "desc": "[С аспектом указанной ступени у вас есть шанс найти диковинку.]",
+      "isAspect": true
+    },
+    {
+      "id": "difficulty.rarities",
+      "label": "Раритеты",
+      "desc": "[С аспектом указанной ступени у вас есть шанс найти раритет.]",
+      "isAspect": true
+    },
+    {
+      "id": "difficulty.prentice",
+      "label": "Ученик",
+      "desc": "В нехитрых рецептах всё решает навык. [В простых испытаниях требуется, чтобы соответствующий аспект достигал пятой ступени.]",
+      "isAspect": true,
+      "sort": "group2_challenges.1"
+    },
+    {
+      "id": "difficulty.scholar",
+      "label": "Книжник",
+      "desc": "В более утончённых рецептах важны не только изрядный навык, но и сила. [В более сложных испытаниях требуется, чтобы соответствующий аспект достигал десятой ступени. Кроме того, рецепты продвинутого уровня требуют присутствия ингредиента с тем или иным аспектом.]",
+      "isAspect": true,
+      "sort": "group2_challenges.2"
+    },
+    {
+      "id": "difficulty.keeper",
+      "label": "Архивариус",
+      "desc": "Эти рецепты доступны лишь мудрецам, учёным и отмеченным Фортуной безумцам. [В самых сложных испытаниях требуется, чтобы соответствующий аспект достигал пятнадцатой ступени. Кроме того, рецепты высшего уровня требуют присутствия конкретного ингредиента. Правильно подобранный ингредиент даже может сделать их доступными на меньших ступенях.]",
+      "isAspect": true,
+      "sort": "group2_challenges.3"
+    },
+    {
+      "id": "dissatisfying",
+      "label": "Неудовлетворённость",
+      "desc": "пример: убеждаем посетителя, что ему больше нечего тут делать. Можно использовать, чтобы посетитель начал собираться в путь либо выказал своё недовольство.",
+      "isAspect": true,
+      "icon": "resentment"
+    },
+    {
+      "id": "dist",
+      "label": "Дист",
+      "desc": "Распределение, разлитие по порциям. Наверняка ещё переименуем.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "distributable",
+      "label": "На несколько персон",
+      "desc": "Можно разлить по бокалам или чашкам.",
+      "isAspect": true
+    },
+    {
+      "id": "ductile",
+      "label": "Пластичность",
+      "desc": "[Отнесите на верстак, чтобы сделать из этого предмета проволоку.]",
+      "isAspect": true
+    },
+    {
+      "id": "drying",
+      "label": "Сохнет",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "echidna.inspired",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "encaustum",
+      "label": "Энкаустум",
+      "desc": "«История будет благосклонна ко мне, ибо я намерен писать её» (Черчилль). [Используйте эти чернила, чтобы составить Установление с далеко идущими последствиями.]",
+      "isAspect": true
+    },
+    {
+      "id": "exalted.beverage",
+      "label": "Возвышение: напиток",
+      "desc": "Вы угостили помощника напитком и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.beverage"
+    },
+    {
+      "id": "exalted.candle",
+      "label": "Возвышение: свеча",
+      "desc": "Вы вручили помощнику то, что ненадолго рассеет мрак, и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.candle"
+    },
+    {
+      "id": "exalted.collaboration",
+      "label": "Сотрудничество",
+      "desc": "Сегодня вы будете трудиться вдвоём.",
+      "isAspect": true,
+      "sort": "group6_exaltation.0collaboration"
+    },
+    {
+      "id": "exalted.fabric",
+      "label": "Возвышение: ткань",
+      "desc": "Вы дали помощнику нечто сотканное и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.fabric"
+    },
+    {
+      "id": "exalted.flower",
+      "label": "Возвышение: цветок",
+      "desc": "Вы подарили помощнику цветок, и скоротечная красота придала ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.flower"
+    },
+    {
+      "id": "exalted.fuel",
+      "label": "Возвышение: горючее",
+      "desc": "Вы снабдили помощника горючим и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.fuel"
+    },
+    {
+      "id": "exalted.memory",
+      "label": "Возвышение: воспоминание",
+      "desc": "Вы поделились с помощником своим воспоминанием и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.memory"
+    },
+    {
+      "id": "exalted.metal",
+      "label": "Возвышение: металл",
+      "desc": "Вы снабдили помощника рабочим материалом и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.metal"
+    },
+    {
+      "id": "exalted.omen",
+      "label": "Возвышение: знамение",
+      "desc": "Вы поделились с помощником предзнаменованием и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.omen"
+    },
+    {
+      "id": "exalted.pigment",
+      "label": "Возвышение: пигмент",
+      "desc": "Вы снабдили помощника экзотическим пигментом и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.pigment"
+    },
+    {
+      "id": "exalted.sustenance",
+      "label": "Возвышение: пища",
+      "desc": "Вы накормили помощника и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.sustenance"
+    },
+    {
+      "id": "exalted.tool",
+      "label": "Возвышение: инструмент",
+      "desc": "Вы одолжили помощнику инструмент и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.tool"
+    },
+    {
+      "id": "exalted.wood",
+      "label": "Возвышение: древесина",
+      "desc": "Вы снабдили помощника рабочим материалом и придали ему сил до конца дня.",
+      "isAspect": true,
+      "sort": "group6_exaltation.wood"
+    },
+    {
+      "id": "fatigued",
+      "label": "Изнурение",
+      "sort": "group3_me.0fatigued",
+      "desc": "Передохните немного. [Изнурённые способности восстанавливаются с наступлением рассвета, но можно найти способ ускорить процесс.]",
+      "isAspect": true
+    },
+    {
+      "id": "fatiguing",
+      "label": "изнуряется",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.ability",
+      "label": "изнурить способность",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.beverage",
+      "label": "Сугубо для напитков",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.ingredients",
+      "label": "Потратить разнообразные предметы",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.memory",
+      "label": "изнуряем воспоминание",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.spintria",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fatiguing.sustenance",
+      "label": "Сугубо для еды",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "fear.chandler",
+      "label": "Страх: Свечник",
+      "desc": "Этот персонаж знает, чем грозит пришествие Свечника (или Свечницы).",
+      "isaspect": true
+    },
+    {
+      "id": "fear.ys",
+      "label": "Страх: Кер-Ис",
+      "desc": "Этот персонаж знает, чем опасны соблазны Кер-Ис.",
+      "isaspect": true
+    },
+    {
+      "id": "fear.carapace",
+      "label": "Страх: Хитин",
+      "desc": "Этот персонаж знает, что Хитиновый Крест способен поглотить человечество – или безвозвратно изменить его.",
+      "isaspect": true
+    },
+    {
+      "id": "fear.devourers",
+      "label": "Страх: пожиратели",
+      "desc": "Этот персонаж знает об опасностях, которые таит мир незримого: алукитах, духах Обители, алчущих призраках...",
+      "isaspect": true
+    },
+    {
+      "id": "fear.nowhere",
+      "label": "Страх: Нигде",
+      "desc": "Этот персонаж понимает, какой всепоглощающий ужас несут в себе боги-из-Нигде.",
+      "isaspect": true
+    },
+    {
+      "id": "fixed",
+      "label": "Нельзя снять",
+      "desc": "Этот объект невозможно снять, не повредив... Но библиотекарь не опустится до подобного вандализма.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "codex",
+      "label": "Кодекс",
+      "desc": "Страницы, обложка, переплёт... Как и внутренности, знания не любят, чтобы их выставляли напоказ.",
+      "isAspect": true
+    },
+    {
+      "id": "film",
+      "label": "Киноплёнка",
+      "desc": "Подумать только, раньше вы считали, что это <i>книги</i> слишком легко горят! [«Текст» в максимально широком смысле слова. Найдите проектор, чтобы это воспроизвести.]",
+      "isAspect": true
+    },
+    {
+      "id": "infinitereadable",
+      "label": "Список",
+      "desc": "[Данный текст существует в нескольких списках, каждый из которых представляет собой отдельную книгу; вы начнёте находить их, когда исчерпаете все прочие добываемые из одного источника варианты.]",
+      "isAspect": true
+    },
+    {
+      "id": "hidden.mihail.altar",
+      "label": "Михал на алтаре",
+      "isAspect": true,
+      "noartneeded": true,
+      "ishidden": true
+    },
+    {
+      "id": "hidden.mihail.sarcophagus",
+      "label": "Михал в саркофаге",
+      "isAspect": true,
+      "noartneeded": true,
+      "ishidden": true
+    },
+    {
+      "id": "instrument",
+      "label": "Инструмент",
+      "desc": "Здесь сокрыта музыка.",
+      "isAspect": true,
+      "sort": "workstation"
+    },
+    {
+      "id": "record.phonograph",
+      "label": "Валик фонографа",
+      "desc": "В ущельях восковых холмов таится эхо звуков. [«Текст» в максимально широком смысле слова. Найдите фонограф, чтобы это воспроизвести.]",
+      "isAspect": true
+    },
+    {
+      "id": "scroll",
+      "label": "Свиток",
+      "desc": "Книга из одной очень длинной страницы.",
+      "isAspect": true
+    },
+    {
+      "id": "tablet",
+      "label": "Скрижаль",
+      "desc": "Книга всего из нескольких страниц.",
+      "isAspect": true
+    },
+    {
+      "id": "beast",
+      "label": "Существо",
+      "desc": "Что-то, что может двигаться само, не будучи человеком.",
+      "isAspect": true
+    },
+    {
+      "id": "egg",
+      "label": "Яйцо",
+      "desc": "«Если яйцо живо, из него может что-нибудь выйти. Если яйцо мертво, в него может что-нибудь войти» (Тирза Блейк, седьмой библиотекарь Дома безмолвия).",
+      "isAspect": true
+    },
+    {
+      "id": "fabric",
+      "label": "Ткань и нити",
+      "desc": "Слова «плетёного языка» килласими пишутся нитями, а не чернилами. Конечно, для ткани можно найти и более обыденное применение. Блажен тот, кто думает, что обивка кресла – это всего лишь обивка кресла.",
+      "isAspect": true
+    },
+    {
+      "id": "finished",
+      "label": "Готово",
+      "desc": "В каком-то смысле это конец. Итог. Финал. ",
+      "isAspect": true
+    },
+    {
+      "id": "flower",
+      "label": "Цветок",
+      "desc": "Волосы растения.",
+      "isAspect": true
+    },
+    {
+      "id": "friend",
+      "label": "Друг",
+      "desc": "Кто-то знаком с вами достаточно близко, чтобы вам доверять.",
+      "isAspect": true
+    },
+    {
+      "id": "befriending",
+      "label": "Знакомство",
+      "isAspect": true,
+      "desc": "(аспект рецепта)",
+      "noartneeded": true
+    },
+    {
+      "id": "bread",
+      "label": "Хлеб",
+      "isAspect": true,
+      "desc": "Зерно умирает, дабы мы причастились его."
+    },
+    {
+      "id": "candle",
+      "label": "Свеча",
+      "desc": "Свеча обычно ярче человека. Но человек обычно долговечней.",
+      "isAspect": true
+    },
+    {
+      "id": "cleaning",
+      "label": "Уборка",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "covenant",
+      "label": "Завет",
+      "desc": "-",
+      "isAspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "delegacizing",
+      "label": "Делегирование",
+      "desc": "Мета-аспект рецептов для разрешения проблем с содержимым",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "device",
+      "label": "Приспособление",
+      "desc": "Машинка, которую можно включить лишь один раз. Осторожно: если речь об <i>адской</i> машинке, за этим следует взрыв.",
+      "isAspect": true
+    },
+    {
+      "id": "dissipating",
+      "label": "Рассеивание",
+      "desc": "(аспект рецепта) - убирает или помечает для вывода со сцены временные состояния (вроде сырости) - xpans-ится с рассветом",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "employable",
+      "label": "Наёмный работник",
+      "desc": "Вы можете воспользоваться умениями этого человека сроком на один день.",
+      "isAspect": true
+    },
+    {
+      "id": "fee",
+      "label": "Плата",
+      "icon": "pence",
+      "desc": "Сумма, которую этот человек просит за день работы.",
+      "isAspect": true
+    },
+    {
+      "id": "forgetting",
+      "label": "Забвение",
+      "desc": "(аспект рецепта) - помечает воспоминания для вывода со сцены",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "forgetting.persistent",
+      "label": "Полное забвение",
+      "desc": "(аспект рецепта) - помечает все воспоминания для вывода со сцены, даже устойчивые",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "form.order",
+      "label": "Бланк заказа",
+      "isAspect": true,
+      "isHidden": true
+    },
+    {
+      "id": "fruit",
+      "label": "Плод",
+      "desc": "Лоно растения?",
+      "isAspect": true
+    },
+    {
+      "id": "fuel",
+      "label": "Горючее",
+      "desc": "«Всякому часу – свой цвет. Всякому огню – своя пища. Не верь увиденному в снах» (Джордж Коллерс, первый и последний комендант Бранкрагской каторжной тюрьмы).",
+      "isAspect": true
+    },
+    {
+      "id": "gem",
+      "label": "Самоцвет",
+      "desc": "Порой блистающий. Всегда драгоценный.",
+      "isAspect": true
+    },
+    {
+      "id": "glass",
+      "label": "Стекло",
+      "desc": "Яркое и хрупкое. Даже песку есть, к чему стремиться.",
+      "isAspect": true
+    },
+    {
+      "id": "grateful",
+      "label": "Благодарность",
+      "desc": "Моя помощь пришлась кому-то кстати.",
+      "isAspect": true
+    },
+    {
+      "id": "hanging",
+      "label": "Гирлянда",
+      "desc": "Дом укрась ты остролистом.",
+      "isAspect": true
+    },
+    {
+      "id": "history",
+      "label": "История",
+      "desc": "История есть не то, что произошло, но то, что мы об этом знаем. [Вы приняли решение, которое изменит судьбы мира. Дождитесь нумы и принесите дневник к Древу.]",
+      "isAspect": true
+    },
+    {
+      "id": "host.technique.summon.echidna",
+      "label": "Способ пригласить Ехидну",
+      "desc": "Этот навык можно использовать, чтобы призвать Ехидну.",
+      "isAspect": true,
+      "isHidden": "true"
+    },
+    {
+      "id": "incident",
+      "label": "Происшествие",
+      "desc": "Что-то, что может заинтересовать посетителей. [Происшествие может не утрачивать актуальность на протяжении нескольких сезонов; посетители продолжат прибывать и в промежутке между происшествиями.]",
+      "isAspect": true
+    },
+    {
+      "id": "ingredient",
+      "label": "Ингредиент",
+      "desc": "Это может стать частью чего-то большего. [Если вы приобретёте HOUSE OF LIGHT, ингредиенты можно будет использовать на кухне при готовке.]",
+      "isAspect": true
+    },
+    {
+      "id": "inert",
+      "label": "Покой",
+      "desc": "Приспособление, которое трудно использовать по неосторожности. [Этот предмет можно изучить, не уничтожив его в процессе. Однако он всё же будет израсходован, если использовать его в качестве ингредиента.]",
+      "isAspect": true
+    },
+    {
+      "id": "ink",
+      "label": "Чернила",
+      "desc": "Чернилами может стать всё, что пачкает.",
+      "isAspect": true
+    },
+    {
+      "id": "inspired",
+      "label": "Вдохновение",
+      "desc": "Этот персонаж вдохновлён высшей целью.",
+      "isAspect": true
+    },
+    {
+      "id": "intoxicating",
+      "label": "Пьянящее",
+      "desc": "«Скорее, принесите мне чашу вина, чтобы я мог освежить свой разум и сказать что-нибудь умное» (Аристофан).",
+      "isAspect": true
+    },
+    {
+      "id": "introduction",
+      "label": "Личное знакомство",
+      "desc": "Даже в такой глуши можно найти новых друзей – или недругов.",
+      "isAspect": true
+    },
+    {
+      "id": "invitation",
+      "label": "Приглашение",
+      "desc": "Я мог бы отнести это на почту. Тогда – если у меня будут деньги на марку – если адресат дома – если у него нет иных дел – если он не отбывает прямо сейчас с Бранкрага – он прибудет сюда с визитом.",
+      "isAspect": true
+    },
+    {
+      "id": "inspiring.agenda.corrivality",
+      "label": "Цель: Совражество",
+      "icon": "agenda.corrivality",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.peace",
+      "label": "Цель: мир",
+      "icon": "agenda.peace",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.secrecy",
+      "label": "Цель: секретность",
+      "icon": "agenda.secrecy",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.revelation",
+      "label": "Цель: откровение",
+      "icon": "agenda.revelation",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.autarchy",
+      "label": "Цель: автаркия",
+      "icon": "agenda.autarchy",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.better.gods",
+      "label": "Цель: иные боги",
+      "icon": "agenda.better.gods",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.stone.consumed",
+      "label": "Цель: Камень поглощённый",
+      "icon": "agenda.stone.consumed",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.agenda.stone.remembered",
+      "label": "Цель: Камень не забытый",
+      "icon": "agenda.stone.remembered",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.sympathy.chandler",
+      "label": "Симпатия: Свечник",
+      "icon": "sympathy.chandler",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.sympathy.ys",
+      "label": "Симпатия: Кер-Ис",
+      "icon": "sympathy.ys",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.sympathy.carapace",
+      "label": "Симпатия: Хитин",
+      "icon": "sympathy.carapace",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.sympathy.reckoners",
+      "label": "Симпатия: считальцы",
+      "icon": "sympathy.reckoners",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.fear.chandler",
+      "label": "Страх: Свечник",
+      "icon": "fear.chandler",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.fear.ys",
+      "label": "Страх: Кер-Ис",
+      "icon": "fear.ys",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.fear.carapace",
+      "label": "Страх: Хитин",
+      "icon": "fear.carapace",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.fear.devourers",
+      "label": "Страх: пожиратели",
+      "icon": "fear.devourers",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "inspiring.fear.nowhere",
+      "label": "Страх: Нигде",
+      "icon": "fear.nowhere",
+      "inherits": "_inspiration"
+    },
+    {
+      "id": "journal",
+      "label": "Дневник",
+      "ambits": {
+        "edge": 99,
+        "forge": 99,
+        "grail": 99,
+        "heart": 99,
+        "knock": 99,
+        "lantern": 99,
+        "moon": 99,
+        "nectar": 99,
+        "moth": 99,
+        "rose": 99,
+        "scale": 99,
+        "sky": 99,
+        "winter": 99,
+        "agenda.corrivality": 1,
+        "agenda.peace": 1,
+        "agenda.secrecy": 1,
+        "agenda.revelation": 1,
+        "agenda.autarchy": 1,
+        "agenda.better.gods": 1,
+        "agenda.stone.consumed": 1,
+        "agenda.stone.remembered": 1,
+        "sympathy.chandler": 1,
+        "sympathy.ys": 1,
+        "sympathy.carapace": 1,
+        "sympathy.reckoners": 1,
+        "fear.chandler": 1,
+        "fear.ys": 1,
+        "fear.carapace": 1,
+        "fear.devourers": 1,
+        "fear.nowhere": 1
+      },
+      "desc": "Я появился на свет раньше, но век наш закончится одновременно.",
+      "isAspect": true
+    },
+    {
+      "id": "key",
+      "label": "Ключ",
+      "desc": "«Входящий в Обитель Белой Дверью оставляет свой <i>шапт</i> вовне, как ключ в замке». (Или – на манер Общества благого начинания – «как меч у входа в чертог короля».)",
+      "isAspect": true
+    },
+    {
+      "id": "kitchenware",
+      "label": "Кухонная утварь",
+      "desc": "То, что уместно смотрится рядом с кастрюлей.",
+      "isAspect": true
+    },
+    {
+      "id": "knife",
+      "label": "Нож",
+      "desc": "«Се Есть Черта Разделяющая» (Вулф).",
+      "isAspect": true
+    },
+    {
+      "id": "leaf",
+      "label": "Лист",
+      "desc": "Руки растения.",
+      "isAspect": true
+    },
+    {
+      "id": "lesson",
+      "label": "Урок",
+      "desc": "Шаг на пути познания мудрости. [Используйте эту карту, чтобы обрести новый навык или улучшить имеющийся.]",
+      "isAspect": true
+    },
+    {
+      "id": "liquid",
+      "label": "Жидкость",
+      "desc": "«Что ищет бездн, бежит высот, чего не удержать цепям и ковам?»",
+      "isAspect": true
+    },
+    {
+      "id": "lens",
+      "label": "Линза",
+      "desc": "Томас Девульф, также известный как Барон Тишина, устроил в Бранкраге обсерваторию. Платил он щедро, но был настолько требователен, что все мастера, единожды исполнив заказ, впредь зарекались шлифовать для него линзы.",
+      "isAspect": true
+    },
+    {
+      "id": "light",
+      "label": "Свет",
+      "desc": "Дабы осветить ночь, или нас самих.",
+      "isAspect": true
+    },
+    {
+      "id": "lyterion",
+      "label": "Литерион",
+      "desc": "Сюда можно вложить знание, касающееся «Литериона».",
+      "icon": "r.insects.nectars",
+      "isAspect": true
+    },
+    {
+      "id": "malady",
+      "label": "Недуг",
+      "sort": "group3_me.0malady",
+      "desc": "Какой-то червь незримо точит мою душу. [Карты души могут портиться, если подверглись вредоносному влиянию – например если вы потерпели неудачу в испытании. Карты с недугом не подвержены изнурению, но сам недуг искажает и ослабляет душу. Если не принять меры, это может привести к нежелательным последствиям.]",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.forge",
+      "label": "Лечится Кузней",
+      "desc": "Одолеть этот недуг можно постельным режимом, бодрящим питьём – и соответствующей ступенью Кузни, изгоняющей лесные миазмы.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.grail",
+      "label": "Лечится Чашей",
+      "desc": "Одолеть этот недуг можно постельным режимом, любимым напитком – и соответствующей ступенью Чаши, напоминающей о радостях плоти.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.heart",
+      "label": "Лечится Сердцем",
+      "desc": "Одолеть этот недуг можно постельным режимом, укрепляющим питьём – и соответствующей ступенью Сердца, обновляющего хрупкую плоть.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.lantern",
+      "label": "Лечится Лампадой",
+      "desc": "Одолеть этот недуг можно постельным режимом, подходящим питьём (чем-нибудь ярким, воодушевляющим) – и соответствующей ступенью Лампады, вновь возжигающей свет души.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.moth",
+      "label": "Лечится Мотыльком",
+      "desc": "Одолеть этот недуг можно постельным режимом, подходящим питьём – и соответствующей ступенью Мотылька, отвлекающего непрошенного гостя.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.nectar",
+      "label": "Лечится Нектаром",
+      "desc": "Одолеть этот недуг можно постельным режимом, подходящим питьём (чем-нибудь зелёным и успокаивающим) – и соответствующей ступенью Нектара, спускающего мятущуюся душу обратно на землю.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.sky",
+      "label": "Лечится Небом",
+      "desc": "Одолеть этот недуг можно постельным режимом, подходящим напитком (например, шипучим) – и соответствующей ступенью Неба, подкрепляющего измученную душу.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.cure.winter",
+      "label": "Лечится Зимой",
+      "desc": "Одолеть этот недуг можно постельным режимом, подходящим питьём (желательно холодным) – и соответствующей ступенью Зимы, успокаивающей чувствительную душу.",
+      "isAspect": true
+    },
+    {
+      "id": "malady.curing",
+      "label": "Недуг: исцеление!",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "malady.inflicting",
+      "label": "Недуг: болезнь!",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "mark",
+      "label": "Знак",
+      "desc": "Хрупкий исчезающий след.",
+      "isAspect": true
+    },
+    {
+      "id": "manuscript",
+      "label": "Монография",
+      "desc": "Я написал это. Сам я не смогу вынести из этого текста ничего нового, но посетители – возможно.",
+      "isAspect": true
+    },
+    {
+      "id": "material",
+      "label": "Материал",
+      "desc": "Нечто, что может стать чем-то. Если пустить его в дело.",
+      "isAspect": true
+    },
+    {
+      "id": "memory",
+      "label": "Воспоминание",
+      "desc": "Без памяти нет осмысления. [Воспоминания можно использовать при работе с рецептами и улучшении навыков. С рассветом воспоминания улетучиваются – все, кроме устойчивых.]",
+      "isAspect": true
+    },
+    {
+      "id": "message.rhonwen.act1",
+      "label": "Письмо от фонда Св. Ронвен",
+      "desc": "Ответ или напоминание",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "memories.revolutionary",
+      "label": "Воспоминания: Бунтарь",
+      "desc": "«Знание вселяет ужас в сердца угнетателей». Я низверг много земных деспотов, но Калиптра – это тирания вечности. Мы станем поистине свободны, лишь произнеся вслух её имя и оставшись безнаказанными.",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.horomachistry",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.executioner",
+      "label": "Воспоминания: Палач",
+      "desc": "«Я работал в Бюро умолчания, защищая наш мир от существ, что бродят впотьмах. Долгие годы я верно нёс службу... но не у всех моих жертв были глаза чудовищ. Многие лили слёзы. Поэтому я отложил ножи и пришёл сюда, где больше не смогу причинять боль другим. Быть может, я даже смогу искупить вину».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.preservation",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.archaeologist",
+      "label": "Воспоминания: Археолог",
+      "desc": "«Последняя из раскопанных мною гробниц оказалась не усыпальницей, но темницей. Томившийся в ней сделался моею тенью – или, быть может, это я сделался его отражением. Мне уже не помочь. Но я ещё могу спасти будущее от прошлого. Войдя в Дом безмолвия, я больше не смогу причинить зло другим. Быть может, я даже смогу искупить вину».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.skolekosophy",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.cartographer",
+      "label": "Воспоминания: Картограф",
+      "desc": "«У нас нет карт для чертогов Солнца, где живут незримые боги. Как может меняться сия Обитель, но оставаться неизменной? Загадка? Безусловно. Есть ли на неё ответ? Посмотрим».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.nyctodromy",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.prodigal",
+      "label": "Воспоминания: Блудный сын",
+      "desc": "«Мои родители были Вечными – иначе говоря, они были бессмертны. Бессмертным нельзя заводить детей. И вот их приговор: зная, что я живу, не знать покоя, пока они не поглотят меня. В Доме безмолвия я буду в безопасности. Быть может, я даже найду оружие, чтоб защитить себя».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.ithastry",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.twiceborn",
+      "label": "Воспоминания: Дважды рождённый",
+      "desc": "«Когда-то, презрев тело, я переселился в Дом Солнца как бессмертный. Но у меня осталось незавершённое дело, исполнить которое я мог лишь вновь обретя плоть. Теперь я не могу вернуться в Дом Солнца, где меня ждёт кара, и не могу остаться здесь, где меня найдут и пожрут. Мне нужен третий путь. Остаться библиотекарем в Доме безмолвия... Или стать чем-то гораздо большим».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.illumination",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.magnate",
+      "label": "Воспоминания: Магнат",
+      "desc": "«Я слишком долго прожил, но не готов умереть. Я испробовал всё, но этого было мало. Я жажду тишины; я жажду покоя; я жажду безмолвия и снега».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.hushery",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.symurgist",
+      "label": "Воспоминания: Симургист",
+      "desc": "«Я подслушал песни крылатых Часов. Меня предупреждали: я мог лишиться рассудка, души, кожи. Всё так. Но никто не предупредил, что будет, если это сойдёт мне с рук... Проблема в том, что теперь все прочие звуки мне попросту неинтересны».",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.birdsong",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "memories.artist",
+      "label": "Воспоминания: Художник",
+      "desc": "«Дадаизм был началом. «Манифест сюрреализма»? Шаг в нужном направлении, но только шаг. Что толку идти, если твой путь ведёт не в Лес, куда можно войти лишь в темноте? Нет, стоп. Не «в темноте». В крови. <i>По колено</i> в крови. Тьфу на тебя! Дай сюда, я сам всё напишу...»",
+      "isAspect": true,
+      "sort": "group3_me.5origin",
+      "icon": "jm.bosk",
+      "comments": "recipe _or_ element aspect"
+    },
+    {
+      "id": "metal",
+      "label": "Металл",
+      "desc": "Когда камень решает, что хочет быть чем-то большим.",
+      "isAspect": true
+    },
+    {
+      "id": "milk.aspect",
+      "label": "Молоко",
+      "comments": "(Not visible - an aspect named milk that goes on the (probably cow's) milk element and possibly other milk elements if there are some)",
+      "isAspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "numa.other.visitors.arrive",
+      "label": "Нума: прибывают другие посетители",
+      "desc": "(аспект рецепта) – например, Спенсер",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "numatic",
+      "label": "?..",
+      "desc": "Кто-то или что-то родом из нумы – времени года, когда «кажется» и «является» готовы скрестить клинки с «историей» и «вечностью».",
+      "isAspect": true
+    },
+    {
+      "id": "numen",
+      "label": "Нумен",
+      "desc": "Напишите книгу, которую никто не прочитает. Умрите. Никто не узнает, что в ней содержалось, если только вы не записали <i>нумен</i>. [Нумены – истины настолько неопровержимые, что способны (с некоторыми оговорками) поверить сами в себя. Используйте нумен, чтобы записать новую Историю. Достаточно лишь подходящего стола... и 25-й ступени нужного аспекта.]",
+      "sort": "group7_histories.numen",
+      "isAspect": true
+    },
+    {
+      "id": "mybed",
+      "label": "Моя постель",
+      "desc": "Здесь я усну. Надеюсь, что не <i>вечным</i> сном. [Если вы планируете переместиться в другое место, приведите прежнюю кровать в порядок при помощи неиспользованной карты души.]",
+      "isAspect": true
+    },
+    {
+      "id": "offering.remove",
+      "label": "Убрать подношение",
+      "desc": "(аспект рецепта)",
+      "noartneeded": true,
+      "isAspect": true
+    },
+    {
+      "id": "omen",
+      "label": "Знамение",
+      "desc": "Кто ведает, видит. Кто видит, ведает.",
+      "isAspect": true
+    },
+    {
+      "id": "openair",
+      "label": "Под открытым небом",
+      "desc": "Птицы и времена года заглядывают сюда, когда им заблагорассудится.",
+      "isAspect": true
+    },
+    {
+      "id": "outofbounds",
+      "label": "За пределами",
+      "desc": "Это место находится вне пределов Дома.",
+      "isAspect": true
+    },
+    {
+      "id": "opportunity",
+      "label": "Возможность",
+      "desc": "Шанс превзойти ожидания.",
+      "isAspect": true
+    },
+    {
+      "id": "opportunity.realise",
+      "label": "Реализация возможности",
+      "desc": "Аспект рецепта: xtrigger-ит дополнительную возможность в соответствующее воспоминание, чтобы оно сохранилось до последующего разрешающего рецепта.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "payment",
+      "label": "Плата",
+      "desc": "Пока что это просто убирает монету. При наличии дополнительных действий должно возвращать сдачу.",
+      "isAspect": true
+    },
+    {
+      "id": "pence",
+      "label": "Пенсы",
+      "desc": "Странная монета павшей империи. Четыре фартинга – один пенни, двенадцать пенсов – один шиллинг, и так далее...",
+      "isAspect": true,
+      "commute": [
+        "penny",
+        "twopence",
+        "threepence",
+        "sixpence",
+        "shilling",
+        "florin",
+        "halfcrown",
+        "crown",
+        "tenshillingnote",
+        "poundnote",
+        "fivepoundnote",
+        "sevenpoundnote"
+      ]
+    },
+    {
+      "id": "period.dawn",
+      "label": "Рассвет",
+      "desc": "Датой основания первого монастыря на острове традиционно считается 599 г. н. э., когда было заложено аббатство Чёрного голубя (по другим источникам – Белого ворона)... Но сёстры Тройственного узла возводили здесь свои алтари задолго до них.",
+      "isAspect": true
+    },
+    {
+      "id": "period.solar",
+      "label": "Солнечная готика",
+      "desc": "С XI по XVI в. на Бранкраге жили сёстры и братья обители Св. Брендана. При них остров был центром благочестия, богатства и учёности – тем удивительней, что лишь немногие о нём знали. Но в 1534 г. Бронзовый король Генрих VIII лишил монастырь земель, изгнал братьев и отдал Бранкраг во владение Девульфам.",
+      "isAspect": true
+    },
+    {
+      "id": "period.baronial",
+      "label": "Вотчина",
+      "desc": "В XVI в. Девульфам был пожалован титул баронов Бранкрагских. Остров оставался их вотчиной вплоть до 1759 года, когда безумие и смерть положили конец их роду.",
+      "isAspect": true
+    },
+    {
+      "id": "period.curia",
+      "label": "Курия",
+      "desc": "В XVIII в. тайное общество учёных выступило с инициативой создать Курию, взявшую бы Дом безмолвия под свою опеку. В этот период Бранкраг воистину стал сокровищницей знаний – вплоть до 1896 года, когда благодаря безрассудству очередного библиотекаря Дом оказался на грани банкротства.",
+      "isAspect": true
+    },
+    {
+      "id": "period.nocturnal",
+      "label": "Отдел",
+      "desc": "В самом начале XX в. экстравагантные проекты одного из библиотекарей поставили Дом безмолвия на грань банкротства. Своеобразную руку помощи Дому протянуло руководство Ночного отдела – предшественника Бюро умолчания. В обмен на ежегодное финансирование и с условием обязательных регулярных инспекций, часть острова должна была быть переоборудована под тюрьму.",
+      "isAspect": true
+    },
+    {
+      "id": "persistent",
+      "label": "Устойчивость",
+      "desc": "Устойчивые воспоминания не исчезают с рассветом, но когда проходит нума, уходят даже они. Туманы нумы опускаются на Бранкраг в одном сезоне из каждых девяти – но в каком именно, не скажет никто. Бывает, что со времени последней нумы проходят многие и многие годы.",
+      "isAspect": true
+    },
+    {
+      "id": "pigment",
+      "label": "Пигмент",
+      "desc": "Цвет. Пятно. Идея самоцвета.",
+      "isAspect": true
+    },
+    {
+      "id": "post.ready",
+      "label": "Готов к отправке",
+      "desc": "Пакет найдёт адресата... если на то будет воля почтовых богов. [Отнесите это на почту и будьте готовы оплатить марку либо почтовое поручение.]",
+      "isAspect": true
+    },
+    {
+      "id": "posting",
+      "label": "Принято к отправке",
+      "desc": "Этим запускаются комментарии, когда игрок отправляет что-то по почте – потому что сама «доставка» происходит за кулисами.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "prefs.agdistis",
+      "isaspect": true,
+      "desc": "Агдистис предпочитает еду и напитки с аспектом <sprite name=heart>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.aladim",
+      "isaspect": true,
+      "desc": "Аль-Адим предпочитает еду и напитки с аспектом <sprite name=scale>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.arthur",
+      "isaspect": true,
+      "desc": "Артур предпочитает еду и напитки с аспектом <sprite name=lantern>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.arun",
+      "isaspect": true,
+      "desc": "Арун предпочитает еду и напитки с аспектом <sprite name=moon>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.azita",
+      "isaspect": true,
+      "desc": "Азита предпочитает еду и напитки с аспектом <sprite name=edge>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.chaima",
+      "isaspect": true,
+      "desc": "Азита предпочитает еду и напитки с аспектом <sprite name=edge>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.connie",
+      "isaspect": true,
+      "desc": "Конни предпочитает еду и напитки с аспектом <sprite name=sky>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.coquille",
+      "isaspect": true,
+      "desc": "Кокиль предпочитает еду и напитки с аспектом <sprite name=grail>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.corso",
+      "isaspect": true,
+      "desc": "Корсо предпочитает еду и напитки с аспектом <sprite name=grail>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.dagmar",
+      "isaspect": true,
+      "desc": "Гризельда предпочитает еду и напитки с аспектом <sprite name=knock>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.douglas",
+      "isaspect": true,
+      "desc": "Дуглас предпочитает еду и напитки с аспектом <sprite name=lantern>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.ehsan",
+      "isaspect": true,
+      "desc": "Эхсан предпочитает еду с аспектом <sprite name=moon>, а вот напитки – с аспектом <sprite name=sky>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.fraser",
+      "isaspect": true,
+      "desc": "Фрейзер предпочитает еду и напитки с аспектом <sprite name=scale>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.hokobald",
+      "isaspect": true,
+      "desc": "Хокобальд предпочитает еду и напитки с аспектом <sprite name=forge>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.morgen",
+      "isaspect": true,
+      "desc": "Морген предпочитает еду и напитки с аспектом <sprite name=sky>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.olympe",
+      "isaspect": true,
+      "desc": "Олимпия предпочитает еду и напитки с аспектом <sprite name=forge>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.serena",
+      "isaspect": true,
+      "desc": "Серена предпочитает еду и напитки с аспектом <sprite name=forge>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.stanislav",
+      "isaspect": true,
+      "desc": "О. Станислав предпочитает еду и напитки с аспектом <sprite name=heart>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.yvette",
+      "isaspect": true,
+      "desc": "Иветта готова есть и пить всё, что ей предложат. Такой уж она покладистый человек. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "prefs.zachary",
+      "isaspect": true,
+      "desc": "Захария предпочитает еду и напитки с аспектом <sprite name=winter>. [ДОМ СВЕТА]"
+    },
+    {
+      "id": "provisioning",
+      "label": "Сбор заказа",
+      "desc": "Этим запускаются закулисные эффекты, например когда игрок отправил почтовый заказ",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "qf",
+      "label": "QF",
+      "desc": "Стабилизатор Xtrigger-rehydrate",
+      "isAspect": true
+    },
+    {
+      "id": "rank",
+      "label": "Ранг",
+      "desc": "(НЕВИДИМЫЙ АСПЕКТ для сортировки уровней)",
+      "isAspect": true,
+      "ishidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "raw",
+      "label": "Сырое",
+      "desc": "Возможно, это и съедобно, но предлагать такое гостю было бы невежливо.",
+      "isAspect": true
+    },
+    {
+      "id": "readable",
+      "label": "Текст",
+      "desc": "На что ещё нужны глаза?",
+      "isAspect": true
+    },
+    {
+      "id": "reading.correspondence",
+      "label": "В письме говорится...",
+      "isAspect": true,
+      "icon": "reading.knock"
+    },
+    {
+      "id": "reading.edge",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.edge.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.forge",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.forge.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.grail",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.grail.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.heart",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.heart.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.knock",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.knock.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.lantern",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.lantern.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.moon",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.moon.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.moth",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.moth.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.nectar",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.nectar.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.rose",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.rose.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.scale",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.scale.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.sky",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.sky.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.winter",
+      "label": "Я прочёл...",
+      "isAspect": true
+    },
+    {
+      "id": "reading.winter.intro",
+      "label": "Я читаю...",
+      "isAspect": true
+    },
+    {
+      "id": "recovering",
+      "label": "Восстановление",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "recovering.ability",
+      "label": "восстанавливает способность",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "recruiting",
+      "label": "Наём",
+      "desc": "(аспект рецепта) Нанимаем / находим / берём кого-то в качестве помощника",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "remains",
+      "label": "Останки",
+      "desc": "По ним мы узнаем, что кто-то был смертен.",
+      "isAspect": true
+    },
+    {
+      "id": "replying",
+      "label": "Ответ",
+      "desc": "Превращаем корреспонденцию в ответ.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "requesting",
+      "label": "Запрос",
+      "desc": "(аспект рецепта) Создаём запросы от адресатов",
+      "isAspect": true
+    },
+    {
+      "id": "reluctant",
+      "label": "Нежелание",
+      "desc": "Этот человек окажет вам помощь... но лишь в <i>самом</i> необходимом.",
+      "comments": "use to lock out Assistance from usual behaviour. In particular, this locks out the intro fisherman from Second Beach (though he doesn't have the Powers anyway) and from a shift-click sending him to Sweet Bones when the village is still shrouded (though we could do with a proper solution / seed for that!)",
+      "isAspect": true
+    },
+    {
+      "id": "restorative",
+      "label": "Укрепляющее",
+      "desc": "Помогает отдохнуть и восстановить силы. [Средство, при помощи которого можно излечиться от недуга, если принять его и лечь в постель. При этом важно заручиться достаточной ступенью соответствующего аспекта. Если искомый аспект присущ самому средству, это упростит задачу.]",
+      "isAspect": true
+    },
+    {
+      "id": "retiring.liselotte",
+      "label": "Лизелотта уходит",
+      "desc": "(аспект рецепта – перманентно выводит Лизелотту со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.wisp",
+      "label": "Дымок уходит",
+      "desc": "(аспект рецепта – перманентно выводит Дымка со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.arthur",
+      "label": "Артур уходит",
+      "desc": "(аспект рецепта – перманентно выводит со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.azita",
+      "label": "Азита уходит",
+      "desc": "(аспект рецепта – перманентно выводит со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.chaima",
+      "label": "Хаима уходит",
+      "desc": "(аспект рецепта – перманентно выводит со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.spencer",
+      "label": "Спенсер уходит",
+      "desc": "(аспект рецепта – перманентно выводит Спенсера со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.yvette",
+      "label": "Иветта уходит",
+      "desc": "(аспект рецепта – перманентно выводит Иветту со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "retiring.zachary",
+      "label": "Захария уходит",
+      "desc": "(аспект рецепта – перманентно выводит Захарию со сцены)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "root",
+      "label": "Корень",
+      "desc": "Ноги растения.",
+      "isAspect": true
+    },
+    {
+      "id": "run.day",
+      "label": "Утро вечера мудренее",
+      "desc": "[Посетитель сейчас занят. Вернитесь завтра.]",
+      "isAspect": true,
+      "comments": "pseudo-aspect for nx display"
+    },
+    {
+      "id": "season.cleanup",
+      "label": "Сезонная уборка",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "seed",
+      "label": "Семя",
+      "desc": "Всхожесть может разниться в зависимости от конкретного сада или времени года.",
+      "isAspect": true
+    },
+    {
+      "id": "satisfying",
+      "label": "Удовлетворённость",
+      "desc": "например: мы помогли посетителю. Можно использовать, чтобы посетитель начал собираться в путь либо выказал своё удовлетворение.",
+      "isAspect": true
+    },
+    {
+      "id": "satisfying.echidna",
+      "label": "Удовлетворяем Ехидну",
+      "desc": "Чтобы ненароком не удовлетворить и уходящего посетителя",
+      "isAspect": true
+    },
+    {
+      "id": "season",
+      "label": "Время года",
+      "desc": "Оно приходит вновь и вновь.",
+      "isAspect": true
+    },
+    {
+      "id": "season.pausing",
+      "label": "Время года: пауза",
+      "desc": "Ставим время года на паузу и включаем нуму.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "season.unpausing",
+      "label": "Время года: продолжение",
+      "desc": "Снимаем время года с паузы",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "sceptical",
+      "label": "Скепсис",
+      "desc": "Доверие можно купить – или заслужить.",
+      "isAspect": true
+    },
+    {
+      "id": "scrutiny",
+      "label": "Исследование",
+      "desc": "Рассмотрение старого, открытие нового.",
+      "isAspect": true
+    },
+    {
+      "id": "skill",
+      "label": "Навык",
+      "desc": "Научиться можно чему угодно. Забыть можно всё.",
+      "isAspect": true,
+      "sort": "group3_me.1"
+    },
+    {
+      "id": "skillingup",
+      "label": "Навык",
+      "desc": "Научиться можно чему угодно. Забыть можно всё.",
+      "isAspect": true
+    },
+    {
+      "id": "skill.language",
+      "label": "Язык",
+      "desc": "Навык, полезный при чтении редких книг – и прочих, менее осмысленных занятиях.",
+      "isAspect": true,
+      "sort": "group3_me.2"
+    },
+    {
+      "id": "skill.chandlery",
+      "label": "Свечное дело",
+      "desc": "Навык, позволяющий превращать соответствующие компоненты в свечи. [Компонентами, скорее всего, будут обыкновенные воск и травы, однако в разговоре с посетителями и жителями деревни перед словом «соответствующие» лучше делать многозначительную паузу.]",
+      "isAspect": true,
+      "sort": "group3_me.3"
+    },
+    {
+      "id": "sleepytime",
+      "label": "Ночь",
+      "desc": "Время, когда обыватели спят праведным сном, а остальные творят свои неправедные дела.",
+      "isAspect": true
+    },
+    {
+      "id": "soaked",
+      "label": "Насквозь мокрое",
+      "desc": "Тот случай, когда вода может погубить и на суше. Требуются меры. Срочные, хотя и не безрассудные.",
+      "isAspect": true
+    },
+    {
+      "id": "soiled",
+      "label": "Грязное",
+      "desc": "Это нужно почистить.",
+      "isAspect": true
+    },
+    {
+      "id": "soph",
+      "label": "Утончённость",
+      "isAspect": true,
+      "isHidden": true
+    },
+    {
+      "id": "sound",
+      "label": "Звук",
+      "desc": "То, за чем следует тишина, и то, что она предваряет.",
+      "isAspect": true
+    },
+    {
+      "id": "spencer",
+      "label": "Спенсер",
+      "ishidden": true,
+      "noartneeded": true,
+      "isAspect": true
+    },
+    {
+      "id": "spicing",
+      "label": "Приправа",
+      "desc": "Инструмент или знание, способные сообщить блюду экзотический вкус.",
+      "isAspect": true,
+      "ambits": {
+        "almonds": 1,
+        "bread": 1,
+        "butter": 1,
+        "dough": 1,
+        "dough.cake": 1,
+        "fruit.bowl.pears": 1,
+        "meringue": 1,
+        "moly": 1,
+        "mushrooms": 1,
+        "pie.sea": 1,
+        "pumpkin": 1,
+        "pumpkin.amber.x": 1,
+        "pyrus.auricalcinus": 1,
+        "sugar": 1,
+        "veg.basket.apples": 1
+      }
+    },
+    {
+      "id": "state.cracked",
+      "label": "С трещиной",
+      "desc": "- с трещиной -",
+      "isAspect": true
+    },
+    {
+      "id": "state.torn",
+      "label": "Порвано",
+      "desc": "- порвано - ",
+      "isAspect": true
+    },
+    {
+      "id": "stone",
+      "label": "Камень",
+      "desc": "«Кто жаждет обрести терпенье: вот ваш учитель».",
+      "isAspect": true
+    },
+    {
+      "id": "study",
+      "label": "Изучение",
+      "desc": "Что-то – как правило, книга – подверглось тщательному рассмотрению.",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "suitable.secretary.nunciant.surprise",
+      "isAspect": true,
+      "noartneeded": true,
+      "ishidden": true,
+      "comments": "Compromise to avoid spoiling surprise candidate without further aspect bloat. This aspect is not visible on Connie-resigned either, but slot glow is an acceptable substitute"
+    },
+    {
+      "id": "suitable.secretary.persistent.surprise",
+      "isAspect": true,
+      "noartneeded": true,
+      "ishidden": true,
+      "comments": "Compromise to avoid spoiling surprise candidate without further aspect bloat. This aspect is not visible on Echidna either, but slot glow is an acceptable substitute"
+    },
+    {
+      "id": "suitable.secretary.salvant.surprise",
+      "isAspect": true,
+      "noartneeded": true,
+      "ishidden": true,
+      "comments": "Compromise to avoid spoiling surprise candidate without further aspect bloat. This aspect is not visible on Elie either, but slot glow is an acceptable substitute"
+    },
+    {
+      "id": "sustenance",
+      "label": "Пища",
+      "desc": "«Люди дурные живут для того, чтобы есть и пить, люди добродетельные едят и пьют для того, чтобы жить» (Сократ).",
+      "isAspect": true
+    },
+    {
+      "id": "sympathy.chandler",
+      "label": "Симпатия: Свечник",
+      "desc": "Этот персонаж предвидит золотое будущее, что принесёт нам Свечник (или Свечница).",
+      "isaspect": true
+    },
+    {
+      "id": "sympathy.ys",
+      "label": "Симпатия: Кер-Ис",
+      "desc": "Этот персонаж осознаёт те преходящие преимущества, что принесёт нам союз с Кер-Ис.",
+      "isaspect": true
+    },
+    {
+      "id": "sympathy.carapace",
+      "label": "Симпатия: Хитин",
+      "desc": "Этот персонаж понимает, что способен дать нам Хитиновый Крест: союз, пробуждение.",
+      "isaspect": true
+    },
+    {
+      "id": "sympathy.reckoners",
+      "label": "Симпатия: считальцы",
+      "desc": "Этот персонаж знает, какую пользу можно извлечь из сотрудничества с торговцами годами.",
+      "isaspect": true
+    },
+    {
+      "id": "tally",
+      "label": "Числа",
+      "desc": "Условленное денежное средство незримого мира. Предельно неофициальное, неизменно надёжное.",
+      "commute": [
+        "spintria.iron",
+        "spintria.bronze",
+        "spintria.tin",
+        "spintria.silver",
+        "spintria.gold"
+      ],
+      "isAspect": true
+    },
+    {
+      "id": "thing",
+      "label": "Вещь",
+      "desc": "«Благородный муж заставляет работать вещи. Маленького человека – заставляют работать вещи» (Сунь-цзы).",
+      "isAspect": true
+    },
+    {
+      "id": "tool",
+      "label": "Инструмент",
+      "desc": "Одна из причин, почему обезьяны оказались успешней насекомых.",
+      "isAspect": true
+    },
+    {
+      "id": "visitor",
+      "label": "Посетитель",
+      "desc": "Кто-то кроме самого библиотекаря, кому дозволяется трогать книги. Прибытие посетителя – событие, вызывающее смешанные чувства.",
+      "isAspect": true
+    },
+    {
+      "id": "visitor.villager",
+      "label": "Посетитель: местный житель",
+      "desc": "Кто-то из местных жителей принял моё приглашение. [Одновременно можно пригласить только одного местного жителя.]",
+      "isAspect": true
+    },
+    {
+      "id": "visitor.embarking",
+      "label": "Посетитель: собирается в путь",
+      "desc": "Этому посетителю не терпится отбыть по своим делам. Он почти наверняка не расположен к разговорам.",
+      "isAspect": true
+    },
+    {
+      "id": "uncatalogued",
+      "label": "Не каталогизировано",
+      "desc": "«Нет ничего безопаснее неведения – и ничего смертоноснее» (Ниро Вульф).",
+      "isAspect": true
+    },
+    {
+      "id": "undiscovered",
+      "label": "Не открыто",
+      "desc": "[Откройте рецепт, и здесь появится список его ингредиентов.]",
+      "isAspect": true
+    },
+    {
+      "id": "unsociable",
+      "label": "Нелюдимость",
+      "desc": "[Нелюдимые посетители недолюбливают общество прочих гостей. Пригласить их на обычный светский приём не удастся.]",
+      "isAspect": true
+    },
+    {
+      "id": "unlocking",
+      "label": "Открытие",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "unwrapping",
+      "label": "Распаковка",
+      "desc": "Используем, когда игрок открывает посылку, чтобы создавать новые предметы",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "upgrading",
+      "label": "Улучшение",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "upgrading.down",
+      "label": "Улучшение: путь вниз",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "upgrading.out",
+      "label": "Улучшение: путь вовне",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "water",
+      "label": "Вода",
+      "ishidden": true
+    },
+    {
+      "id": "wrapping",
+      "label": "Запаковка",
+      "desc": "Превращает бланк заказа обратно в посылку",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "workstationhasaspect",
+      "label": "Освящение",
+      "desc": "[Это место было освящено и теперь содержит в себе аспект само по себе.]",
+      "isAspect": true
+    },
+    {
+      "id": "uqcat",
+      "label": "uqcat",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "uqchaq",
+      "label": "uqchaq",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "uqterrence",
+      "label": "uqterrence",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "uqtuppence",
+      "label": "uqtuppence",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "uqdog",
+      "label": "uqdog",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "uqnumen",
+      "label": "uqnumen",
+      "isAspect": true,
+      "isHidden": true,
+      "noartneeded": true
+    },
+    {
+      "id": "kod",
+      "label": "НЕ ГОТОВО",
+      "desc": "Здесь не хватает чего-то, что ещё не появилось на свет. [Этим помечается содержимое, которое появится в игре или будет доделано позже. В текущей, ранней версии его ещё нет.]",
+      "icon": "pentiment",
+      "isAspect": true
+    },
+    {
+      "id": "wallart",
+      "label": "Настенное украшение",
+      "desc": "Дом – тоже своего рода книга. Хотя составить к ней алфавитный перечень будет непросто.",
+      "isAspect": true
+    },
+    {
+      "id": "wc.markeraspect",
+      "label": "wcma",
+      "desc": "NO NEED TO LOCALISE THIS Marker aspect for writing case so it can go in village slots without confusing non-HOL players. Cleaner to use 'blank' but then we get branch creep.",
+      "isAspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "weather",
+      "label": "Погода",
+      "desc": "Каждый новый день привносит свою лепту. Погода также может служить своего рода воспоминанием.",
+      "isAspect": true
+    },
+    {
+      "id": "wood",
+      "label": "Древесина",
+      "desc": "Кому-то – столпы небес. Кому-то – будущая бумага.",
+      "isAspect": true
+    },
+    {
+      "id": "wooden",
+      "label": "Сделано из дерева",
+      "desc": "[Отнесите на верстак, чтобы распилить это на щепки.]",
+      "isAspect": true
+    },
+    {
+      "id": "woven",
+      "label": "Сделано из ткани",
+      "desc": "[Отнесите на верстак, чтобы разрезать это на тряпки.]",
+      "isAspect": true
+    },
+    {
+      "id": "writing",
+      "label": "Написание",
+      "desc": "(аспект рецепта)",
+      "isAspect": true,
+      "noartneeded": true
+    },
+    {
+      "id": "b.birdsong",
+      "label": "Тема: Птичья песнь",
+      "desc": "О музыке, загадках и прочем.",
+      "isAspect": true
+    },
+    {
+      "id": "b.bosk",
+      "label": "Тема: Пуща",
+      "desc": "О древнем лесе.",
+      "isAspect": true
+    },
+    {
+      "id": "b.horomachistry",
+      "label": "Тема: горомахия",
+      "desc": "Об установлениях (и вражде) Часов и их эманаций.",
+      "isAspect": true
+    },
+    {
+      "id": "b.hushery",
+      "label": "Тема: исихастика",
+      "desc": "О тишине и прочих вопросах.",
+      "isAspect": true
+    },
+    {
+      "id": "b.illumination",
+      "label": "Тема: Просветление",
+      "desc": "Об очищении себя и окружающего мира.",
+      "isAspect": true
+    },
+    {
+      "id": "b.ithastry",
+      "label": "Тема: итастрия",
+      "desc": "Об алхимии, металлургии, пиротехнике.",
+      "isAspect": true
+    },
+    {
+      "id": "b.nyctodromy",
+      "label": "Тема: никтодромия",
+      "desc": "О дорогах и тропах иного мира.",
+      "isAspect": true
+    },
+    {
+      "id": "b.preservation",
+      "label": "Тема: Сохранение",
+      "desc": "Об исцелении и восстановлении.",
+      "isAspect": true
+    },
+    {
+      "id": "b.skolekosophy",
+      "label": "Тема: сколекософия",
+      "desc": "О том, о чём не следовало бы писать.",
+      "isAspect": true
+    },
+    {
+      "id": "w.birdsong",
+      "label": "Птичья песнь",
+      "desc": "Музыка, загадки и прочее. «Досужая болтовня, искупаемая лишь древностью своего происхождения», – как высокомерно охарактеризовал эту Мудрость один исследователь.",
+      "isAspect": true,
+      "sort": "group3_me.3birdsong"
+    },
+    {
+      "id": "w.bosk",
+      "label": "Пуща",
+      "desc": "Мудрость древнего леса; немногими записанная, многими ощущаемая.",
+      "isAspect": true,
+      "sort": "group3_me.3bosk"
+    },
+    {
+      "id": "w.horomachistry",
+      "label": "Горомахия",
+      "desc": "Мудрость, учащая установлениям (и вражде) Часов и их эманаций.",
+      "isAspect": true,
+      "sort": "group3_me.3horomachistry"
+    },
+    {
+      "id": "w.hushery",
+      "label": "Исихастика",
+      "desc": "Великое искусство исихастики учит постигать красоту тишины и того, что её разрушает.",
+      "isAspect": true,
+      "sort": "group3_me.3hushery"
+    },
+    {
+      "id": "w.illumination",
+      "label": "Просветление",
+      "desc": "Ищущий Просветления очищает себя и окружающий его мир. Рано или поздно граница между первым и последним для него стирается.",
+      "isAspect": true,
+      "sort": "group3_me.3illumination"
+    },
+    {
+      "id": "w.ithastry",
+      "label": "Итастрия",
+      "desc": "Алхимия, металлургия, пиротехника: итастрию иногда называют Искусством Преображающим.",
+      "isAspect": true,
+      "sort": "group3_me.3ithastry"
+    },
+    {
+      "id": "w.nyctodromy",
+      "label": "Никтодромия",
+      "desc": "«Странствия в ночи опасней и труднее дневных. И в этом весь смысл». Мудрость, учащая дорогам и тропам иного мира.",
+      "isAspect": true,
+      "sort": "group3_me.3nyctodromy"
+    },
+    {
+      "id": "w.preservation",
+      "label": "Сохранение",
+      "desc": "Исцеление и восстановление. Мудрость, обыкновенно не пользующаяся популярностью – во всяком случае среди тех, кто не задумывается, как ещё стоит этот мир.",
+      "isAspect": true,
+      "sort": "group3_me.3preservation"
+    },
+    {
+      "id": "w.skolekosophy",
+      "label": "Сколекософия",
+      "desc": "Изучение того, что не следовало бы изучать. Кто-то считает это Мудростью.",
+      "isAspect": true,
+      "sort": "group3_me.3skolekosophy"
+    },
+    {
+      "id": "wisdom.committed",
+      "label": "Вложено",
+      "desc": "Вы решили, к которой из стезей необъятного мира знаний будет относиться этот навык. [Навык вложен в ветвь Древа мудрости. Название соответствующей дисциплины теперь отмечено на его карте.]",
+      "isAspect": true,
+      "sort": "group3_me.4committed"
+    },
+    {
+      "ID": "u.aramaic",
+      "Label": "Знает арамейский",
+      "desc": "(Как и я).",
+      "isAspect": true,
+      "icon": "w.aramaic"
+    },
+    {
+      "ID": "u.greek",
+      "Label": "Знает греческий",
+      "desc": "(Как и я).",
+      "isAspect": true,
+      "icon": "w.greek"
+    },
+    {
+      "ID": "u.latin",
+      "Label": "Знает латынь",
+      "desc": "(Как и я).",
+      "isAspect": true,
+      "icon": "w.latin"
+    },
+    {
+      "ID": "u.phrygian",
+      "Label": "Знает фригийский",
+      "desc": "(Как и я).",
+      "isAspect": true,
+      "icon": "w.phrygian"
+    },
+    {
+      "ID": "u.sanskrit",
+      "Label": "Знает санскрит",
+      "desc": "(Как и я).",
+      "isAspect": true,
+      "icon": "w.sanskrit"
+    },
+    {
+      "ID": "u.vak",
+      "Label": "Знает вач",
+      "desc": "Понимает этот дерзкий язык.",
+      "isAspect": true,
+      "icon": "w.vak"
+    },
+    {
+      "ID": "u.henavek",
+      "Label": "Знает керневек хенавек",
+      "desc": "Понимает этот забытый язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.henavek"
+    },
+    {
+      "ID": "u.mandaic",
+      "Label": "Знает глубинный мандейский",
+      "desc": "Понимает этот звучный язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.mandaic"
+    },
+    {
+      "ID": "u.killasimi",
+      "Label": "Знает килласими",
+      "desc": "Понимает плетёный язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.killasimi"
+    },
+    {
+      "ID": "u.fucine",
+      "Label": "Знает фуцинский",
+      "desc": "Понимает этот сухой язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.fucine"
+    },
+    {
+      "ID": "u.sabazine",
+      "Label": "Знает сабазийский",
+      "desc": "Понимает этот загадочный язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.sabazine"
+    },
+    {
+      "ID": "u.cracktrack",
+      "Label": "Знает крактрак",
+      "desc": "Понимает этот первобытный язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.cracktrack"
+    },
+    {
+      "ID": "u.hyksos",
+      "Label": "Знает гиксосский",
+      "desc": "Понимает этот лукавый язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.hyksos"
+    },
+    {
+      "ID": "u.ericapaean",
+      "Label": "Знает эрикапейский",
+      "desc": "Понимает этот утончённый язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.ericapaean"
+    },
+    {
+      "ID": "u.ramsund",
+      "Label": "Знает рамсундский",
+      "desc": "Понимает этот игривый язык в достаточной мере, чтобы читать или учить ему других.",
+      "isAspect": true,
+      "icon": "w.ramsund"
+    },
+    {
+      "ID": "w.latin",
+      "Label": "Написано на латыни",
+      "sort": "group2_challenges.latin",
+      "desc": "Мёртвый язык. Мёртвый, как алмазы. [Библиотекарь знает латынь. Знают ли её другие – далеко не факт.]",
+      "isAspect": true
+    },
+    {
+      "ID": "w.greek",
+      "Label": "Написано по-гречески",
+      "sort": "group2_challenges.greek",
+      "desc": "Язык философов, богословов и героев. [Библиотекарь знает греческий. Знают ли его другие – далеко не факт.]",
+      "isAspect": true
+    },
+    {
+      "ID": "w.sanskrit",
+      "Label": "Написано на санскрите",
+      "sort": "group2_challenges.sanskrit",
+      "desc": "Священный язык Индии. Теперь эта дверь вам открыта: сокровища поэзии, обряды и таинства, описанные за четыре тысячи лет, лежат перед вами... если продраться через витиеватость слога. [Библиотекарь знает санскрит. Знают ли его другие – далеко не факт.]",
+      "isAspect": true
+    },
+    {
+      "ID": "w.phrygian",
+      "Label": "Написано по-фригийски",
+      "sort": "group2_challenges.phrygian",
+      "desc": "Фригийцы почитали Великую мать, которую мы зовём Чашей. Именно в их землях зародилось общество сестёр Узла, и это на их языке Громовой Ритм молился во время вознесения. [Библиотекарь знает фригийский. Немногие могут похвастаться тем же.]",
+      "isAspect": true
+    },
+    {
+      "ID": "w.aramaic",
+      "Label": "Написано по-арамейски",
+      "sort": "group2_challenges.aramaic",
+      "desc": "Язык, на котором говорили жители Арамеи и уже более трёх тысяч лет говорят их многочисленные потомки. [Библиотекарь знает арамейский. Знают ли его другие – далеко не факт.]",
+      "isAspect": true
+    },
+    {
+      "ID": "w.vak",
+      "Label": "Написано на языке вач",
+      "sort": "group2_challenges.vak",
+      "desc": "Дерзкий язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.henavek",
+      "Label": "Написано на керневек хенавек",
+      "sort": "group2_challenges.henavek",
+      "desc": "Забытый язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.mandaic",
+      "Label": "Написано на глубинном мандейском",
+      "sort": "group2_challenges.mandaic",
+      "desc": "Звучный язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.killasimi",
+      "Label": "Написано на килласими",
+      "sort": "group2_challenges.killasimi",
+      "desc": "Плетёный язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.fucine",
+      "Label": "Написано по-фуцински",
+      "sort": "group2_challenges.fucine",
+      "desc": "Сухой язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.sabazine",
+      "Label": "Написано на сабазийском",
+      "sort": "group2_challenges.sabazine",
+      "desc": "Загадочный язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.cracktrack",
+      "Label": "Написано на крактраке",
+      "sort": "group2_challenges.cracktrack",
+      "desc": "Первобытный язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.hyksos",
+      "Label": "Написано на гиксосском",
+      "sort": "group2_challenges.hyksos",
+      "desc": "Лукавый язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.ericapaean",
+      "Label": "Написано на эрикапейском",
+      "sort": "group2_challenges.ericapaean",
+      "desc": "Утончённый язык.",
+      "isAspect": true
+    },
+    {
+      "ID": "w.ramsund",
+      "Label": "Написано на рамсундском",
+      "sort": "group2_challenges.ramsund",
+      "desc": "Игривый язык.",
+      "isAspect": true
+    },
+    {
+      "id": "zedge",
+      "label": "Грань [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Грани.]",
+      "isAspect": true,
+      "sort": "group1_primary.zedge"
+    },
+    {
+      "id": "zforge",
+      "label": "Кузня [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Кузни.]",
+      "isAspect": true,
+      "sort": "group1_primary.zforge"
+    },
+    {
+      "id": "zgrail",
+      "label": "Чаша [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Чаши.]",
+      "isAspect": true,
+      "sort": "group1_primary.zgrail"
+    },
+    {
+      "id": "zheart",
+      "label": "Сердце [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Сердца.]",
+      "isAspect": true,
+      "sort": "group1_primary.zheart"
+    },
+    {
+      "id": "zknock",
+      "label": "Стук [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Стука.]",
+      "isAspect": true,
+      "sort": "group1_primary.zknock"
+    },
+    {
+      "id": "zlantern",
+      "label": "Лампада [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Лампады.]",
+      "isAspect": true,
+      "sort": "group1_primary.zlantern"
+    },
+    {
+      "id": "zmoon",
+      "label": "Луна [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Луны.]",
+      "isAspect": true,
+      "sort": "group1_primary.zmoon"
+    },
+    {
+      "id": "zmoth",
+      "label": "Мотылёк [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Мотылька. Или не обретёте. Да. Нет. Наверное.]",
+      "isAspect": true,
+      "sort": "group1_primary.zmoth"
+    },
+    {
+      "id": "znectar",
+      "label": "Нектар [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Нектара.]",
+      "isAspect": true,
+      "sort": "group1_primary.znectar"
+    },
+    {
+      "id": "zrose",
+      "label": "Роза [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Розы.]",
+      "isAspect": true,
+      "sort": "group1_primary.zrose"
+    },
+    {
+      "id": "zscale",
+      "label": "Чешуя [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Чешуи.]",
+      "isAspect": true,
+      "sort": "group1_primary.zscale"
+    },
+    {
+      "id": "zsky",
+      "label": "Небо [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Неба.]",
+      "isAspect": true,
+      "sort": "group1_primary.zsky"
+    },
+    {
+      "id": "zwinter",
+      "label": "Зима [изнурение]",
+      "desc": "[Дождитесь, когда эта карта восстановится, и вы вновь обретёте ту же ступень Зимы.]",
+      "isAspect": true,
+      "sort": "group1_primary.zwinter"
+    },
+    {
+      "id": "x",
+      "label": "x",
+      "isAspect": true,
+      "comments": "an absence"
+    }
+  ]
+}

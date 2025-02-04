@@ -1,0 +1,111 @@
+{
+  "elements": [
+    {
+      "id": "arun.likes.yvette",
+      "desc": "据传，噤声居屋的沙龙结束后，阿伦带着伊薇特回家了。"
+    },
+    {
+      "id": "coquille.likes.douglas",
+      "desc": "科基尔对道格拉斯怀有恶作剧般的热情。"
+    },
+    {
+      "id": "venue.picnicking",
+      "label": "野餐场所",
+      "desc": "一个野餐的好地方。"
+    },
+    {
+      "id": "yvette.likes.azita",
+      "desc": "阿齐塔和伊薇特擦出了某种火花。"
+    },
+    {
+      "id": "venue.informal",
+      "label": "副餐场所",
+      "desc": "一个喝午前茶或下午茶的好地方。"
+    },
+    {
+      "id": "arun.likes.denzil",
+      "desc": "据传，噤声居屋的沙龙结束后，阿伦和邓齐尔一起回家了。"
+    },
+    {
+      "id": "venue.formal",
+      "label": "正餐场所",
+      "desc": "一个享用午宴或晚宴的好地方。"
+    },
+    {
+      "id": "arthur.mistrusts.coquille",
+      "desc": "亚瑟密切关注着科基尔。"
+    },
+    {
+      "id": "douglas.likes.arthur",
+      "desc": "道格拉斯喜欢上了新认的叔祖父，亚瑟。"
+    },
+    {
+      "id": "aladim.likes.connie",
+      "desc": "阿迪姆邀请康妮与他共进晚餐。"
+    },
+    {
+      "id": "coquille.mistrusts.arthur",
+      "desc": "科基尔享受着与亚瑟之间的敌意。"
+    },
+    {
+      "id": "yvette.likes.arun",
+      "desc": "据传，噤声居屋的沙龙结束后，伊薇特和阿伦一起回家了。"
+    },
+    {
+      "id": "agdistis.likes.chaima",
+      "desc": "阿格狄斯提斯享受柴玛的陪伴。"
+    },
+    {
+      "id": "zachary.likes.chaima",
+      "desc": "扎迦利对柴玛表现出了几近爱慕的感情……"
+    },
+    {
+      "id": "arthur.likes.douglas",
+      "desc": "亚瑟喜欢上了他新结识的侄孙道格拉斯。"
+    },
+    {
+      "id": "douglas.likes.coquille",
+      "desc": "道格拉斯暗中恋慕科基尔，可若有一日必须将她绳之以法，他定能毫不犹豫地将这份感情弃置一旁。"
+    },
+    {
+      "id": "chaima.likes.agdistis",
+      "desc": "柴玛喜欢上了阿格狄斯提斯。"
+    },
+    {
+      "id": "morgen.likes.zachary",
+      "desc": "摩根对扎迦利产生了暂时的喜爱——或许甚至称得上是柔情。"
+    },
+    {
+      "id": "azita.likes.yvette",
+      "desc": "阿齐塔和伊薇特擦出了某种火花。"
+    },
+    {
+      "id": "douglas.likes.hokobald",
+      "desc": "道格拉斯对霍科博尔德秉持着不情不愿的敬意。"
+    },
+    {
+      "id": "arun.likes.coquille",
+      "desc": "阿伦对科基尔生出了一种谨慎的亲情。"
+    },
+    {
+      "id": "zachary.likes.morgen",
+      "desc": "扎迦利阴郁的热情已经被摩根点燃。"
+    },
+    {
+      "id": "coquille.likes.arun",
+      "desc": "科基尔开始对阿伦产生了一种警惕的亲情。"
+    },
+    {
+      "id": "connie.likes.aladim",
+      "desc": "康妮已经接受了阿迪姆私下共进晚餐的邀约。"
+    },
+    {
+      "id": "chaima.likes.zachary",
+      "desc": "柴玛对扎迦利生出了一种奇怪的眷恋。"
+    },
+    {
+      "id": "hokobald.likes.douglas",
+      "desc": "霍科博尔德对道格拉斯产生了一种居高临下的青睐。"
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+﻿{
+  "elements": [
+    {
+      "id": "orderplaced.tea.lapsang",
+      "label": "Заказ на чай лапсанг сушонг",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.tea.lapsang",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.tea.assam",
+      "label": "Заказ на чай ассам",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.tea.assam",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.coffee.dawnlion",
+      "label": "Заказ на кофе «Лев на рассвете»",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.coffee.dawnlion",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.coffee.eveningisles",
+      "label": "Заказ на кофе «Сумеречные острова»",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.coffee.eveningisles",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.ham.canned",
+      "label": "Заказ на консервированную ветчину",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.ham.canned",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.glue",
+      "label": "Заказ на клей",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.glue",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.wire.copper",
+      "label": "Заказ на медную проволоку",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.wire.copper",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.oil.moon",
+      "label": "Заказ на пенумбратическое масло",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.oil.moon",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.oil.moth",
+      "label": "Заказ на осциллическое масло",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.oil.moth",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.oil.forge",
+      "label": "Заказ на сцинтиллическое масло",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.oil.forge",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.quire.paper",
+      "label": "Заказ на бумагу",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.quire.paper",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.packet.cocoa",
+      "label": "Заказ на какао",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.packet.cocoa",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.armagnac",
+      "label": "Заказ на арманьяк",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.armagnac",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.lambig",
+      "label": "Заказ на ламбиг",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.lambig",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.raveline",
+      "label": "Заказ на «Домен Равелин»",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.raveline",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.roscraggan",
+      "label": "Заказ на роскрагганский виски",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.roscraggan",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.strathcoyne",
+      "label": "Заказ на стрэткойновский виски",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.strathcoyne",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.bottle.jannings",
+      "label": "Заказ на «Шлосс Яннингс»",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.bottle.jannings",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.witchworms.desiccated",
+      "label": "Заказ на сушёных ведьминых червей",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.witchworms.desiccated",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.arsenic",
+      "label": "Заказ на мышьяк",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.arsenic",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.parchment.nivine",
+      "label": "Заказ на нивический пергамент",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.parchment.nivine",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.dripping",
+      "label": "Заказ на топлёный жир",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.dripping",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.flour",
+      "label": "Заказ на муку",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.flour",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.almonds",
+      "label": "Заказ на миндаль",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.almonds",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.milk",
+      "label": "Заказ на молоко",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.milk",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.potatoes",
+      "label": "Заказ на картофель",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.potatoes",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.beef",
+      "label": "Заказ на говядину",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.beef",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.butter",
+      "label": "Заказ на сливочное масло",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.butter",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.sugar",
+      "label": "Заказ на сахар",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.sugar",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.plums",
+      "label": "Заказ на сливы",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.plums",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orderplaced.pheasant",
+      "label": "Заказ на фазана",
+      "isAspect": true,
+      "icon": "orderplaced",
+      "xtriggers": {
+        "provisioning": [
+          {
+            "id": "contains.pheasant",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.tea.lapsang",
+      "label": "Источает слабый запах дыма.",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "packet.tea.lapsang",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.tea.assam",
+      "label": "Источает лёгкий аромат.",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "packet.tea.assam",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.coffee.dawnlion",
+      "label": "Источает слабый запах кофе и фруктов.",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "packet.coffee.dawnlion",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.coffee.eveningisles",
+      "label": "Источает слабый, но бодрящий запах кофе.",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "packet.coffee.eveningisles",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.ham.canned",
+      "label": "Что-то твёрдое и прямоугольное",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "ham.canned",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.glue",
+      "label": "Что-то податливое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "glue",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.wire.copper",
+      "label": "Что-то жёсткое и округлое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "wire.copper",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.oil.moon",
+      "label": "Что-то чуть слышно булькающее",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "oil.moon",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.oil.moth",
+      "label": "Что-то многозначительно булькающее",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "oil.moth",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.oil.forge",
+      "label": "Что-то булькающее",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "oil.forge",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.quire.paper",
+      "label": "Что-то плотное, с твёрдыми углами",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "quire.paper",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.packet.cocoa",
+      "label": "Источает аромат шоколада",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "packet.cocoa",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.armagnac",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.armagnac",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.lambig",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.lambig",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.raveline",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.raveline",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.roscraggan",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.roscraggan",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.strathcoyne",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.strathcoyne",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.bottle.jannings",
+      "label": "Что-то хрупкое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "bottle.jannings",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.witchworms.desiccated",
+      "label": "Пакет покрыт многочисленными предостерегающими надписями",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "witchworms.desiccated",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.arsenic",
+      "label": "Пакет покрыт многочисленными предостерегающими надписями",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "arsenic",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.parchment.nivine",
+      "label": "Что-то плотное, с твёрдыми углами",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "parchment.nivine",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.dripping",
+      "label": "Что-то жирное",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "dripping",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.flour",
+      "label": "Что-то рассыпчатое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "flour",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.almonds",
+      "label": "Что-то перекатывающееся",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "almonds",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.milk",
+      "label": "Что-то булькающее",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "milk",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.potatoes",
+      "label": "Что-то увесистое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "potatoes",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.beef",
+      "label": "Что-то подающееся",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "beef",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.butter",
+      "label": "Что-то податливое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "butter",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.sugar",
+      "label": "Что-то плотное",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "sugar",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.plums",
+      "label": "Что-то податливое",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "plums",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "contains.pheasant",
+      "label": "Что-то подающееся",
+      "isAspect": true,
+      "icon": "contains",
+      "xtriggers": {
+        "unwrapping": [
+          {
+            "id": "pheasant",
+            "morpheffect": "spawn",
+            "level": "^"
+          },
+          {
+            "id": "^",
+            "morpheffect": "mutate",
+            "level": -1
+          }
+        ]
+      }
+    }
+  ]
+}

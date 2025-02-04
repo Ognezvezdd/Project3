@@ -1,0 +1,953 @@
+﻿{
+  "elements": [
+    {
+      "id": "x.preliminalmeter",
+      "Label": "Урок: подсознательный ритм",
+      "desc": "Я начал лучше понимать подсознательный ритм. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "knock": 1,
+        "boost.knock": 1,
+        "rose": 1,
+        "boost.rose": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.pyroglyphics",
+      "Label": "Урок: пироглифы",
+      "desc": "Я начал лучше понимать пироглифы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "forge": 1,
+        "boost.forge": 1,
+        "lantern": 1,
+        "boost.lantern": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.inks.containment",
+      "Label": "Урок: чернила удержания",
+      "desc": "Я начал лучше понимать чернила удержания. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.inks.revelation",
+      "Label": "Урок: чернила откровения",
+      "desc": "Я начал лучше понимать чернила откровения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "moth": 1,
+        "boost.moth": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.inks.power",
+      "Label": "Урок: чернила власти",
+      "desc": "Я начал лучше понимать чернила власти. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "rose": 1,
+        "boost.rose": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.drums.dances",
+      "Label": "Урок: барабаны и пляски",
+      "desc": "Я начал лучше понимать барабаны и пляски. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "nectar": 1,
+        "boost.nectar": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.strings.songs",
+      "Label": "Урок: струны и песни",
+      "desc": "Я начал лучше понимать струны и песни. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "heart": 1,
+        "boost.heart": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.bells.brazieries",
+      "Label": "Урок: колокола и жаровни",
+      "desc": "Я начал лучше понимать колокола и жаровни. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "forge": 1,
+        "boost.forge": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.horns.ivories",
+      "Label": "Урок: рога и бивни",
+      "desc": "Я начал лучше понимать рога и бивни. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.surgeries.exsanguinations",
+      "Label": "Урок: операции и кровопускания",
+      "desc": "Я начал лучше понимать операции и кровопускания. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.stitching.binding",
+      "Label": "Урок: швы и плетения",
+      "desc": "Я начал лучше понимать швы и плетения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "heart": 1,
+        "boost.heart": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.furs.feathers",
+      "Label": "Урок: шкуры и перья",
+      "desc": "Я начал лучше понимать шкуры и перья. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.pearl.tide",
+      "Label": "Урок: прилив и жемчуг",
+      "desc": "Я начал лучше понимать прилив и жемчуг. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "rose": 1,
+        "boost.rose": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.insects.nectars",
+      "Label": "Урок: насекомые и нектары",
+      "desc": "Я начал лучше понимать насекомых и нектары. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "nectar": 1,
+        "boost.nectar": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.herbs.infusions",
+      "Label": "Урок: травы и настойки",
+      "desc": "Я начал лучше понимать травы и настойки. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "nectar": 1,
+        "boost.nectar": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.spices.savours",
+      "Label": "Урок: пряности и приправы",
+      "desc": "Я начал лучше понимать пряности и приправы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "nectar": 1,
+        "boost.nectar": 1,
+        "forge": 1,
+        "boost.forge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.leaves.thorns",
+      "Label": "Урок: листья и тернии",
+      "desc": "Я начал лучше понимать листья и тернии. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "nectar": 1,
+        "boost.nectar": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.orchids.narcotics",
+      "Label": "Урок: орхидеи и наркотики",
+      "desc": "Я начал лучше понимать орхидеи и наркотики. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "grail": 1,
+        "boost.grail": 1,
+        "nectar": 1,
+        "boost.nectar": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.serpents.venoms",
+      "Label": "Урок: гады и яды",
+      "desc": "Я начал лучше понимать гадов и яды. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sights.sensations",
+      "Label": "Урок: чувства и зрелища",
+      "desc": "Я начал лучше понимать чувства и зрелища. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "winter": 1,
+        "boost.winter": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.desires.dissolutions",
+      "Label": "Урок: искушения и исчезновения",
+      "desc": "Я начал лучше понимать искушения и исчезновения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "grail": 1,
+        "boost.grail": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.resurgences.emergences",
+      "Label": "Урок: явления и знамения",
+      "desc": "Я начал лучше понимать явления и знамения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.rhyme.remembrance",
+      "Label": "Урок: палинодии и поминовения",
+      "desc": "Я начал лучше понимать палинодии и поминовения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.disciplines.thehammer",
+      "Label": "Урок: наука молота",
+      "desc": "Я начал лучше понимать науку молота. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "edge": 1,
+        "boost.edge": 1,
+        "forge": 1,
+        "boost.forge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.disciplines.thescar",
+      "Label": "Урок: наука шрамов",
+      "desc": "Я начал лучше понимать науку шрамов. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "edge": 1,
+        "boost.edge": 1,
+        "lantern": 1,
+        "boost.lantern": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.auroralcontemplations",
+      "Label": "Урок: рассветные размышления",
+      "desc": "Я начал лучше понимать рассветные размышления. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "edge": 1,
+        "boost.edge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.applebrighteuphonies",
+      "Label": "Урок: дары Светлой Яблони",
+      "desc": "Я начал лучше понимать дары Светлой Яблони. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.watchmansparadoxes",
+      "Label": "Урок: парадоксы Дозорного",
+      "desc": "Я начал лучше понимать парадоксы Дозорного. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.raggedcrossroads",
+      "Label": "Урок: рваные распутья",
+      "desc": "Я начал лучше понимать рваные распутья. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "edge": 1,
+        "boost.edge": 1,
+        "winter": 1,
+        "boost.winter": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.meniscatereflections",
+      "Label": "Урок: размышления Менискаты",
+      "desc": "Я начал лучше понимать размышления Менискаты. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "forge": 1,
+        "boost.forge": 1,
+        "edge": 1,
+        "boost.edge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.putrefactions.calcinations",
+      "Label": "Урок: разложение и гниение",
+      "desc": "Я начал лучше понимать разложение и гниение. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.solutions.separations",
+      "Label": "Урок: растворения и разделения",
+      "desc": "Я начал лучше понимать растворения и разделения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.path.pilgrim",
+      "Label": "Урок: Путь и паломник",
+      "desc": "Я начал лучше понимать Путь и паломника. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "rose": 1,
+        "boost.rose": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.purifications.exaltations",
+      "Label": "Урок: очищение и возвышение",
+      "desc": "Я начал лучше понимать очищение и возвышение. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "lantern": 1,
+        "boost.lantern": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.transformations.liberations",
+      "Label": "Урок: преображения и высвобождения",
+      "desc": "Я начал лучше понимать преображения и высвобождения. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "forge": 1,
+        "boost.forge": 1,
+        "moth": 1,
+        "boost.moth": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.lockworks.clockworks",
+      "Label": "Урок: часовые и замочные механизмы",
+      "desc": "Я начал лучше понимать часовые и замочные механизмы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "knock": 1,
+        "boost.knock": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.seastories",
+      "Label": "Урок: морские рассказы",
+      "desc": "Я начал лучше понимать морские рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.wolfstories",
+      "Label": "Урок: волчьи рассказы",
+      "desc": "Я начал лучше понимать волчьи рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sandstories",
+      "Label": "Урок: пустынные рассказы",
+      "desc": "Я начал лучше понимать пустынные рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "rose": 1,
+        "boost.rose": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.skystories",
+      "Label": "Урок: небесные рассказы",
+      "desc": "Я начал лучше понимать небесные рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "rose": 1,
+        "boost.rose": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.snowstories",
+      "Label": "Урок: снежные рассказы",
+      "desc": "Я начал лучше понимать снежные рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.stonestories",
+      "Label": "Урок: каменные рассказы",
+      "desc": "Я начал лучше понимать каменные рассказы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "nectar": 1,
+        "boost.nectar": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.vak",
+      "Label": "Урок: язык вач",
+      "desc": "Я начал лучше понимать язык вач. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "knock": 1,
+        "boost.knock": 1,
+        "rose": 1,
+        "boost.rose": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.mandaic",
+      "Label": "Урок: глубинный мандейский язык",
+      "desc": "Я начал лучше понимать глубинный мандейский. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "forge": 1,
+        "boost.forge": 1,
+        "lantern": 1,
+        "boost.lantern": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.killasimi",
+      "Label": "Урок: язык килласими",
+      "desc": "Я начал лучше понимать язык килласими. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.fucine",
+      "Label": "Урок: фуцинский язык",
+      "desc": "Я начал лучше понимать фуцинский язык. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sabazine",
+      "Label": "Урок: сабазийский язык",
+      "desc": "Я начал лучше понимать сабазийский язык. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "lantern": 1,
+        "boost.lantern": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.cracktrack",
+      "Label": "Урок: язык крактрак",
+      "desc": "Я начал лучше понимать язык крактрак. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "nectar": 1,
+        "boost.nectar": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.hyksos",
+      "Label": "Урок: гиксосский язык",
+      "desc": "Я начал лучше понимать гиксосский язык. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "grail": 1,
+        "boost.grail": 1,
+        "edge": 1,
+        "boost.edge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.ericapaean",
+      "Label": "Урок: эрикапейский язык",
+      "desc": "Я начал лучше понимать эрикапейский язык. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "winter": 1,
+        "boost.winter": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.ramsund",
+      "Label": "Урок: рамсундский язык",
+      "desc": "Я начал лучше понимать рамсундский язык. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sacrasolisinvicti",
+      "Label": "Урок: таинства Непокорённого Солнца",
+      "desc": "Я начал лучше понимать таинства Непокорённого Солнца. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.tridesmahiera",
+      "Label": "Урок: таинства Тройственного узла",
+      "desc": "Я начал лучше понимать таинства Тройственного узла. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sacralimiae",
+      "Label": "Урок: таинства порогов",
+      "desc": "Я начал лучше понимать таинства порогов. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sickle.eclipse",
+      "Label": "Урок: серп и затмение",
+      "desc": "Я начал лучше понимать серп и затмение. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "edge": 1,
+        "boost.edge": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.hill.hollow",
+      "Label": "Урок: холмы и лощины",
+      "desc": "Я начал лучше понимать холмы и лощины. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "scale": 1,
+        "boost.scale": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.pentiments.precursors",
+      "Label": "Урок: покровы и предтечи",
+      "desc": "Я начал лучше понимать покровы и предтечи. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.coil.chasm",
+      "Label": "Урок: витки и впадины",
+      "desc": "Я начал лучше понимать витки и впадины. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "nectar": 1,
+        "boost.nectar": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.rites.theroots",
+      "Label": "Урок: обряды корней",
+      "desc": "Я начал лучше понимать обряды корней. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "nectar": 1,
+        "boost.nectar": 1,
+        "moth": 1,
+        "boost.moth": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.door.wall",
+      "Label": "Урок: двери и стены",
+      "desc": "Я начал лучше понимать двери и стены. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "knock": 1,
+        "boost.knock": 1,
+        "forge": 1,
+        "boost.forge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.edictsliminal",
+      "Label": "Урок: эдикты граничные",
+      "desc": "Я начал лучше понимать эдикты граничные. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moth": 1,
+        "boost.moth": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.edictsmartial",
+      "Label": "Урок: эдикты воинствующие",
+      "desc": "Я начал лучше понимать эдикты воинствующие. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "edge": 1,
+        "boost.edge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.edictsinviolable",
+      "Label": "Урок: эдикты нерушимые",
+      "desc": "Я начал лучше понимать эдикты нерушимые. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.thegreatsignsandthegreatscars",
+      "Label": "Урок: великие знаки и великие шрамы",
+      "desc": "Я начал лучше понимать великие знаки и великие шрамы. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "grail": 1,
+        "boost.grail": 1,
+        "knock": 1,
+        "boost.knock": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.maggephenemysteries",
+      "Label": "Урок: моровые мистерии",
+      "desc": "Я начал лучше понимать моровые мистерии. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "moon": 1,
+        "boost.moon": 1,
+        "heart": 1,
+        "boost.heart": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.weaving.knotworking",
+      "Label": "Урок: узлы и нити",
+      "desc": "Я начал лучше понимать узлы и нити. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "heart": 1,
+        "boost.heart": 1,
+        "moth": 1,
+        "boost.moth": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.anbary.lapidary",
+      "Label": "Урок: яшма и яхонт",
+      "desc": "Я начал лучше понимать яшму и яхонт. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "forge": 1,
+        "boost.forge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.quenchings.quellings",
+      "Label": "Урок: угасание и утешение",
+      "desc": "Я начал лучше понимать угасание и утешение. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "winter": 1,
+        "boost.winter": 1,
+        "heart": 1,
+        "boost.heart": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.glassblowing.vesselcrafting",
+      "Label": "Урок: стёкла и сосуды",
+      "desc": "Я начал лучше понимать стёкла и сосуды. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "knock": 1,
+        "boost.knock": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.glaziery.lightsmithing",
+      "Label": "Урок: рамы и витражи",
+      "desc": "Я начал лучше понимать рамы и витражи. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "lantern": 1,
+        "boost.lantern": 1,
+        "sky": 1,
+        "boost.sky": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.sharps",
+      "Label": "Урок: клинки",
+      "desc": "Я начал лучше понимать клинки. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "edge": 1,
+        "boost.edge": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.ouranoscopy",
+      "Label": "Урок: ураноскопия",
+      "desc": "Я начал лучше понимать ураноскопию. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "sky": 1,
+        "boost.sky": 1,
+        "moon": 1,
+        "boost.moon": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    },
+    {
+      "id": "x.henavek",
+      "Label": "Урок: язык хенавек",
+      "desc": "Я начал лучше понимать язык хенавек. [Попробуйте изучить эту карту.]",
+      "aspects": {
+        "scale": 1,
+        "boost.scale": 1,
+        "forge": 1,
+        "boost.forge": 1,
+        "lesson": 1
+      },
+      "inherits": "_memory.persistent"
+    }
+  ]
+}

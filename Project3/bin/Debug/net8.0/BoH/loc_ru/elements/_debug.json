@@ -1,0 +1,33 @@
+﻿{
+  "elements": [
+    {
+      "id": "huel",
+      "icon": "liquid.sample",
+      "label": "Гуэл",
+      "desc": "Попробуйте. Вам понравится.",
+      "manifestationtype": "thing",
+      "inherits": "_sustenance",
+      "aspects": {
+        "sustenance": 6,
+        "beverage": 7,
+        "edge": 1,
+        "forge": 1,
+        "grail": 1,
+        "heart": 1,
+        "knock": 1,
+        "lantern": 1,
+        "moon": 1,
+        "moth": 1,
+        "nectar": 1,
+        "rose": 1,
+        "scale": 1,
+        "sky": 1,
+        "winter": 1,
+        "course.first": 1,
+        "course.main": 1,
+        "course.side": 1,
+        "course.pudding": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "id": "credits.lb",
+      "label": "美术、监制、营销",
+      "desc": "Lottie Bevan"
+    },
+    {
+      "id": "credits.localisation.ru",
+      "label": "俄语本地化（里奥特洛克）",
+      "desc": "\n协助：Christina Ignatenko, Maria Yunger\n翻译：Mikhail Shvyriaev, Boris Shapiro"
+    },
+    {
+      "id": "credits.moar",
+      "label": "\n<b>我们也向我们的合作者们致敬</b>……"
+    },
+    {
+      "id": "credits.additionalart",
+      "label": "其它美术",
+      "desc": "Adrian Deggan, Clockwork Cuckoo, Catherine Unger"
+    },
+    {
+      "id": "credits.localisation.zhhans.cjk",
+      "label": "中文本地化（白鸽之塔）",
+      "desc": "\n总协调: Karl Lin (林孙)\n译者: Aigalas, Calendra, Lady Worm, Lester, Lokie, Marumba Dyras, Sero_2048, Sherri 梨, WM, 埃拉伽巴路斯, 沼泽渡鸦, 果茶, 鹤田阳葵, 黑叶残荷, 幻想家, 龙 的三次方, 暮色天帷, 褰澜, 天国君, 跳塔轮铡, 团块, 褪色回亿, 寻忆, 一般路过灯人, 幽空\n主菜单标题设计: 囤囤"
+    },
+    {
+      "id": "credits.wf",
+      "label": "<b>天气工厂是</b>……"
+    },
+    {
+      "id": "credits.additionalcoding",
+      "label": "其它代码",
+      "desc": "Roman Loskutov, Knights of Unity, Frgm"
+    },
+    {
+      "id": "credits.localisation.zhhans.hol.cjk",
+      "label": "光之居屋本地化",
+      "desc": "译者: 阿娜斯达奇, 团块, 三度迎来落日, 白前Cynanchum, 一瓶多芬洗面奶（试用装）,泷川葵, AloneOnGallifrey, 入迷鼠, Deepdream\n总协调: Karl Lin (林孙)"
+    },
+    {
+      "id": "credits.ak",
+      "label": "游戏设计、文本、程序",
+      "desc": "Alexis Kennedy"
+    },
+    {
+      "id": "credits.sfx",
+      "label": "音效",
+      "desc": "声音剪辑"
+    },
+    {
+      "id": "credits.localisation.steam.cjk",
+      "label": "Steam页面本地化",
+      "desc": "Pedro Egler, Clocq, ぺぽた, Pierre Cathé, Revan Ji, Karl Sun, 天国君, Calendra, 寻七得七, 阿克里, 寻忆, Marumba Dyras, 历史分析学家喵, 夜雨, Fedor Rumyantsev, Diego Arellano, Leonardo Abate, Clara K"
+    },
+    {
+      "id": "credits.specialthanks",
+      "label": "特别鸣谢",
+      "desc": "全体beta测试参与者; Riley Labrecque for Steamworks.NET; Fingal's Coffee on Trafalgar Road; Norman Chalk; Jonny Koschland and Mark Lewis; Alex Tutty and Anna Poulter-Jones; PK and Sonja; Matt and Taz; Sulo and Chi"
+    },
+    {
+      "id": "credits.music",
+      "label": "音乐",
+      "desc": "Maribeth Solomon & Brent Barkman for Mickymar Productions Ltd\n                    - RIP Micky Erbe -"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Minimal .gitignore for a C#/.NET project using JetBrains Rider
+
+# Build outputs
+obj/
+
+# Rider project files
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log

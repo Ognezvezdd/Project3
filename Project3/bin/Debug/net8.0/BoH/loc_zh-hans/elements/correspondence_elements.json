@@ -1,0 +1,252 @@
+{
+  "elements": [
+    {
+      "id": "letter.summon.azita",
+      "label": "致阿齐塔的邀请函",
+      "desc": "亲爱的布哈拉女士……"
+    },
+    {
+      "id": "letter.summon.hokobald",
+      "label": "致霍科博尔德的邀请函",
+      "desc": "亲爱的霍科博尔德大师……"
+    },
+    {
+      "id": "letter.summon.chaima",
+      "label": "致柴玛的邀请函",
+      "desc": "致尊敬的拉拉·柴玛……"
+    },
+    {
+      "id": "letter.summon.connie",
+      "label": "致康妮的邀请函",
+      "desc": "还请副警监康斯坦丝·李留意……"
+    },
+    {
+      "id": "letter.summon.arun",
+      "label": "致褪皮的邀请函",
+      "desc": "亲爱的褪皮博士……"
+    },
+    {
+      "id": "letter.summon.aladim",
+      "label": "致阿迪姆的邀请函",
+      "desc": "亲爱的阿迪姆博士……"
+    },
+    {
+      "id": "letter.summon.arthur",
+      "label": "致亚瑟·摩尔的邀请函",
+      "desc": "亲爱的摩尔中尉……"
+    },
+    {
+      "id": "letter.summon.olympe",
+      "label": "致奥兰普的邀请函",
+      "desc": "亲爱的贝谢女士……"
+    },
+    {
+      "id": "letter.summon.corso",
+      "label": "致科尔索的邀请函",
+      "desc": "亲爱的雷维特先生……"
+    },
+    {
+      "Desc": "这是一个坚固的黄铜角名片夹，至少服侍过三位图书管理员。[在书桌上用你的名片夹写信邀请访客参加沙龙。若要邀请村民，请在你去布兰库格拜访他们时用名片夹作为谈话主题。]",
+      "Label": "名片夹",
+      "id": "wc"
+    },
+    {
+      "slots": [
+        {
+          "description": "一旦你的信贴上了邮票，邮局的女局长就会屈尊把它送到世界各地去。",
+          "id": "postage",
+          "label": "邮票"
+        }
+      ],
+      "id": "_request"
+    },
+    {
+      "id": "letter.summon.douglas",
+      "label": "致道格拉斯·摩尔的邀请函",
+      "desc": "还请启蒙警探道格拉斯·摩尔留意……"
+    },
+    {
+      "slots": [
+        {
+          "id": "payment",
+          "label": "付款"
+        },
+        {
+          "id": "postage",
+          "label": "邮票"
+        }
+      ],
+      "id": "_purchase.pence"
+    },
+    {
+      "id": "form.order.trn",
+      "label": "订单：T.R.N.有限公司",
+      "desc": "T.R.N.有限公司会慎重地——可以说是古怪地，挑选客户。他们很少做广告。但在他们漫长的历史中，他们从未缺少过顾客。[将订单与墨水一同使用来订购你感兴趣的物品——在订单上写几行字不会消耗墨水。当你订购的快递送达时，里面会附有一张新的订单。]"
+    },
+    {
+      "id": "letter.summon.morgen",
+      "label": "致摩根的邀请函",
+      "desc": "亲爱的平旦女士……"
+    },
+    {
+      "id": "form.order.ch",
+      "label": "订单：凯特与赫洛有限公司",
+      "desc": "凯特与赫洛有限公司几乎在世界各地都设有办事处。在王国的这雾霭边疆处没有——但他们至少同意将产品邮递过来。[将订单与墨水一同使用来订购你感兴趣的物品——在订单上写几行字不会消耗墨水。当你订购的快递送达时，里面会附有一张新的订单。]"
+    },
+    {
+      "xexts": {
+        "reading.correspondence": "圣罗文信托祝贺我被任命为噤声居屋的图书管理员。他们向我保证每年春天都会提供所承诺数额的津贴……但同时也提醒我他们的资源是有限的，并建议我在修复屋舍方面寻求当地居民的协助。信的结尾写着，“当你完成预备工作并准备好接待访客时，请告知我们。”落款很简单：“受托人们”。"
+      },
+      "id": "letter.rhonwen.act1",
+      "label": "给图书管理员的信",
+      "desc": "圣罗文信托给我的信。信托与噤声居屋的联系可能是慈善性质的，但一直以来都没人说得清。"
+    },
+    {
+      "xexts": {
+        "reading.correspondence": "信托希望我已安全抵达，但同样疑惑若确实如此，为何我还没有回复。落款很简单：“受托人们”。"
+      },
+      "id": "reminder.rhonwen.act1",
+      "label": "给图书管理员的提醒",
+      "desc": "圣罗文信托通知我，我还没有回复过他们。"
+    },
+    {
+      "id": "delivery.ch",
+      "label": "一件来自凯特与赫洛有限公司的快递",
+      "desc": "有用的东西抵达了！"
+    },
+    {
+      "id": "letter.summon.zachary",
+      "label": "致扎迦利的邀请函",
+      "desc": "亲爱的韦克菲尔德先生……"
+    },
+    {
+      "id": "delivery.trn",
+      "label": "一件来自T.R.N.有限公司的快递",
+      "desc": "有好东西抵达了！"
+    },
+    {
+      "xexts": {
+        "posting": "闰时无法被唤来；但对它的恳求偶尔会成功地得到回应。"
+      },
+      "id": "message.numa.invocation",
+      "label": "一段迷宫时节的恳愿书",
+      "desc": "如果它成功到达了目的地，或许就能带来闰时。"
+    },
+    {
+      "slots": [
+        {
+          "description": "在寄送订货单时我应当附上货款。",
+          "id": "postage",
+          "label": "货款"
+        }
+      ],
+      "id": "_order"
+    },
+    {
+      "id": "letter.summon.coquille",
+      "label": "致科基尔的邀请函",
+      "desc": "致贵胄科基尔·阿米雷吉比……"
+    },
+    {
+      "slots": [
+        {
+          "description": "一旦你的信贴上了邮票，邮局的女局长就会屈尊把它送到世界各地去。",
+          "id": "postage",
+          "label": "邮票"
+        }
+      ],
+      "id": "_invitation"
+    },
+    {
+      "id": "letter.summon.stanislav",
+      "label": "致斯坦尼斯拉夫神父的邀请函",
+      "desc": "亲爱的沙勒神父……"
+    },
+    {
+      "id": "purchase.uncat",
+      "label": "购买：未编目的小包裹",
+      "desc": "物品：三本来源与质量不明的神秘书籍。"
+    },
+    {
+      "xexts": {
+        "posting": "现在我可以期待每年开春都有访客、来往邮件以及信托的津贴了。"
+      },
+      "id": "reply.rhonwen.act1",
+      "label": "给信托的回复",
+      "desc": "我可以把这封回信带到邮局寄给圣罗文信托。一旦他们知道我已到达，他们会寄来更多的经费……希望如此。"
+    },
+    {
+      "id": "status.rhonwen.open",
+      "label": "信托激活！（内部文本？）",
+      "desc": "玩家已经回复了信托的第一封信。（内部文本？）"
+    },
+    {
+      "slots": [
+        {
+          "id": "payment",
+          "label": "付款"
+        },
+        {
+          "id": "postage",
+          "label": "邮票"
+        }
+      ],
+      "id": "_purchase.tally"
+    },
+    {
+      "id": "letter.summon.dagmar",
+      "label": "致妲格玛的邀请函",
+      "desc": "亲爱的妲格玛女士……"
+    },
+    {
+      "id": "letter.summon.serena",
+      "label": "致瑟雷娜的邀请函",
+      "desc": "亲爱的布莱克伍德博士……"
+    },
+    {
+      "id": "letter.summon.agdistis",
+      "label": "致阿格狄斯提斯的邀请函",
+      "desc": "阿格狄斯提斯先生……"
+    },
+    {
+      "id": "letter.summon.ehsan",
+      "label": "致埃桑的邀请函",
+      "desc": "亲爱的费克里先生……"
+    },
+    {
+      "id": "letter.summon.yvette",
+      "label": "致伊薇特的邀请函",
+      "desc": "亲爱的骚赛博士……"
+    },
+    {
+      "id": "request.catalogue.oriflammes",
+      "label": "索求一份拍品清单",
+      "desc": "一封简短但不失礼节的信，请求奥里弗拉姆拍卖行提供他们最新的拍品清单。"
+    },
+    {
+      "slots": [
+        {
+          "description": "一旦你的信贴上了邮票，邮局的女局长就会屈尊把它送到世界各地去。",
+          "id": "postage",
+          "label": "邮票"
+        }
+      ],
+      "id": "_reply"
+    },
+    {
+      "id": "letter.summon.fraser",
+      "label": "致弗雷泽的邀请函",
+      "desc": "亲爱的斯特拉思科因先生……"
+    },
+    {
+      "slots": [
+        {
+          "description": "邮局的女局长或许有枚合适的印章，好把这封信交由下层天域之路托运。价格是一枚古锡币。",
+          "id": "due",
+          "label": "应缴"
+        }
+      ],
+      "id": "_reply.occult"
+    }
+  ]
+}

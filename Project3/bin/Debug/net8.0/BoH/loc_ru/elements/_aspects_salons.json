@@ -1,0 +1,218 @@
+﻿{
+  "elements": [
+    {
+      "id": "venue.formal",
+      "label": "Торжественное место",
+      "desc": "Подходящее место для ленча или обеда.",
+      "isAspect": true
+    },
+    {
+      "id": "venue.informal",
+      "label": "Неформальное место",
+      "desc": "Подходящее место для лёгкого завтрака или послеполуденного чая.",
+      "isAspect": true
+    },
+    {
+      "id": "venue.picnicking",
+      "label": "Место на природе",
+      "desc": "Подходящее место для пикника.",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.agdistis.chaima",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.aladim.connie",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.arthur.douglas",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.arun.coquille",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.arun.denzil",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.arun.yvette",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.azita.yvette",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.chaima.zachary",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.coquille.douglas",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.douglas.hokobald",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "befriend.morgen.zachary",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "agdistis.likes.chaima",
+      "desc": "Агдистису нравится общество Хаимы.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "aladim.likes.connie",
+      "desc": "Аль-Адим пригласил Конни отобедать с ним вдвоём.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "arthur.likes.douglas",
+      "desc": "Артур прикипел душой к своему новообретённому внучатому племяннику Дугласу.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "arun.likes.coquille",
+      "desc": "В душе Аруна возникла некоторая родственная симпатия к Кокиль.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "arun.likes.denzil",
+      "desc": "Поговаривают, что после приёма Арун сопровождал Дензила до самого дома.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "arun.likes.yvette",
+      "desc": "Поговаривают, что после приёма Арун сопровождал Иветту до самого дома.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "azita.likes.yvette",
+      "desc": "Между Азитой и Иветтой пробежала некая искра.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "chaima.likes.zachary",
+      "desc": "Хаима на удивление привязалась к Захарии.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "coquille.likes.douglas",
+      "desc": "Кокиль кокетничает с Дугласом.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "douglas.likes.hokobald",
+      "desc": "Дуглас нехотя зауважал Хокобальда.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "morgen.likes.zachary",
+      "desc": "Морген начала выказывать некоторое участие – возможно даже, почти что чувства – к Захарии.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "chaima.likes.agdistis",
+      "desc": "Хаиме понравился Агдистис.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "connie.likes.aladim",
+      "desc": "Конни приняла от аль-Адима приглашение отобедать с ним вдвоём.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "douglas.likes.arthur",
+      "desc": "Дуглас рад знакомству со своим двоюродным дедушкой Артуром.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "coquille.likes.arun",
+      "desc": "В душе Кокиль возникла некоторая симпатия к Аруну.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "yvette.likes.arun",
+      "desc": "Поговаривают, что после приёма Арун сопровождал Иветту до самого дома.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "yvette.likes.azita",
+      "desc": "Между Азитой и Иветтой пробежала некая искра.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "zachary.likes.chaima",
+      "desc": "Захария ведёт себя по отношению к Хаиме с едва ли не участием.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "douglas.likes.coquille",
+      "desc": "В глубине души Дуглас симпатизирует Кокиль. Хотя, если дело дойдёт до ордера на арест, личные чувства, безусловно, уступят место долгу.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "hokobald.likes.douglas",
+      "desc": "Хокобальд снизошёл до лёгкого сочувствия Дугласу.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "zachary.likes.morgen",
+      "desc": "Морген сделалась объектом сдержанного внимания Захарии.",
+      "icon": "befriend",
+      "isAspect": true
+    },
+    {
+      "id": "mistrust.arthur.coquille",
+      "icon": "mistrust",
+      "isAspect": true
+    },
+    {
+      "id": "arthur.mistrusts.coquille",
+      "desc": "Артур поглядывает за Кокиль.",
+      "isAspect": true
+    },
+    {
+      "id": "coquille.mistrusts.arthur",
+      "desc": "Кокиль открыто наслаждается неприязнью Артура.",
+      "isAspect": true
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+﻿{
+  "elements": [
+    {
+      "id": "time.daybreak",
+      "label": "Заря",
+      "aspects": {
+        "sleepytime": 1
+      },
+      "desc": "[заря]",
+      "noartneeded": true,
+      "verbicon": "time.daybreak"
+    },
+    {
+      "id": "time.dawn",
+      "label": "Рассвет",
+      "desc": "«Час, когда сны ярче, а ветры холодней» (Джеймс Элрой Флеккер).",
+      "noartneeded": true,
+      "verbicon": "time.dawn"
+    },
+    {
+      "id": "time.morning",
+      "label": "Утро",
+      "desc": "Первая служба",
+      "noartneeded": true,
+      "verbicon": "time.morning"
+    },
+    {
+      "id": "time.midday",
+      "label": "Полдень",
+      "desc": "Вторая служба",
+      "noartneeded": true,
+      "verbicon": "time.midday"
+    },
+    {
+      "id": "time.afternoon",
+      "label": "Вечер",
+      "desc": "Третья служба",
+      "noartneeded": true,
+      "verbicon": "time.afternoon"
+    },
+    {
+      "id": "time.dusk",
+      "label": "Закат",
+      "desc": "Вечерняя служба",
+      "noartneeded": true,
+      "verbicon": "time.dusk"
+    },
+    {
+      "id": "time.night",
+      "label": "Ночь",
+      "desc": "Всенощная служба",
+      "aspects": {
+        "sleepytime": 1
+      },
+      "noartneeded": true,
+      "verbicon": "time.night"
+    },
+    {
+      "id": "season.spring",
+      "label": "Весна",
+      "aspects": {
+        "season": 1
+      },
+      "desc": "..",
+      "verbicon": "season.spring",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.pausing": "season.spring.paused"
+      }
+    },
+    {
+      "id": "season.summer",
+      "label": "Лето",
+      "aspects": {
+        "season": 1
+      },
+      "desc": "..",
+      "verbicon": "season.summer",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.pausing": "season.summer.paused"
+      }
+    },
+    {
+      "id": "season.autumn",
+      "label": "Осень",
+      "aspects": {
+        "season": 1
+      },
+      "desc": "..",
+      "verbicon": "season.autumn",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.pausing": "season.autumn.paused"
+      }
+    },
+    {
+      "id": "season.winter",
+      "label": "Зима",
+      "aspects": {
+        "season": 1
+      },
+      "desc": "..",
+      "verbicon": "season.winter",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.pausing": "season.winter.paused"
+      }
+    },
+    {
+      "id": "season.numa",
+      "label": "Нума",
+      "aspects": {
+        "season": 1
+      },
+      "desc": "..",
+      "verbicon": "season.numa",
+      "noartneeded": true,
+      "ishidden": "true"
+    },
+    {
+      "id": "season.spring.paused",
+      "label": "Весна [Пауза]",
+      "desc": "..",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.unpausing": "season.spring"
+      }
+    },
+    {
+      "id": "season.summer.paused",
+      "label": "Лето [Пауза]",
+      "desc": "..",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.unpausing": "season.summer"
+      }
+    },
+    {
+      "id": "season.autumn.paused",
+      "label": "Осень [Пауза]",
+      "desc": "..",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.unpausing": "season.autumn"
+      }
+    },
+    {
+      "id": "season.winter.paused",
+      "label": "Зима [Пауза]",
+      "desc": "..",
+      "noartneeded": true,
+      "ishidden": "true",
+      "xtriggers": {
+        "season.unpausing": "season.winter"
+      }
+    },
+    {
+      "id": "towards.numa",
+      "label": "Навстречу нуме",
+      "desc": "Время года, что зовётся нума, наступает на Бранкраге в одном сезоне из девяти – но нума непостоянна, словно туман. Когда именно она придёт, предсказать очень трудно. Но чем ближе этот номер к девятке, тем скорее она наступит."
+    },
+    {
+      "id": "next.numa",
+      "label": "Скоро наступит нума",
+      "desc": "Нума будет следующим временем года."
+    },
+    {
+      "id": "block.numa",
+      "label": "Не время для нумы",
+      "desc": "Какое-то время не позволяет вытянуть карту нумы – одна из этих карт должна покидать колоду с каждой попыткой."
+    }
+  ]
+}

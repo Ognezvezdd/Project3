@@ -1,0 +1,49 @@
+﻿{
+  "elements": [
+    {
+      "id": "nx.opening",
+      "label": "Отворение",
+      "isAspect": true
+    },
+    {
+      "id": "nx.sealing",
+      "label": "Запечатывание",
+      "isAspect": true
+    },
+    {
+      "id": "nx.harming",
+      "label": "вред",
+      "isAspect": true
+    },
+    {
+      "id": "nx.healing",
+      "label": "исцеление",
+      "isAspect": true
+    },
+    {
+      "id": "nx.revealing",
+      "label": "раскрытие",
+      "isAspect": true
+    },
+    {
+      "id": "nx.obscuring",
+      "label": "сокрытие",
+      "isAspect": true
+    },
+    {
+      "id": "nx.helping",
+      "label": "помощь",
+      "isAspect": true
+    },
+    {
+      "id": "nx.thwarting",
+      "label": "помеха",
+      "isAspect": true
+    },
+    {
+      "id": "nx.concluding",
+      "label": "помеха",
+      "isAspect": true
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "elements": [
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用花朵。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usesflower"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加一张这位访客可能会讨论的闰时相关事件。]",
+          "id": "subject",
+          "label": "关于？"
+        }
+      ],
+      "id": "_visitor.numa"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        },
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "handle",
+          "label": "努力"
+        },
+        {
+          "description": "[添加任一食物卡。]",
+          "id": "feed",
+          "label": "食物"
+        }
+      ],
+      "id": "_beast.carnivore"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        }
+      ],
+      "id": "_candle"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用燃料。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usesfuel"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用预兆——这意味着她可以在同一天使用一张预兆卡和另一张回忆卡。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usesomen"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用金属。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usesmetal"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加一张这位访客可能会讨论的事件。]",
+          "id": "subject",
+          "label": "关于？"
+        }
+      ],
+      "id": "_visitor"
+    },
+    {
+      "slots": [
+        {
+          "id": "ability",
+          "label": "魂质"
+        }
+      ],
+      "id": "_book.unc",
+      "label": "",
+      "desc": "[将其编目以知晓更多]"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        },
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "handle",
+          "label": "努力"
+        },
+        {
+          "description": "[添加任一食物卡。]",
+          "id": "feed",
+          "label": "食物"
+        }
+      ],
+      "id": "_beast.carnivore.plusmilk"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用布料。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usesfabric"
+    },
+    {
+      "slots": [
+        {
+          "description": "[增添任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        }
+      ],
+      "id": "_",
+      "label": "原初物质",
+      "desc": "正如他们所说，FNOR_早已今非昔比。（内部文本？）"
+    },
+    {
+      "slots": [
+        {
+          "description": "我需要亲自履行。",
+          "id": "ability1",
+          "label": "魂质"
+        },
+        {
+          "description": "选择一项技艺。",
+          "id": "skill",
+          "label": "技艺？"
+        },
+        {
+          "description": "选择一种回忆。",
+          "id": "memory",
+          "label": "回忆？"
+        }
+      ],
+      "id": "_book",
+      "label": ""
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        }
+      ],
+      "id": "_wallart"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用蜡烛。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usescandles"
+    },
+    {
+      "id": "_incident",
+      "label": ".（内部文本？）"
+    },
+    {
+      "id": "_inspiration",
+      "desc": "一位访客受了近期事件的影响……并且有可能更愿意加入灯塔学会了。"
+    },
+    {
+      "id": "_incident.numa",
+      "label": ".（内部文本？）"
+    },
+    {
+      "slots": [
+        {
+          "id": "p",
+          "label": "支付"
+        }
+      ],
+      "id": "_employable"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用声音——这意味着他可以在同一天利用一张声音卡和另一张回忆卡。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usessound"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用一只乐意合作的兽类——幸运的话，其会毫发无损地回到你身边。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usescooperative"
+    },
+    {
+      "slots": [
+        {
+          "description": "[增添任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        },
+        {
+          "description": "[增添任一魂质卡。]",
+          "id": "handle",
+          "label": "努力"
+        },
+        {
+          "description": "[添加任一食物卡。]",
+          "id": "feed",
+          "label": "食物"
+        }
+      ],
+      "id": "_beast.herbivore"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        }
+      ],
+      "id": "_candlecomfort"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用木料。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.useswood"
+    },
+    {
+      "slots": [
+        {
+          "description": "与助手一起工作，或提供一些此人可以利用的东西。[这名助手也能利用颜料。]",
+          "id": "collaborate",
+          "label": "协作"
+        }
+      ],
+      "id": "_assistance.usespigment"
+    },
+    {
+      "slots": [
+        {
+          "description": "[添加任一魂质卡。]",
+          "id": "examine",
+          "label": "努力"
+        }
+      ],
+      "id": "_comfort"
+    }
+  ]
+}

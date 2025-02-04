@@ -1,0 +1,209 @@
+{
+  "elements": [
+    {
+      "id": "callingcard.zachary",
+      "label": "扎迦利的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.serena",
+      "label": "瑟雷娜的住址",
+      "desc": "亚历山大港，塞西尔酒店……[要想写一份对瑟雷娜有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=forge>。]"
+    },
+    {
+      "id": "address.arun",
+      "label": "褪皮的住址",
+      "desc": "克里底，哈尼亚城，心房……[要想写一份对褪皮有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少7点<sprite name=moon>。]"
+    },
+    {
+      "id": "address.ehsan",
+      "label": "埃桑的住址",
+      "desc": "尖顶阿斯顿村，水边巷……[要想写一份对埃桑有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=heart>。]"
+    },
+    {
+      "id": "callingcard.stanislav",
+      "label": "斯坦尼斯拉夫神父的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.agdistis",
+      "label": "阿格狄斯提斯的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.olympe",
+      "label": "奥兰普的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.arthur",
+      "label": "亚瑟·摩尔的住址",
+      "desc": "请转交：伦敦，公园广场，奋进会……[要想写一份对亚瑟·摩尔有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=lantern>。]"
+    },
+    {
+      "id": "callingcard.yvette",
+      "label": "伊薇特的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.connie",
+      "label": "康妮的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.fraser",
+      "label": "弗雷泽的住址",
+      "desc": "米兹默诺顿，斯特拉思科因宅邸……[要想写一份对弗雷泽有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少5点<sprite name=scale>。]"
+    },
+    {
+      "id": "address.douglas",
+      "label": "道格拉斯·摩尔的住址",
+      "desc": "伦敦，霍布斯尾，防剿局……[要想写一份对道格拉斯·摩尔有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=lantern>。]"
+    },
+    {
+      "id": "callingcard.hokobald",
+      "label": "霍科博尔德的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.chaima",
+      "label": "柴玛的住址",
+      "desc": "阿尔及尔，许德拉公社，花园路……[要想写一份对柴玛有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=edge>。]"
+    },
+    {
+      "id": "address.dagmar",
+      "label": "“日魇”的住址",
+      "desc": "鲁里坦尼亚，纳戈尔斯堡……[要想写一份对“日魇”有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=knock>。]"
+    },
+    {
+      "id": "callingcard.aladim",
+      "label": "阿迪姆的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.corso",
+      "label": "科尔索的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.coquille",
+      "label": "科基尔的住址",
+      "desc": "梯弗利斯，萨奇诺宫……[要想写一份对科基尔有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少5点<sprite name=grail>。]"
+    },
+    {
+      "id": "callingcard.coquille",
+      "label": "科基尔的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.agdistis",
+      "label": "阿格狄斯提斯的住址",
+      "desc": "“柏林，德意志舞蹈剧院……”[要想写一份对阿格狄斯提斯有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3<sprite name=sky>。]"
+    },
+    {
+      "id": "callingcard.douglas",
+      "label": "道格拉斯·摩尔的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.stanislav",
+      "label": "斯坦尼斯拉夫神父的住址",
+      "desc": "莫尔比昂，船长修道院……[要想写一份对斯坦尼斯拉夫神父有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=nectar>。]"
+    },
+    {
+      "id": "address.hokobald",
+      "label": "霍科博尔德的住址",
+      "desc": "一个勉强透露出的地址，指向某个位于多佛的邮政信箱。[波辛德的霍科博尔德会果断拒绝图书管理员的邀请，除非邀请函以名为欢欣雌黄的伟大墨水写就。]"
+    },
+    {
+      "id": "callingcard.morgen",
+      "label": "摩根的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.arun",
+      "label": "褪皮的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.azita",
+      "label": "阿齐塔的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.olympe",
+      "label": "奥兰普的住址",
+      "desc": "凯尔伊苏姆，普洛弗街，凯尔伊苏姆评论报……[要想写一份对奥兰普有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=moth>。]"
+    },
+    {
+      "id": "callingcard.serena",
+      "label": "瑟雷娜的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.corso",
+      "label": "科尔索的住址",
+      "desc": "牛津，曼萨德书店……[要想写一份对科尔索有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=lantern>。]"
+    },
+    {
+      "id": "callingcard.arthur",
+      "label": "亚瑟·摩尔的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.oriflammes",
+      "label": "地址：奥里弗拉姆拍卖行",
+      "desc": "“梅菲尔区，覆画残迹之屋。”奥里弗拉姆拍卖行的地址。向他们写信以索求最新的拍卖品清单。"
+    },
+    {
+      "id": "address.yvette",
+      "label": "伊薇特的住址",
+      "desc": "埃克塞特，圣大卫丘……[要想写一份对伊薇特有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=moon>。]"
+    },
+    {
+      "id": "callingcard.fraser",
+      "label": "斯特拉思科因的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.dagmar",
+      "label": "“日魇”的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "callingcard.chaima",
+      "label": "柴玛的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.connie",
+      "label": "康妮的住址",
+      "desc": "苏黎世，斯托申酒店……[要想写一份对康妮有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=moon>。]"
+    },
+    {
+      "id": "callingcard.ehsan",
+      "label": "埃桑的名片",
+      "desc": "[在书桌上将其与你的名片夹一起使用以记录住址。]"
+    },
+    {
+      "id": "address.azita",
+      "label": "阿齐塔的住址",
+      "desc": "撒马尔罕，布哈拉出口贸易……[要想写一份对阿齐塔有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少7点<sprite name=edge>。]"
+    },
+    {
+      "id": "address.morgen",
+      "label": "摩根的住址",
+      "desc": "马赛，“Saphir（蓝宝石）”……[要想写一份对摩根有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少7点<sprite name=grail>。]"
+    },
+    {
+      "id": "address.aladim",
+      "label": "阿迪姆的住址",
+      "desc": "尼斯，波拿巴路……[要想写一份对阿迪姆有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少7点<sprite name=rose>。]"
+    },
+    {
+      "id": "address.zachary",
+      "label": "扎迦利的住址",
+      "desc": "要写信给他，地址仅仅需要写下这几个字：“国家，郡，城镇，街道，房屋”。[要想写一份对扎迦利有足够吸引力的邀请，你需要用技艺、回忆、墨水或其他事物提供至少3点<sprite name=winter>。]"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "elements": [
+    {
+      "id": "musiccollection.numa",
+      "label": "闰时"
+    },
+    {
+      "id": "musiccollection.summer",
+      "label": "夏"
+    },
+    {
+      "id": "musictrack.istandatthedoor",
+      "label": "“我立于门关”"
+    },
+    {
+      "id": "musictrack.newgrowth",
+      "label": "“新生”"
+    },
+    {
+      "id": "musictrack.arosewitch",
+      "label": "“玫瑰女巫”"
+    },
+    {
+      "id": "musictrack.themagicbetweenthetrees",
+      "label": "“林间魔法”"
+    },
+    {
+      "id": "musictrack.apostcardfrombrancrug",
+      "label": "“布兰库格的明信片”"
+    },
+    {
+      "id": "musictrack.sunssplendour",
+      "label": "“日之骄盛”"
+    },
+    {
+      "id": "musictrack.crookystreasures",
+      "label": "“钩盗的宝藏”"
+    },
+    {
+      "id": "musictrack.theninthpart",
+      "label": "“第九部分”"
+    },
+    {
+      "id": "musictrack.onebarehour",
+      "label": "“一时半辰”"
+    },
+    {
+      "id": "musictrack.beacondance",
+      "label": "“信标之舞”"
+    },
+    {
+      "id": "musictrack.stolenreflections",
+      "label": "“被盗的倒影”"
+    },
+    {
+      "id": "musiccollection.spring",
+      "label": "春"
+    },
+    {
+      "id": "musictrack.settleoldsoldier",
+      "label": "“安歇吧，老兵”"
+    },
+    {
+      "id": "musictrack.peaceinthedeep",
+      "label": "“深处安宁”"
+    },
+    {
+      "id": "musictrack.thevelvetsnamelessname",
+      "label": "“丝毧的无名具名者”"
+    },
+    {
+      "id": "musictrack.wildwoodingreen",
+      "label": "“翠绿荒林”"
+    },
+    {
+      "id": "musictrack.fireinthelibrary",
+      "label": "“馆中火厄”"
+    },
+    {
+      "id": "musictrack.sunrisecomesearly",
+      "label": "“旭日将升”"
+    },
+    {
+      "id": "musictrack.thememorywhichdoesnotdie",
+      "label": "“不死的记忆”"
+    },
+    {
+      "id": "musictrack.sunsetcomesearly",
+      "label": "“落日即逝”"
+    },
+    {
+      "id": "musictrack.hawthorn",
+      "label": "“山楂树”"
+    },
+    {
+      "id": "musictrack.theroadtobrancrug",
+      "label": "“布兰库格之路”"
+    },
+    {
+      "id": "musiccollection.autumn",
+      "label": "秋"
+    },
+    {
+      "id": "musictrack.thegoldenson",
+      "label": "“黄金之子”"
+    },
+    {
+      "id": "musictrack.thetwelfthstroke",
+      "label": "“第十二响”"
+    },
+    {
+      "id": "musictrack.ouroboros",
+      "label": "“衔尾蛇”"
+    },
+    {
+      "id": "musictrack.amber",
+      "label": "“琥珀”"
+    },
+    {
+      "id": "musictrack.comeaway",
+      "label": "“离去”"
+    },
+    {
+      "id": "musictrack.rainbringsthedawn",
+      "label": "“唤起拂晓之雨”"
+    },
+    {
+      "id": "musictrack.thelaughingthrush",
+      "label": "“笑鸫”"
+    },
+    {
+      "id": "musiccollection.contemplative",
+      "label": "冥想"
+    },
+    {
+      "id": "musiccollection.winter",
+      "label": "冬"
+    },
+    {
+      "id": "musictrack.seaholly",
+      "label": "“海冬青”"
+    },
+    {
+      "id": "musictrack.caputlupinium",
+      "label": "“罪人当配狼首”"
+    },
+    {
+      "id": "musictrack.thewatersedge",
+      "label": "“水之缘”"
+    },
+    {
+      "id": "musictrack.aknowledgeinthelookofthings",
+      "label": "“万物表观之智识”"
+    },
+    {
+      "id": "musictrack.risingwindsturningstars",
+      "label": "“呼风动星”"
+    },
+    {
+      "id": "musictrack.bellyoftheearth",
+      "label": "“大地之胃”"
+    }
+  ]
+}

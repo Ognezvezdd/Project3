@@ -1,0 +1,369 @@
+{
+  "elements": [
+    {
+      "Label": "教诲：叶片与棘刺",
+      "id": "x.leaves.thorns",
+      "desc": "我已更加理解叶片与棘刺。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：洪钟与铜器",
+      "id": "x.bells.brazieries",
+      "desc": "我已更加理解洪钟与铜器。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：启示之墨",
+      "id": "x.inks.revelation",
+      "desc": "我已更加理解启示之墨。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：虬蟠与裂隙",
+      "id": "x.coil.chasm",
+      "desc": "我已更加理解虬蟠与裂隙。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：缝合与装订",
+      "id": "x.stitching.binding",
+      "desc": "我已更加理解缝合与装订。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：大海的故事",
+      "id": "x.seastories",
+      "desc": "我已更加理解大海的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：三重誓之仪",
+      "id": "x.tridesmahiera",
+      "desc": "我已更加理解三重誓之仪。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：手术与放血",
+      "id": "x.surgeries.exsanguinations",
+      "desc": "我已更加理解手术与放血。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：疫疠之秘",
+      "id": "x.maggephenemysteries",
+      "desc": "我已更加理解疫疠之秘。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：兰花与迷药",
+      "id": "x.orchids.narcotics",
+      "desc": "我已更加理解兰花与迷药。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：拉姆桑德语",
+      "id": "x.ramsund",
+      "desc": "我已更加理解拉姆桑德语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：萨巴佐因语",
+      "id": "x.sabazine",
+      "desc": "我已更加理解萨巴佐因语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：根系之仪",
+      "id": "x.rites.theroots",
+      "desc": "我已更加理解根系之仪。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：覆画残迹与古老前身",
+      "id": "x.pentiments.precursors",
+      "desc": "我已更加理解覆画残迹与古老前身。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：狼的故事",
+      "id": "x.wolfstories",
+      "desc": "我已更加理解狼的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：腐化与煅烧",
+      "id": "x.putrefactions.calcinations",
+      "desc": "我已更加理解腐化与煅烧。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：赫沃尔语",
+      "id": "x.henavek",
+      "desc": "我已更加理解赫沃尔语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：草药与药汤",
+      "id": "x.herbs.infusions",
+      "desc": "我已更加理解草药与药汤。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：玻璃与锻光",
+      "id": "x.glaziery.lightsmithing",
+      "desc": "我已更加理解玻璃与锻光。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：镰刀与日蚀",
+      "id": "x.sickle.eclipse",
+      "desc": "我已更加理解镰刀与日蚀。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：力量之墨",
+      "id": "x.inks.power",
+      "desc": "我已更加理解力量之墨。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：缝纫与编织",
+      "id": "x.weaving.knotworking",
+      "desc": "我已更加理解缝纫与编织。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：伐诃语",
+      "id": "x.vak",
+      "desc": "我已更加理解伐诃语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：伤疤的戒律",
+      "id": "x.disciplines.thescar",
+      "desc": "我已更加理解伤疤的戒律。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：香料与滋味",
+      "id": "x.spices.savours",
+      "desc": "我已更加理解香料与滋味。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：武力之敕令",
+      "id": "x.edictsmartial",
+      "desc": "我已更加理解武力之敕令。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：丘陵与孔窍",
+      "id": "x.hill.hollow",
+      "desc": "我已更加理解丘陵与孔窍。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：精炼与擢升",
+      "id": "x.purifications.exaltations",
+      "desc": "我已更加理解精炼与擢升。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：收容之墨",
+      "id": "x.inks.containment",
+      "desc": "我已更加理解收容之墨。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：复苏与羽化",
+      "id": "x.resurgences.emergences",
+      "desc": "我已更加理解复苏与羽化。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：窥天术",
+      "id": "x.ouranoscopy",
+      "desc": "我已更加理解窥天术。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：希克索斯语",
+      "id": "x.hyksos",
+      "desc": "我已更加理解希克索斯语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：利米亚典仪",
+      "id": "x.sacralimiae",
+      "desc": "我已更加理解利米亚典仪。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：沙的故事",
+      "id": "x.sandstories",
+      "desc": "我已更加理解沙的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：岩石的故事",
+      "id": "x.stonestories",
+      "desc": "我已更加理解岩石的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：嬗变与解放",
+      "id": "x.transformations.liberations",
+      "desc": "我已更加理解嬗变与解放。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：道途与朝圣",
+      "id": "x.path.pilgrim",
+      "desc": "我已更加理解道途与朝圣。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：富奇诺语",
+      "id": "x.fucine",
+      "desc": "我已更加理解富奇诺语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：淬火与熄焰",
+      "id": "x.quenchings.quellings",
+      "desc": "我已更加理解淬火与熄焰。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：无敌太阳典仪",
+      "id": "x.sacrasolisinvicti",
+      "desc": "我已更加理解无敌太阳典仪。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：雕珀与琢石",
+      "id": "x.anbary.lapidary",
+      "desc": "我已更加理解雕珀与琢石。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：曙光的静观",
+      "id": "x.auroralcontemplations",
+      "desc": "我已更加理解曙光的静观。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：解踪语",
+      "id": "x.cracktrack",
+      "desc": "我已更加理解解踪语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：诱惑与消殒",
+      "id": "x.desires.dissolutions",
+      "desc": "我已更加理解诱惑与消殒。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：门扉与墙垣",
+      "id": "x.door.wall",
+      "desc": "我已更加理解门扉与墙垣。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：昆虫与花蜜",
+      "id": "x.insects.nectars",
+      "desc": "我已更加理解昆虫与花蜜。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：阙前格律",
+      "id": "x.preliminalmeter",
+      "desc": "我已更加理解阙前格律。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：白雪的故事",
+      "id": "x.snowstories",
+      "desc": "我已更加理解白雪的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：锤砧的戒律",
+      "id": "x.disciplines.thehammer",
+      "desc": "我已更加理解锤砧的戒律。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：伟大符印与伟大伤疤",
+      "id": "x.thegreatsignsandthegreatscars",
+      "desc": "我已更加理解伟大符印与伟大伤疤。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：阈限之敕令",
+      "id": "x.edictsliminal",
+      "desc": "我已更加理解阈限之敕令。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：景象与感知",
+      "id": "x.sights.sensations",
+      "desc": "我已更加理解景象与感知。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：兽角与象牙",
+      "id": "x.horns.ivories",
+      "desc": "我已更加理解兽角与象牙。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：弧月的倒影",
+      "id": "x.meniscatereflections",
+      "desc": "我已更加理解弧月的倒影。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：天空的故事",
+      "id": "x.skystories",
+      "desc": "我已更加理解天空的故事。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：玻璃吹制与容器制造",
+      "id": "x.glassblowing.vesselcrafting",
+      "desc": "我已更加理解玻璃吹制与容器制造。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：锁簧与发条",
+      "id": "x.lockworks.clockworks",
+      "desc": "我已更加理解锁簧与发条。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：音律与铭记",
+      "id": "x.rhyme.remembrance",
+      "desc": "我已更加理解音律与铭记。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：弦乐与歌谣",
+      "id": "x.strings.songs",
+      "desc": "我已更加理解弦乐与歌谣。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：夜魄语",
+      "id": "x.killasimi",
+      "desc": "我已更加理解夜魄语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：焰篆体",
+      "id": "x.pyroglyphics",
+      "desc": "我已更加理解焰篆体。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：无侵之敕令",
+      "id": "x.edictsinviolable",
+      "desc": "我已更加理解无侵之敕令。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：厄里卡帕奥语",
+      "id": "x.ericapaean",
+      "desc": "我已更加理解厄里卡帕奥语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：锋锐",
+      "id": "x.sharps",
+      "desc": "我已更加理解锋锐。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：渊深曼达安语",
+      "id": "x.mandaic",
+      "desc": "我已更加理解渊深曼达安语。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：残破十字路",
+      "id": "x.raggedcrossroads",
+      "desc": "我已更加理解残破十字路。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：鼓点与舞步",
+      "id": "x.drums.dances",
+      "desc": "我已更加理解鼓点与舞步。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：光明果悦音",
+      "id": "x.applebrighteuphonies",
+      "desc": "我已更加理解光明果悦音。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：珍珠与浪潮",
+      "id": "x.pearl.tide",
+      "desc": "我已更加理解珍珠与浪潮。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：溶解与离析",
+      "id": "x.solutions.separations",
+      "desc": "我已更加理解溶解与离析。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：毛皮与羽翎",
+      "id": "x.furs.feathers",
+      "desc": "我已更加理解毛皮与羽翎。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：守夜人的悖论",
+      "id": "x.watchmansparadoxes",
+      "desc": "我已更加理解守夜人的悖论。[将此卡在<b>研究</b>中使用。]"
+    },
+    {
+      "Label": "教诲：群蛇与毒液",
+      "id": "x.serpents.venoms",
+      "desc": "我已更加理解群蛇与毒液。[将此卡在<b>研究</b>中使用。]"
+    }
+  ]
+}

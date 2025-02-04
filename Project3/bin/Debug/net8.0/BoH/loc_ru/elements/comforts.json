@@ -1,0 +1,13 @@
+﻿{
+  "elements": [
+    {
+      "id": "armchair.blue",
+      "label": "Синее кресло",
+      "desc": "В объятиях капризной Аретусы...",
+      "inherits": "_comfort",
+      "aspects": {
+        "sky": 1
+      }
+    }
+  ]
+}

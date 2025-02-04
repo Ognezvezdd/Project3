@@ -1,0 +1,54 @@
+{
+  "elements": [
+    {
+      "id": "weather.clouds",
+      "label": "多云",
+      "desc": "在这个国家，天空很少是晴朗的。太阳得体地披上了斗篷。"
+    },
+    {
+      "id": "weather.hail",
+      "label": "冰雹",
+      "desc": "冰砾敲打着屋顶和树梢。"
+    },
+    {
+      "id": "weather.rain",
+      "label": "雨",
+      "desc": "细雨带来生机。"
+    },
+    {
+      "id": "weather.snow",
+      "label": "雪",
+      "desc": "今日世界一片淡白。“纯白在世界以西，且冬不永待”，所罗门·赫舍曾言。"
+    },
+    {
+      "id": "weather.gale",
+      "label": "狂风",
+      "desc": "树木弯曲，墙壁吱吱作响，旅人弯腰以抵御风力。"
+    },
+    {
+      "id": "weather.fog",
+      "label": "雾",
+      "desc": "沿滩游雾——月色朦胧，海水晦暗。"
+    },
+    {
+      "id": "weather.earthquake",
+      "label": "地震",
+      "desc": "大地最温和的颤动，仿佛只是为了提醒我们，大地并未死去，只是在沉睡。"
+    },
+    {
+      "id": "weather.sunny",
+      "label": "晴朗",
+      "desc": "太阳不复往昔，但今日他露出了微笑。"
+    },
+    {
+      "id": "weather.numa",
+      "label": "闰时雾霭",
+      "desc": "闰时的冷郁水雾。"
+    },
+    {
+      "id": "weather.storm",
+      "label": "风暴",
+      "desc": "天空电闪雷鸣。"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+﻿{
+  "elements": [
+    {
+      "id": "musictrack.theroadtobrancrug",
+      "label": "«Дорога к Бранкрагу»"
+    },
+    {
+      "id": "musictrack.comeaway",
+      "label": "«Прочь»"
+    },
+    {
+      "id": "musictrack.crookystreasures",
+      "label": "«Сокровища Шельми»"
+    },
+    {
+      "id": "musictrack.hawthorn",
+      "label": "«Боярышник»"
+    },
+    {
+      "id": "musictrack.stolenreflections",
+      "label": "«Похищенные отражения»"
+    },
+    {
+      "id": "musictrack.thewatersedge",
+      "label": "«У кромки прибоя»"
+    },
+    {
+      "id": "musictrack.sunsetcomesearly",
+      "label": "«Нежданный закат»"
+    },
+    {
+      "id": "musictrack.sunrisecomesearly",
+      "label": "«Нежданный восход»"
+    },
+    {
+      "id": "musictrack.istandatthedoor",
+      "label": "«На пороге»"
+    },
+    {
+      "id": "musictrack.fireinthelibrary",
+      "label": "«Пожар в библиотеке»"
+    },
+    {
+      "id": "musictrack.thememorywhichdoesnotdie",
+      "label": "«Память, над которой смерть не властна»"
+    },
+    {
+      "id": "musictrack.caputlupinium",
+      "label": "«Caput Lupinum»"
+    },
+    {
+      "id": "musictrack.onebarehour",
+      "label": "«Один лишь час»"
+    },
+    {
+      "id": "musictrack.rainbringsthedawn",
+      "label": "«После дождя – рассвет»"
+    },
+    {
+      "id": "musictrack.thetwelfthstroke",
+      "label": "«Двенадцать на часах»"
+    },
+    {
+      "id": "musictrack.thevelvetsnamelessname",
+      "label": "«Безымянное Имя Бархат»"
+    },
+    {
+      "id": "musictrack.aknowledgeinthelookofthings",
+      "label": "«Без лишних слов»"
+    },
+    {
+      "id": "musictrack.thelaughingthrush",
+      "label": "«Кустарница»"
+    },
+    {
+      "id": "musictrack.arosewitch",
+      "label": "«Ведьма роз»"
+    },
+    {
+      "id": "musictrack.bellyoftheearth",
+      "label": "«Чрево земли»"
+    },
+    {
+      "id": "musictrack.newgrowth",
+      "label": "«Новая поросль»"
+    },
+    {
+      "id": "musictrack.seaholly",
+      "label": "«Синеголовник»"
+    },
+    {
+      "id": "musictrack.themagicbetweenthetrees",
+      "label": "«Чары, что промеж дерев»"
+    },
+    {
+      "id": "musictrack.ouroboros",
+      "label": "«Уроборос»"
+    },
+    {
+      "id": "musictrack.apostcardfrombrancrug",
+      "label": "«Открытка с Бранкрага»"
+    },
+    {
+      "id": "musictrack.beacondance",
+      "label": "«Танец маяков»"
+    },
+    {
+      "id": "musictrack.sunssplendour",
+      "label": "«Сияние Солнца»"
+    },
+    {
+      "id": "musictrack.thegoldenson",
+      "label": "«Золотой сын»"
+    },
+    {
+      "id": "musictrack.wildwoodingreen",
+      "label": "«Зелен чащи лист»"
+    },
+    {
+      "id": "musictrack.amber",
+      "label": "«Янтарь»"
+    },
+    {
+      "id": "musictrack.peaceinthedeep",
+      "label": "«Покой глубин»"
+    },
+    {
+      "id": "musictrack.risingwindsturningstars",
+      "label": "«Звёзд круговерть и ветер»"
+    },
+    {
+      "id": "musictrack.settleoldsoldier",
+      "label": "«Конец войне»"
+    },
+    {
+      "id": "musictrack.theninthpart",
+      "label": "«Девятая часть»"
+    },
+    {
+      "id": "musiccollection.spring",
+      "label": "Весна"
+    },
+    {
+      "id": "musiccollection.summer",
+      "label": "Лето"
+    },
+    {
+      "id": "musiccollection.autumn",
+      "label": "Осень"
+    },
+    {
+      "id": "musiccollection.winter",
+      "label": "Зима"
+    },
+    {
+      "id": "musiccollection.numa",
+      "label": "Нума"
+    },
+    {
+      "id": "musiccollection.contemplative",
+      "label": "Созерцание"
+    }
+  ]
+}

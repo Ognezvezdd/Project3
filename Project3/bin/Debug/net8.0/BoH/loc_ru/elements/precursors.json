@@ -1,0 +1,602 @@
+﻿{
+  "elements": [
+    {
+      "ID": "precursor.mem.storm",
+      "Label": "Обретаем воспоминание: шторм",
+      "desc": "Бывают волны, каковым под силу сорвать луну с небес, и ветры – изгнать мысли из головы.",
+      "icon": "mem.storm",
+      "decayto": "mem.storm",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1,
+        "heart": 1,
+        "boost.heart": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.dreamt",
+      "Label": "Обретаем воспоминание: чужой секрет",
+      "desc": "Что-то, что я подслушал в снах?",
+      "icon": "mem.dreamt",
+      "decayto": "mem.dreamt",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.gossip",
+      "Label": "Обретаем воспоминание: слухи",
+      "desc": "Негоже слушать; невозможно оторваться.",
+      "icon": "mem.gossip",
+      "decayto": "mem.gossip",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1,
+        "grail": 1,
+        "boost.grail": 1,
+        "rose": 1,
+        "boost.rose": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.contradiction",
+      "Label": "Обретаем воспоминание: противоречие",
+      "desc": "Нечто тревожащее.",
+      "icon": "mem.contradiction",
+      "decayto": "mem.contradiction",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.fear",
+      "Label": "Обретаем воспоминание: страх",
+      "desc": "«Страх – самое древнее и сильное из человеческих чувств, а самый древний и самый сильный страх – страх неведомого» (Лавкрафт).",
+      "icon": "mem.fear",
+      "decayto": "mem.fear",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.foresight",
+      "Label": "Обретаем воспоминание: дальновидность",
+      "desc": "«Ум – кузница и пламя, смысл – пресс и винт» (Кольридж, «О поэзии Джона Донна»).",
+      "icon": "mem.foresight",
+      "decayto": "mem.foresight",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.impulse",
+      "Label": "Обретаем воспоминание: порыв",
+      "desc": "В этом нет логики – но я всё равно согласен.",
+      "icon": "mem.impulse",
+      "decayto": "mem.impulse",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1,
+        "moth": 1,
+        "boost.moth": 1,
+        "nectar": 1,
+        "boost.nectar": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.intuition",
+      "Label": "Обретаем воспоминание: наитие",
+      "desc": "Иногда тебя просто осеняет.",
+      "icon": "mem.intuition",
+      "decayto": "mem.intuition",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.hindsight",
+      "Label": "Обретаем воспоминание: сожаление",
+      "desc": "Есть вещи, понять которые можно лишь многим позже.",
+      "icon": "mem.hindsight",
+      "decayto": "mem.hindsight",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.loss",
+      "Label": "Обретаем воспоминание: утрата",
+      "desc": "Чем бы это ни было, его уже нет.",
+      "icon": "mem.loss",
+      "decayto": "mem.loss",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.revelation",
+      "Label": "Обретаем воспоминание: откровение",
+      "desc": "Есть истины, что приходят к нам извне – или свыше.",
+      "icon": "mem.revelation",
+      "decayto": "mem.revelation",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.regret",
+      "Label": "Обретаем воспоминание: раскаяние",
+      "desc": "У всего есть последствия.",
+      "icon": "mem.regret",
+      "decayto": "mem.regret",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.salt",
+      "Label": "Обретаем воспоминание: соль",
+      "desc": "Брызги волн, слёзы моря.",
+      "icon": "mem.salt",
+      "decayto": "mem.salt",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.satisfaction",
+      "Label": "Обретаем воспоминание: удовлетворение",
+      "desc": "Не всякий голод легко утолить.",
+      "icon": "mem.satisfaction",
+      "decayto": "mem.satisfaction",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.solace",
+      "Label": "Обретаем воспоминание: отдохновение",
+      "desc": "Покой после тревог.",
+      "icon": "mem.solace",
+      "decayto": "mem.solace",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.scent",
+      "Label": "Обретаем воспоминание: аромат",
+      "desc": "Зелёный запах шепчет о дожде.",
+      "icon": "mem.scent",
+      "decayto": "mem.scent",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.sight",
+      "Label": "Обретаем воспоминание: облик",
+      "desc": "«Глаз видит больше, чем сердце знает» (Блейк).",
+      "icon": "mem.sight",
+      "decayto": "mem.sight",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.sound",
+      "Label": "Обретаем воспоминание: звук",
+      "desc": "Память долговечней эха. Правда, с тех пор, как в мир пришла речь и мы научились перелагать эхо в слова, всё стало уже не столь однозначно.",
+      "icon": "mem.sound",
+      "decayto": "mem.sound",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.taste",
+      "Label": "Обретаем воспоминание: вкус",
+      "desc": "«В каждой сладости есть своя горечь» (Эмерсон).",
+      "icon": "mem.taste",
+      "decayto": "mem.taste",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.mem.touch",
+      "Label": "Обретаем воспоминание: прикосновение",
+      "desc": "Мастерству нас учат пальцы.",
+      "icon": "mem.touch",
+      "decayto": "mem.touch",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.windrumour",
+      "Label": "Слышим Шёпот ветра",
+      "desc": "",
+      "icon": "windrumour",
+      "decayto": "windrumour",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.beguiling",
+      "Label": "Слышим Зовущую мелодию",
+      "desc": "",
+      "icon": "music.beguiling",
+      "decayto": "music.beguiling",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.bittersweet.certainty",
+      "Label": "Обретаем Щемящую уверенность ",
+      "desc": "",
+      "icon": "bittersweet.certainty",
+      "decayto": "bittersweet.certainty",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.cheerful",
+      "Label": "Слышим Задорную песенку",
+      "desc": "",
+      "icon": "music.cheerful",
+      "decayto": "music.cheerful",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.savage",
+      "Label": "Слышим Жестокий гимн",
+      "desc": "",
+      "icon": "music.savage",
+      "decayto": "music.savage",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.thunderskin",
+      "Label": "Слышим Песнь Громового Ритма",
+      "desc": "",
+      "icon": "music.thunderskin",
+      "decayto": "music.thunderskin",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.wistful",
+      "Label": "Слышим Песнь томления",
+      "desc": "",
+      "icon": "music.wistful",
+      "decayto": "music.wistful",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.confounding.parable",
+      "Label": "Обретаем Туманное иносказание",
+      "desc": "",
+      "icon": "confounding.parable",
+      "decayto": "confounding.parable",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.riddle.nameday",
+      "Label": "Придумываем Загадку имени",
+      "desc": "",
+      "icon": "riddle.nameday",
+      "decayto": "riddle.nameday",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.old.moment",
+      "Label": "Вспоминаем Фрагмент прошлого",
+      "desc": "",
+      "icon": "old.moment",
+      "decayto": "old.moment",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.secret.threshold",
+      "Label": "Находим Тайный порог ",
+      "desc": "",
+      "icon": "secret.threshold",
+      "decayto": "secret.threshold",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.wild.surmise",
+      "Label": "Являем Безумную догадку",
+      "desc": "",
+      "icon": "wild.surmise",
+      "decayto": "wild.surmise",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.winning.move",
+      "Label": "Осознаём Победный ход",
+      "desc": "",
+      "icon": "winning.move",
+      "decayto": "winning.move",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.curious.hunch",
+      "Label": "Обретаем Странное предчувствие ",
+      "desc": "",
+      "icon": "curious.hunch",
+      "decayto": "curious.hunch",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.name.earthquake",
+      "Label": "Обретаем Имя землетрясения",
+      "desc": "",
+      "icon": "name.earthquake",
+      "decayto": "name.earthquake",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.earthsign",
+      "Label": "Обретаем Знак земли",
+      "desc": "",
+      "icon": "earthsign",
+      "decayto": "earthsign",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.occult.scrap",
+      "Label": "Находим Оккультную заметку",
+      "desc": "",
+      "icon": "occult.scrap",
+      "decayto": "occult.scrap",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.wormwood.dream",
+      "Label": "Видим Полынный сон",
+      "desc": "",
+      "icon": "wormwood.dream",
+      "decayto": "wormwood.dream",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.ascendant.harmony",
+      "Label": "Слышим Возносящуюся гармонию",
+      "desc": "",
+      "icon": "ascendant.harmony",
+      "decayto": "ascendant.harmony",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.music.hive",
+      "Label": "Слышим Плач улья",
+      "desc": "",
+      "icon": "music.hive",
+      "decayto": "music.hive",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.didumos",
+      "Label": "Встречаем Двойника",
+      "desc": "",
+      "icon": "didumos",
+      "decayto": "didumos",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.enduring.reflection",
+      "Label": "Видим Непреходящее отражение",
+      "desc": "",
+      "icon": "enduring.reflection",
+      "decayto": "enduring.reflection",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.forbidden.epic",
+      "Label": "Обретаем Запретный эпос",
+      "desc": "",
+      "icon": "forbidden.epic",
+      "decayto": "forbidden.epic",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.horizonsight",
+      "Label": "Обретаем Видение на горизонте",
+      "desc": "",
+      "icon": "horizonsight",
+      "decayto": "horizonsight",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.invincible.audacity",
+      "Label": "Обретаем Необоримое дерзание",
+      "desc": "",
+      "icon": "invincible.audacity",
+      "decayto": "invincible.audacity",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.old.wound",
+      "Label": "Вспоминаем Старую рану",
+      "desc": "",
+      "icon": "old.wound",
+      "decayto": "old.wound",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.windinwaiting",
+      "Label": "Обретаем Услужливый ветер",
+      "desc": "",
+      "icon": "windinwaiting",
+      "decayto": "windinwaiting",
+      "lifetime": 0.1,
+      "aspects": {
+        "memory": 1
+      }
+    },
+    {
+      "ID": "precursor.spintria.bronze.fromsofa",
+      "Label": "Бронзовая спинтрия?",
+      "desc": "Что это завалялось между подушек? Маленькое и неожиданное сокровище.",
+      "xexts": {
+        "scrutiny": "Что это завалялось между подушек? Маленькое и неожиданное сокровище."
+      },
+      "icon": "spintria.bronze",
+      "decayto": "spintria.bronze",
+      "comments": "This was the best short-term way to resolve the xext:scrutiny tangle from found objects. lots of room for improvement",
+      "lifetime": 0.1
+    },
+    {
+      "ID": "precursor.gervinite.fromcandle",
+      "Label": "?",
+      "desc": "Эта свеча гораздо тяжелее, чем должна быть. Там внутри что-то есть...",
+      "xexts": {
+        "scrutiny": "Эта свеча гораздо тяжелее, чем должна быть. Там внутри что-то есть..."
+      },
+      "icon": "gervinite",
+      "decayto": "gervinite",
+      "inherits": "_",
+      "lifetime": 0.1
+    },
+    {
+      "ID": "precursor.pale.mommet.fromchair",
+      "Label": "?",
+      "desc": "Кто-то спрятал под подушкой маленькое и грустное сокровище.",
+      "xexts": {
+        "scrutiny": "Кто-то спрятал под подушкой маленькое и грустное сокровище."
+      },
+      "icon": "pale.mommet",
+      "decayto": "pale.mommet",
+      "inherits": "_",
+      "lifetime": 0.1
+    },
+    {
+      "ID": "precursor.dearday.lens.fromskull",
+      "Label": "?",
+      "desc": "В одну из глазниц кто-то вставил сверкающую линзу.",
+      "xexts": {
+        "scrutiny": "В одну из глазниц кто-то вставил сверкающую линзу."
+      },
+      "icon": "dearday.lens",
+      "decayto": "dearday.lens",
+      "inherits": "_",
+      "lifetime": 0.1
+    },
+    {
+      "ID": "precursor.spintria.iron.fromspanners",
+      "Label": "?",
+      "desc": "Кто-то бездумно уронил в жестянку маленькое сокровище!",
+      "xexts": {
+        "scrutiny": "Кто-то бездумно уронил в жестянку маленькое сокровище!"
+      },
+      "icon": "spintria.iron",
+      "decayto": "spintria.iron",
+      "lifetime": 0.1
+    },
+    {
+      "ID": "precursor.honey.cuckoo.frompumpkin",
+      "Label": "?",
+      "desc": "Тыква несёт следы проникновения. Её наполнили чем-то липким и неожиданным.",
+      "xexts": {
+        "scrutiny": "Тыква несёт следы проникновения. Её наполнили чем-то липким и неожиданным."
+      },
+      "icon": "honey.cuckoo",
+      "decayto": "honey.cuckoo",
+      "inherits": "_",
+      "lifetime": 0.1
+    }
+  ]
+}

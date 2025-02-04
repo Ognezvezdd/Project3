@@ -1,0 +1,26 @@
+﻿{
+  "elements": [
+    {
+      "id": "circ.waters.receding",
+      "label": "Вода отступает",
+      "inherits": "_circumstance",
+      "aspects": {
+        "forge": 3,
+        "knock": 3
+      },
+      "desc": "Вода отступила, вновь открывая нижние уровни Дома.",
+      "unique": true
+    },
+    {
+      "id": "circ.depths.uncovered",
+      "label": "Открытые глубины",
+      "inherits": "_circumstance",
+      "aspects": {
+        "moon": 3,
+        "scale": 3
+      },
+      "desc": "Море отступило, вновь открывая пещеры в глубине острова.",
+      "unique": true
+    }
+  ]
+}

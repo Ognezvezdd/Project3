@@ -1,0 +1,88 @@
+﻿{
+  "elements": [
+    {
+      "id": "credits.wf",
+      "label": "КТО ЖЕ ТАКИЕ WEATHER FACTORY?",
+      "desc": "",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.ak",
+      "label": "Дизайн, написание текстов, программирование",
+      "desc": "Алексис Кеннеди",
+      "icon": "xpho2"
+    },
+    {
+      "id": "credits.lb",
+      "label": "Графика, производство, маркетинг",
+      "desc": "Лотти Беван",
+      "icon": "xwis2"
+    },
+    {
+      "id": "credits.moar",
+      "label": "\nМЫ ВЫРАЖАЕМ БЛАГОДАРНОСТЬ НАШИМ СОАВТОРАМ!",
+      "desc": "",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.additionalcoding",
+      "label": "Дополнительное программирование",
+      "desc": "Роман Лоскутов, Knights of Unity, Frgm",
+      "icon": "xtri2"
+    },
+    {
+      "id": "credits.additionalart",
+      "label": "Дополнительная графика",
+      "desc": "Адриан Дегган, Clockwork Cuckoo, Кэтрин Унгер",
+      "icon": "xmet2"
+    },
+    {
+      "id": "credits.music",
+      "label": "Музыка",
+      "desc": "Марибет Соломон и Брент Баркман для Mickymar Productions Ltd\n                                - RIP Микки Эрбе -",
+      "icon": "xcho2"
+    },
+    {
+      "id": "credits.sfx",
+      "label": "Звуковые эффекты",
+      "desc": "SoundCuts",
+      "icon": "xsha"
+    },
+    {
+      "id": "credits.blankspace2",
+      "label": "",
+      "desc": "",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.localisation.zhhans.cjk",
+      "label": "Китайская локализация (Dove Archive)",
+      "desc": "\nКоординатор: Карл Линь (林孙)\n Переводчики: Айгалас, Календра, Леди Ворм, Лестей, Локи, Марумба Дирас, Sero_2048, Шерри Ли, WM, 埃拉伽巴路斯, 沼泽渡鸦, 果茶, 鹤田阳葵, 黑叶残荷, 幻想家, 龙 的三次方, 暮色天帷, 褰澜, 天国君, 跳塔轮铡, 团块, 褪色回亿, 寻忆, 一般路过灯人, 幽空\nЗаглавный титр: 囤囤",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.localisation.ru",
+      "label": "Русская локализация (Riotloc)",
+      "desc": "\nКоординаторы: Кристина Игнатенко, Мария Юнгер\nПереводчики: Михаил Швыряев, Борис Шапиро",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.localisation.zhhans.hol.cjk",
+      "label": "Китайская локализация HOUSE OF LIGHT:",
+      "desc": "Переводчики: 阿娜斯达奇, 团块, 三度迎来落日, 白前Cynanchum, 一瓶多芬洗面奶（试用装）,泷川葵, AloneOnGallifrey, 入迷鼠\nКоординатор: Карл Линь (林孙)",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.localisation.steam.cjk",
+      "label": "Локализация страницы игры в Steam",
+      "desc": "Педро Эглер, Clocq, Пепота, Пьер Катэ, Реван Цзи, Карл Сунь, 天国君, Календра,寻七得七, 寻七得七, 寻忆, Марумба Дирас, 历史分析学家喵, 夜雨, Фёдор Румянцев, Диего Ареллано, Леонардо Абате, Клара К",
+      "noArtNeeded": true
+    },
+    {
+      "id": "credits.specialthanks",
+      "label": "Особые благодарности",
+      "desc": "Всем нашим бета-тестерам; Райли Лабреку за Steamworks.NET; Fingal's Coffee на улице Трафалгар-Роуд; Норману Чалку; Джонни Кошленду и Марку Льюису; Алексу Тутти и Анне Полтер-Джонс; П. К. и Сонье; Мэтту и Тэзу; Суло и Чи",
+      "noArtNeeded": true
+    }
+  ]
+}

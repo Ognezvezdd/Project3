@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "retired_chaima",
+      "label": "柴玛离去了……"
+    },
+    {
+      "id": "retired_zachary",
+      "label": "扎迦利离去了……"
+    },
+    {
+      "id": "retired_arthur",
+      "label": "亚瑟离去了……"
+    },
+    {
+      "id": "retired_yvette",
+      "label": "伊薇特离去了……"
+    },
+    {
+      "id": "retired_azita",
+      "label": "阿齐塔离去了……"
+    }
+  ]
+}

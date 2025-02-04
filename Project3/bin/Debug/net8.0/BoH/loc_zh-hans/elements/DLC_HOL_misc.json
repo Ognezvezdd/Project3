@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "delivery.oriflammes.reward.enroute",
+      "label": "来自奥里弗拉姆拍卖行的包裹：在途中",
+      "desc": "奥里弗拉姆拍卖行的董事会正在向我寄送“意义重大的谢礼”。"
+    },
+    {
+      "id": "delivery.oriflammes.reward",
+      "label": "奥里弗拉姆拍卖行的包裹",
+      "desc": "奥里弗拉姆拍卖行的董事会向我寄送了“意义重大的谢礼”。"
+    },
+    {
+      "id": "offering.tentreto.made",
+      "label": "祭品的残余",
+      "desc": "我已将祭品倾倒于介壳圣像之前。"
+    },
+    {
+      "id": "offering.tentreto",
+      "label": "献给圣滕特雷托的祭品",
+      "desc": "心脏之色的液体在脆弱的外骨骼遗骸中摇摇晃晃。轻拿轻放。"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+﻿{
+  "elements": [
+    {
+      "id": "journal.generic.start",
+      "label": "Промокшая книга",
+      "desc": "Единственное, что я спас во время кораблекрушения. Должно быть, она для меня очень важна. [Изучите свойства этого предмета. Это может подсказать вам, как именно с ним поступить. Наведите курсор на значки его аспектов.]",
+      "manifestationtype": "Book",
+      "aspects": {
+        "soaked": 1,
+        "readable": 1,
+        "journal": 1,
+        "thing": 1
+      },
+      "xtriggers": {
+        "memories.revolutionary": "journal.revolutionary.unc",
+        "memories.executioner": "journal.executioner.unc",
+        "memories.archaeologist": "journal.archaeologist.unc",
+        "memories.cartographer": "journal.cartographer.unc",
+        "memories.prodigal": "journal.prodigal.unc",
+        "memories.twiceborn": "journal.twiceborn.unc",
+        "memories.magnate": "journal.magnate.unc",
+        "memories.symurgist": "journal.symurgist.unc",
+        "memories.artist": "journal.artist.unc"
+      },
+      "audio": "Book",
+      "slots": [
+        {
+          "id": "memory",
+          "label": "Что осталось?",
+          "description": "Шторм отнял у меня не всё.",
+          "actionid": "consider.setup",
+          "required": {
+            "memory": 1,
+            "ability": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "journal.revolutionary.unc",
+      "label": "Книга в латунном переплёте",
+      "desc": "Тяжёлая металлическая обложка едва не утащила меня на дно. Однако я выжил. Выживет и эта книга.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.revolutionary"
+      }
+    },
+    {
+      "id": "journal.executioner.unc",
+      "label": "Крапчатая книга",
+      "desc": "У неё необычная обложка. Рог? Бакелит? Хитин? Я должен бы помнить.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.executioner"
+      }
+    },
+    {
+      "id": "journal.archaeologist.unc",
+      "label": "Книга со шрамом",
+      "desc": "Козловая кожа? Или шкура антелопы? Шрам на обложке пробуждает смутные воспоминания. Я должен это помнить.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.archaeologist"
+      }
+    },
+    {
+      "id": "journal.cartographer.unc",
+      "label": "Книга в чешуе",
+      "desc": "Чешуйчатый переплёт почти не пострадал от воды.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.cartographer"
+      }
+    },
+    {
+      "id": "journal.prodigal.unc",
+      "label": "Медная книга",
+      "desc": "Море пощадило необычный металлический переплёт.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.prodigal"
+      }
+    },
+    {
+      "id": "journal.twiceborn.unc",
+      "label": "Инкрустированная камнями книга",
+      "desc": "Тускло блестящие желтоватые камни. Янтарь? Мне кажется, я должен это знать...",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.twiceborn"
+      }
+    },
+    {
+      "id": "journal.magnate.unc",
+      "label": "Серебристая книга",
+      "desc": "Это настоящее серебро? Мне кажется, оно должно быть настоящим. Нужно попробовать вспомнить.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.magnate"
+      }
+    },
+    {
+      "id": "journal.symurgist.unc",
+      "label": "Книга в перьях",
+      "desc": "Чудные перья на обложке растрепались, вымокли и покрылись солью.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.symurgist"
+      }
+    },
+    {
+      "id": "journal.artist.unc",
+      "label": "Шелковистая книга",
+      "desc": "Материал переплёта необычный, но смутно знаком – это какой-то шёлк? Невероятно, но он почти не пострадал от воды.",
+      "inherits": "_book.unc",
+      "aspects": {
+        "journal": 1
+      },
+      "audio": "Book",
+      "xtriggers": {
+        "scrutiny": "journal.artist"
+      }
+    },
+    {
+      "id": "journal.revolutionary",
+      "label": "Окованный железом дневник",
+      "desc": "Я боролся, чтобы стать последним библиотекарем Дом безмолвия. Этот дневник хранит повесть о моей борьбе. [Когда Бунтарь прибыл в Дом безмолвия, его главным желанием было создать новую Историю, где он низвергнет верховный закон; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения горомахии.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.revolutionary": 1
+      },
+      "xtriggers": {
+        "qf": "casket.ironclad",
+        "mastering.edge": [
+          {
+            "id": "x.edictsmartial",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.skystories",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.executioner",
+      "label": "Дневник в пластинах из рога",
+      "desc": "Я упокоил так много этих странных существ. Я думал, что поступаю правильно. Теперь я боюсь, что нет. Я – библиотекарь Дома безмолвия, и здесь я позабочусь, чтобы они не были забыты. [Когда Палач прибыл в Дом безмолвия, его главным желанием было создать новую Историю, где он искупит вину за свои преступления; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения Сохранения.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.executioner": 1
+      },
+      "xtriggers": {
+        "qf": "casket.mottled",
+        "mastering.edge": [
+          {
+            "id": "x.sickle.eclipse",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.surgeries.exsanguinations",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.archaeologist",
+      "label": "Потёртый песком дневник",
+      "desc": "Я – библиотекарь Дома безмолвия, и здесь я запишу, к чему привели моё Преступление и Проклятие. [Когда Археолог прибыл в Дом безмолвия, его главным желанием было создать новую Историю, в которой его преступление будет прощено... Или переосмыслено. Однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения сколекософии.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.archaeologist": 1
+      },
+      "xtriggers": {
+        "qf": "casket.scarred",
+        "mastering.edge": [
+          {
+            "id": "x.raggedcrossroads",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.wolfstories",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ],
+        "mastering.winter": [
+          {
+            "id": "x.inks.containment",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.wolfstories",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.cartographer",
+      "label": "Дневник из змеиной кожи",
+      "desc": "Я – библиотекарь Дома безмолвия, и этот дневник станет моей Вечной картой. [Когда Картограф прибыл в Дом безмолвия, его главным желанием было создать новую Историю, в которой он сможет сотворить невозможное; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения никтодромии.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.cartographer": 1
+      },
+      "xtriggers": {
+        "qf": "casket.scaled",
+        "mastering.lantern": [
+          {
+            "id": "x.inks.revelation",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.path.pilgrim",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.prodigal",
+      "label": "Дневник из кованой меди",
+      "desc": "Я пересёк три океана и чуть было не утонул в четвёртом. Теперь я библиотекарь Дома безмолвия. Скорее всего, здесь я в безопасности от моих родителей; но я не могу быть уверен полностью. [Когда Блудный сын прибыл в Дом безмолвия, его главным желанием было найти убежище – став библиотекарем, или создав Историю, в которой все немного иначе; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения итастрии.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.prodigal": 1
+      },
+      "xtriggers": {
+        "qf": "casket.coppery",
+        "mastering.lantern": [
+          {
+            "id": "x.pyroglyphics",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.bells.brazieries",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.twiceborn",
+      "label": "Дневник в янтаре",
+      "desc": "Я – Дважды рождённый библиотекарь Дома безмолвия, и это дневник, в котором я храню уцелевшие воспоминания. [«Третьим путём» Дважды рождённого может оказаться как жизнь в качестве библиотекаря, так и нечто более радикальное. В принципе, игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения Просветления.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.twiceborn": 1
+      },
+      "xtriggers": {
+        "qf": "casket.ambered",
+        "mastering.lantern": [
+          {
+            "id": "x.auroralcontemplations",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.glaziery.lightsmithing",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.magnate",
+      "label": "Дневник в серебре",
+      "desc": "Я был богат, но чего-то не хватало. Я больше не богат... И чего-то всё равно не хватает. Дом безмолвия – место завершений, и я постараюсь стать библиотекарем, чтобы найти моё. [Магнат прибыл в Дом, чтобы создать Историю, где он обретёт покой; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения исихастики.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.magnate": 1
+      },
+      "xtriggers": {
+        "qf": "casket.morbid",
+        "mastering.winter": [
+          {
+            "id": "x.quenchings.quellings",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.sacralimiae",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.symurgist",
+      "label": "Дневник в перьях",
+      "desc": "В Каэр Адаре я услышал речь сокрытых богов. Я ожидал, что мой путь завершится – но вместо этого понял, чего мне в жизни не хватает. Я – библиотекарь Дома безмолвия, и я отыщу то, что забыли. [Симургист прибыл в Дом безмолвия, чтобы найти Историю, где звучат умолкшие песни; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения Птичьей песни.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.symurgist": 1
+      },
+      "xtriggers": {
+        "qf": "case.attache",
+        "mastering.winter": [
+          {
+            "id": "x.rhyme.remembrance",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.skystories",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "journal.artist",
+      "label": "Дневник в пчелином шёлке",
+      "desc": "«Пикассо? Будет вам Пикассо». [Художник прибыл в Дом безмолвия, чтобы создать и подарить миру Историю первобытного, небывалого, непревзойдённого переживания; однако игру можно пройти, записав любую Историю. Быть может, вам стоит начать с постижения Пущи.]",
+      "inherits": "_book",
+      "audio": "Book",
+      "aspects": {
+        "journal": 1,
+        "memories.artist": 1
+      },
+      "xtriggers": {
+        "qf": "casket.hive",
+        "mastering.grail": [
+          {
+            "id": "x.desires.dissolutions",
+            "morpheffect": "spawn",
+            "level": 3
+          },
+          {
+            "id": "x.rites.theroots",
+            "morpheffect": "spawn",
+            "level": 1
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿{
+  "elements": [
+    {
+      "id": "departure.assistance",
+      "label": "Прощание",
+      "desc": "Кто-то закончил свою работу.",
+      "lifetime": 1
+    },
+    {
+      "id": "departure.assistance.longer",
+      "label": "Прощание с помощником",
+      "icon": "departure.assistance",
+      "desc": "Чьё-то время вышло, и теперь он идёт домой.",
+      "lifetime": 30
+    },
+    {
+      "id": "departure.visiting",
+      "label": "Прощание с гостем",
+      "icon": "departure.assistance",
+      "desc": "Кто-то отправляется домой.",
+      "lifetime": 1
+    },
+    {
+      "id": "dregs",
+      "label": "Осадок",
+      "desc": "Тут что-то было.",
+      "lifetime": 1
+    },
+    {
+      "id": "dust",
+      "label": "Пыль",
+      "desc": "Тут что-то было.",
+      "lifetime": 1
+    },
+    {
+      "id": "echo",
+      "icon": "echo",
+      "label": "Эхо",
+      "desc": "[Это воспоминание стало частью чего-то ещё.]",
+      "lifetime": 1
+    },
+    {
+      "id": "fleeting",
+      "label": "Ускользающее воспоминание",
+      "desc": "Краткий миг. Ещё мгновение — и оно исчезнет. [Неиспользованные воспоминания пропадают на рассвете.]",
+      "lifetime": 1
+    },
+    {
+      "id": "lesson.giribrago",
+      "label": "Многогранный урок",
+      "desc": "Куда, откуда, как сочится свет? [Необычный и универсальный урок, который НЕ ПЕРЕЖИВЁТ РАССВЕТ. Воспользуйтесь им как можно скорей.]",
+      "aspects": {
+        "lesson": 1,
+        "edge": 1,
+        "forge": 1,
+        "grail": 1,
+        "heart": 1,
+        "knock": 1,
+        "lantern": 1,
+        "moth": 1,
+        "moon": 1,
+        "nectar": 1,
+        "rose": 1,
+        "scale": 1,
+        "sky": 1,
+        "winter": 1
+      },
+      "inherits": "_memory"
+    },
+    {
+      "id": "residue",
+      "label": "Остатки",
+      "desc": "Тут что-то было.",
+      "lifetime": 1
+    },
+    {
+      "id": "rind",
+      "label": "Корка",
+      "desc": "Внутри что-то было.",
+      "lifetime": 1
+    },
+    {
+      "id": "scraps",
+      "label": "Обрезки",
+      "desc": "Они были чем-то большим.",
+      "lifetime": 1
+    },
+    {
+      "id": "vapours",
+      "label": "Испарения",
+      "desc": "Мимолётная атмосфера.",
+      "lifetime": 1
+    }
+  ]
+}

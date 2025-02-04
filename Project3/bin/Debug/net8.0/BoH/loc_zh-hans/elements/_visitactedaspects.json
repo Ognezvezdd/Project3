@@ -1,0 +1,709 @@
+{
+  "elements": [
+    {
+      "id": "acted.olympe.project.solar.forge",
+      "label": "已阅读：奥兰普",
+      "desc": "在拜访了噤声居屋后，贝谢女士开始相信“王室之举”与第二拂晓存在某种关联……她认为，比起战争，她更喜欢“第二拂晓”。"
+    },
+    {
+      "id": "acted.connie.rite.renewal.moon",
+      "label": "已阅读：康妮",
+      "desc": "副警监李在噤声居屋研究了某种“对策”，希望能限制住仪式造成的可能危害。"
+    },
+    {
+      "id": "acted.dagmar.box.knock",
+      "label": "已阅读：妲格玛",
+      "desc": "“日魇”带着自己的计划离开了噤声居屋，以确保“圣米哈尔”能待在他的灵柩里——不论他的真面目可能为何。"
+    },
+    {
+      "id": "acted.corso.opera.wings.grail",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索找到了一份足够的贿赂，足以说服某个人替自己“坐在剧场的后排”，并帮他鉴定一本可能是剧本副本的作品。"
+    },
+    {
+      "id": "acted.coquille.opera.apollo.grail",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔确信自己将会是观众席上打扮得最漂亮的女人。"
+    },
+    {
+      "id": "acted.serena.project.solar.forge",
+      "label": "已阅读：瑟雷娜",
+      "desc": "布莱克伍德博士担心“王室之举”或许在某些方面上是“兰开斯特家族的炼金术”的再现……在某种意义上，甚至可能是受控之火君王时代的回归。"
+    },
+    {
+      "id": "acted.yvette.curse.winter",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士买了件格吕内瓦尔德的物品。她在噤声居屋的所学所见让她确信该去把它处理掉。"
+    },
+    {
+      "id": "acted.arun.rising.moon",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士提出了某种晦涩的理论，关于可能在黄昏或拂晓时分与太阳的血之圣餐；然后自顾自地离开了。"
+    },
+    {
+      "id": "acted.arthur.project.solar.lantern",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉一度为自己的侄孙在“王室之举”中扮演的角色而担心——但在拜访过噤声居屋后，他的疑虑有所缓解。"
+    },
+    {
+      "id": "acted.fraser.omen.dawn.lantern",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "带着些许遗憾，弗雷泽·斯特拉思科认定，在墨萨拿发生的那些事与反反复复纠缠着他的眼之梦并无干系……"
+    },
+    {
+      "id": "acted.azita.revolution.edge",
+      "label": "已阅读：阿齐塔",
+      "desc": "阿齐塔为门关军团急需的镍纹石小刀找到了一种“可接受的替代品”。"
+    },
+    {
+      "id": "acted.agdistis.curse.heart",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生决定尽他所能去帮助那位不慎购买了被诅咒藏品的朋友。"
+    },
+    {
+      "id": "acted.corso.opera.apollo.grail",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索增进了他对所谓“污渍”的认识……并希望这足以让他在巴黎辨认出那本他想要搞到手的关于“滋味技艺”的书。"
+    },
+    {
+      "id": "acted.agdistis.wound.heart",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生明白了“开启牧师”与他侍奉的神灵并无关联。"
+    },
+    {
+      "id": "acted.yvette.mystical.winter",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士拒绝了一个叫做“骨白拂晓”的教派的邀请……她怀疑，他们之所以如此崇拜她，是因为她的祖先里有位“准不朽者”。"
+    },
+    {
+      "id": "acted.hokobald.revolution.grail",
+      "label": "已阅读：霍科博尔德",
+      "desc": "霍科博尔德找到了他所需要的“系谱学，或烹饪，或相关主题”，尽管他不愿意透露它们与边境正在发生的革命有何联系。"
+    },
+    {
+      "id": "acted.arun.box.moon",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士认为圣米哈尔之棺里的住客很快就会逃脱；他也同样相信届时会有某人或某物被某物或某人吃掉。他似乎为此感到相当快活。"
+    },
+    {
+      "id": "acted.morgen.opera.wings.grail",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士去了威尼斯，并准备好迎接歌剧开幕时的“灾难”。她同样提到“大地浓于血”——这可能与安泰俄斯的血脉有关？"
+    },
+    {
+      "id": "acted.rowena.numa.wood.grail",
+      "label": "已阅读：罗威娜",
+      "desc": "“当我还在这里的时候——第一次——我的第一场献祭是献给圣杯的。没有那场献祭，就根本不会有噤声居屋。噢，还有那盟约石，还有那紫杉树，所有的那些，也许吧。但请记住，一切都始于生诞。”"
+    },
+    {
+      "id": "acted.aladim.stalk.rose",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人还是不确定美杜莎的谜语“何物不得见？”该如何回答。他自嘲地提议道，最好的答案应该是他自己。"
+    },
+    {
+      "id": "acted.dagmar.lost.find.rose",
+      "label": "已阅读：妲格玛",
+      "desc": "斑驳玫瑰的故事中的某些东西触动了“日魇”，让她开始犹豫，自己是否应该再次回到弥阿……"
+    },
+    {
+      "id": "acted.chaima.mob.edge",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛毫无热情地出发了，去考纳斯的下水道里完成一位清算人领主的委托。"
+    },
+    {
+      "id": "acted.arthur.mob.edge",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉找到了可用来干掉考纳斯的清算人的武器。"
+    },
+    {
+      "id": "acted.yvette.rite.renewal.moon",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士的一位患者相信他将在月光下的格拉德温湖得到重生——在拜访了噤声居屋后，她认为阻止他的尝试只会是徒劳。“浪潮依旧……”"
+    },
+    {
+      "id": "acted.azita.stalk.edge",
+      "label": "已阅读：阿齐塔",
+      "desc": "阿齐塔出发去往布达佩斯，为了和她的孪敌迈哈德玩他们那“愚蠢的游戏”……比赛谁能先从美杜莎的袍子上剪下一小块布。"
+    },
+    {
+      "id": "acted.franklin.numa.grail.a.grail",
+      "label": "已阅读：班克罗夫特",
+      "desc": "“……指望一个诗人去……骗子。我们的女儿……”"
+    },
+    {
+      "id": "acted.azita.project.ingenious.sky",
+      "label": "已阅读：阿齐塔",
+      "desc": "阿齐塔相信齐达内是被谋杀的——在调查了凶手可能的动机后，她推测他曾“通过天界的钥匙孔偷听”。"
+    },
+    {
+      "id": "acted.corso.revolution.grail",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索去边境寻找一本哈廷顿未公开的著作——并希望自己能找到适合向那位持有它的“女士”行贿的东西。"
+    },
+    {
+      "id": "acted.hokobald.project.ingenious.forge",
+      "label": "已阅读：霍科博尔德",
+      "desc": "霍科博尔德大师计划在齐达内的遗作（如他所愿）差点被当废品卖掉时出面“补救”它。"
+    },
+    {
+      "id": "acted.morgen.opera.apollo.sky",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士确信自己将会是观众席上打扮得最漂亮的女人……尽管她已经决定背离自己一向的风格。"
+    },
+    {
+      "id": "acted.arthur.revolution.edge",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉对边境的叛军感到同情……但他们是否坦诚让他倍感压力。"
+    },
+    {
+      "id": "acted.zachary.curse.winter",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德晦涩地总结道，在格吕内瓦尔德这件事中，他也许有足够的能力理解清晰，传导，以及“卵态”的可能性了。"
+    },
+    {
+      "id": "acted.julian.numa.winter.a.winter",
+      "label": "已阅读：科赛利",
+      "desc": "“……终结就像是苍白拂晓前的苍白微光。我们总可以确定第一次——我们总不能确定最后一次……”"
+    },
+    {
+      "id": "acted.fraser.observe.scaly.scale",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "弗雷泽·斯特拉思科因渴望去西方旅行，以此拥抱他潜在的第二天性。"
+    },
+    {
+      "id": "acted.fraser.rising.scale",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "弗雷泽·斯特拉思科因来到布兰库格，希望能理解他在“冉升之时”得到的神谕；并逐渐确信自己是辉诞族——“辉翼”的后裔。"
+    },
+    {
+      "id": "acted.dagmar.omen.horizon.rose",
+      "label": "已阅读：妲格玛",
+      "desc": "“日魇”决定不去寻找伊苏。绝对不。无论怎样都不。"
+    },
+    {
+      "id": "acted.zachary.wound.winter",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德为“开启牧师”只向外敞开感到惋惜……但也对“他的痛苦不必再拖延下去”而感到宽慰。"
+    },
+    {
+      "id": "acted.franklin.numa.wood.grail",
+      "label": "已阅读：班克罗夫特",
+      "desc": "“……乐观？如果你把这称作乐观的话！我无意否定司辰。但除了我们之外，还有谁能直面辉光之光，创造出这诸史呢？如果……”"
+    },
+    {
+      "id": "acted.dagmar.heist.knock",
+      "label": "已阅读：妲格玛",
+      "desc": "“日魇”显然担心自己可能会被指认为某场盗窃案的罪魁祸首，不论她是否真做了这件事——她在噤声居屋的研究结果都给了她洗清嫌疑的希望。"
+    },
+    {
+      "id": "acted.olympe.heist.forge",
+      "label": "已阅读：奥兰普",
+      "desc": "贝谢女士认为，她在奥里弗拉姆对其安全措施的描述中发现了一些奇怪之处……而她在噤声居屋的发现给了她进一步调查此事的动力。"
+    },
+    {
+      "id": "acted.coquille.intrusion.knock",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔认为克拉科夫的蠕虫入侵，似乎与艾布雷赫剑有某种联系。"
+    },
+    {
+      "id": "acted.arthur.stalk.edge",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉正准备接触美杜莎，但他开始担心她的谜语“何物不得见？”的答案，并不是自己原先一直以为的“光”。"
+    },
+    {
+      "id": "acted.zachary.intrusion.knock",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德认为，他的朋友霍布森，现在可能已经是他的朋友们了。在“向外”和“向下”的选择上，他选择了“向外”。"
+    },
+    {
+      "id": "acted.yvette.mob.moon",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士开始怀疑，清算人们对岁月的买卖大概可以解释她在布兰库格的某位先人是如何在如此高龄育有一子……"
+    },
+    {
+      "id": "acted.olympe.lost.find.moth",
+      "label": "已阅读：奥兰普",
+      "desc": "贝谢女士不打算亲自去弥阿……但在居屋里研究过相关的事件后，她想起一位熟人也许可以代她前去。"
+    },
+    {
+      "id": "acted.stanislav.rite.renewal.nectar",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父前来噤声居屋调查该仪式是否可能是吸器设下的陷阱……并且大概只是顺口一提，他设法完成了特蕾莎·加尔米耶的“受肉”。"
+    },
+    {
+      "id": "acted.aladim.lost.find.rose",
+      "label": "已阅读：阿迪姆",
+      "desc": "在他的庇护者浪游旅人的要求下，阿勒颇人前去荒沙中寻找那座斑驳的花园……但他对此忧虑重重。"
+    },
+    {
+      "id": "acted.arun.mob.moon",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士打算去考纳斯收集刀具，或是制造困惑和混乱，或是带去和平。或是别的什么。"
+    },
+    {
+      "id": "acted.serena.project.ingenious.forge",
+      "label": "已阅读：瑟雷娜",
+      "desc": "不论布莱克伍德博士在噤声居屋发现了什么，这都使她确信齐达内在他的作品中使用了“伊苏金属”。"
+    },
+    {
+      "id": "acted.serena.project.solar.lantern",
+      "label": "已阅读：瑟雷娜",
+      "desc": "布莱克伍德博士确信“王室之举”从根本上讲与光有关……但它也可能与那位矛盾而危险的、被称为制烛人的司辰有关。"
+    },
+    {
+      "id": "acted.stanislav.curse.heart",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父带着一件“不安分的蜡像”去了翠仙苑——在他前来噤声居屋，找到了能在旅途中控制住那东西的方法之后。"
+    },
+    {
+      "id": "acted.zachary.box.knock",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德似乎认为自己在噤声居屋找到了棺柩钥匙的名字。"
+    },
+    {
+      "id": "acted.hokobald.heist.forge",
+      "label": "已阅读：霍科博尔德",
+      "desc": "霍科博尔德大师，受奥里弗拉姆的雇佣去改造他们的金库，认为自己可能已经在噤声居屋找到了有用的信息……尽管他也谨慎地指出那并不是<i>非常地</i>有用。"
+    },
+    {
+      "id": "acted.chaima.lost.find.rose",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛从防剿局那接到了一项位于弥阿的委托。至于是要她找到斑驳花园，亦或是将它藏匿，就不清楚了。"
+    },
+    {
+      "id": "acted.connie.project.ingenious.sky",
+      "label": "已阅读：康妮",
+      "desc": "副警监李着手于追踪某个实体——她认为是它谋杀了齐达内，“一个来自下层天域的叛逃灵体”。"
+    },
+    {
+      "id": "acted.chaima.hunt.changing.edge",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛出发去结束阿贝卡西斯的痛苦……尽管她的最终目的依然不太明确，即便对她自己来说也是如此。"
+    },
+    {
+      "id": "acted.chaima.stalk.edge",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛已前往布达佩斯跟踪美杜莎——她在噤声居屋学到的第一点就是，绝对不能靠得太近。"
+    },
+    {
+      "id": "acted.fraser.hunt.changing.scale",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "弗雷泽·斯特拉思科因希望，但并不指望自己能从猎人们手下护住阿贝卡西斯。"
+    },
+    {
+      "id": "acted.rowena.numa.winter.a.winter",
+      "label": "已阅读：罗威娜",
+      "desc": "“当我还在这里的时候——当我第一次来到这里的时候，我相当生气。我打开道路后就被弃于一旁——这是最微不足道的。我打开了道路——这才是最糟糕的。尽管曾有一次，我觉得情况恰恰相反。”"
+    },
+    {
+      "id": "acted.coquille.box.knock",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔相信，她已经在噤声居屋从研究中学到了该如何打开棺柩。"
+    },
+    {
+      "id": "acted.stanislav.rite.awakening.nectar",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父声称他打算埋掉那座被称为“檀木圣徒”的雕像，希望它能生长……但只能慢慢生长，而且是在正确的时节。"
+    },
+    {
+      "id": "acted.olympe.project.ingenious.forge",
+      "label": "已阅读：奥兰普",
+      "desc": "贝谢女士在噤声居屋了解到了足够多（她希望如此）的信息，以说服一位富有的女赞助人买下未完工的百灵鸟，使它免于被官方当做废品贱卖。"
+    },
+    {
+      "id": "acted.douglas.project.solar.lantern",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "启明警探摩尔专程调查了个别特立独行的圣职者们破坏“王室之举”的可能动机……离开时，他对“应该逮捕谁这件事心里有数多了”。"
+    },
+    {
+      "id": "acted.chaima.revolution.edge",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛，以她在噤声居屋学到的东西武装自己，前去与门关军团的敌人战斗。"
+    },
+    {
+      "id": "acted.azita.observe.scaly.sky",
+      "label": "已阅读：阿齐塔",
+      "desc": "刃之长生者阿齐塔开始相信，她的孪敌迈哈德是那些遗留有介壳种天性的人中的一员；她决定尾随他去西方。"
+    },
+    {
+      "id": "acted.azita.opera.apollo.sky",
+      "label": "已阅读：阿齐塔",
+      "desc": "阿齐塔想要确保歌剧的所有细节都毫无纰漏——以保证它能够成为吸引她“最亲爱的敌人”迈哈德前来的最佳诱饵。"
+    },
+    {
+      "id": "acted.rowena.numa.grail.b.grail",
+      "label": "已阅读：罗威娜",
+      "desc": "“如果我在这里……恐怕应是孪生子带我到了这里。是孪生子将不应分离之物结合。因此我与我的沥血姐妹们共享她们的庇护。就如班克罗夫特曾说的那样，这世上还有更甚于爱情的欲望。”"
+    },
+    {
+      "id": "acted.agdistis.observe.scaly.sky",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生已经决定无视来自西方的召唤，选择拒绝转变的可能，保持现在的模样。"
+    },
+    {
+      "id": "acted.agdistis.opera.apollo.sky",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生协助编排了《阿波罗与马西亚斯》的配乐。"
+    },
+    {
+      "id": "acted.ehsan.project.ingenious.sky",
+      "label": "已阅读：埃桑",
+      "desc": "埃桑希望自己托人为齐达内所作的悼歌能用“未完工的百灵鸟”播放——但在噤声居屋研究了此事之后，他认为这可能太冒险了。"
+    },
+    {
+      "id": "acted.douglas.pan.heart",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "启明警探摩尔认定莱特里昂没有什么值得防剿局调查的东西。"
+    },
+    {
+      "id": "acted.auntmopsy.numa.moon.b.moon",
+      "label": "已阅读：M阿姨",
+      "desc": "“没错，亲爱的。没有那些黑暗中的诸神，恐怕我们在永恒以外的地方都看不到太阳。祝你好梦。”"
+    },
+    {
+      "id": "acted.aladim.observe.scaly.scale",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人断定，在圣滕特雷托僧院上空云层出现的介壳种踪迹值得自己去关注。"
+    },
+    {
+      "id": "acted.connie.opera.apollo.sky",
+      "label": "已阅读：康妮",
+      "desc": "副警监李认为歌剧带来的梦境危险没有她担心的那么严重，并为此舒了口气……但她还是决定和“巴黎相关机构的同僚”谈谈。"
+    },
+    {
+      "id": "acted.morgen.revolution.grail",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士确信她在边境的战争中能找到称心合意的大餐。"
+    },
+    {
+      "id": "acted.douglas.omen.dawn.lantern",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "启明警探摩尔对在墨萨拿发生的事情似乎仍不太确定。但他答应向防剿局提及我对他的帮助。"
+    },
+    {
+      "id": "acted.arun.opera.wings.moth",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士希望能与“喜鹊”夫里泽里夫——飞蛾的具名者——“谈谈”，他认为正是后者制造了歌剧现场的灾难。"
+    },
+    {
+      "id": "acted.fraser.mystical.lantern",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "弗雷泽·斯特拉思科因相信有某种东西促使忘却会——退居午港的长生者团体——重返了世间。"
+    },
+    {
+      "id": "acted.franklin.numa.grail.b.grail",
+      "label": "已阅读：班克罗夫特",
+      "desc": "“……一旦我们开始，就再无止尽。没有圣杯，就没有置闰；没有置闰，司辰们要如何阻止……”"
+    },
+    {
+      "id": "acted.auntmopsy.numa.moon.a.moon",
+      "label": "已阅读：M阿姨",
+      "desc": "“没错，亲爱的。咱今葬它不知所失，待它葬咱才知失孰。如果我是你，我会考虑我该埋葬什么。祝你好梦。”"
+    },
+    {
+      "id": "acted.serena.mystical.lantern",
+      "label": "已阅读：瑟雷娜",
+      "desc": "布莱克伍德博士对那些教派嗤之以鼻，认为这只是动荡时代的一种普遍妄想。"
+    },
+    {
+      "id": "acted.agdistis.pan.heart",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生决定尝试蜂蜜。"
+    },
+    {
+      "id": "acted.ehsan.wound.heart",
+      "label": "已阅读：埃桑",
+      "desc": "埃桑相信“开启牧师”已经引起了蚁母的注意——但也下定决心，不论如何也要治愈那个可怜的家伙。"
+    },
+    {
+      "id": "acted.chaima.omen.horizon.rose",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛受防剿局委托，来追捕伊苏的使者——虽然她此行在布兰库格学到了点东西，但还是没指望自己能找到那使者。"
+    },
+    {
+      "id": "acted.arthur.omen.dawn.lantern",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉开始相信墨萨拿出现的那些奇迹可能意味着第二拂晓将近。“当世界发生变革时，”他评论说，“将会翻天覆地。”"
+    },
+    {
+      "id": "acted.connie.mob.moon",
+      "label": "已阅读：康妮",
+      "desc": "副警监李十分担心可能有清算人已经找到了某种能欺骗昕旦的方法，匆忙赶往考纳斯。"
+    },
+    {
+      "id": "acted.corso.omen.dawn.lantern",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索认定，教会委托他鉴别的——那份详述无拘之眼预言的手稿——是件赝品。"
+    },
+    {
+      "id": "acted.yvette.intrusion.winter",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士去往克拉科夫与霍布森面谈——但她先来到了噤声居屋，已确保自己了解可能承担的风险。"
+    },
+    {
+      "id": "acted.morgen.project.ingenious.sky",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士希望完成齐达内的遗作；而在噤声居屋，她找到，或者认定自己找到了为此要准备的一切。"
+    },
+    {
+      "id": "acted.douglas.wound.heart",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "启明警探摩尔得出结论，“开启牧师”必须被永久关闭。"
+    },
+    {
+      "id": "acted.arun.lost.find.moth",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士与往常一样在布兰库格找到了他想要的东西，从一个谜语中解脱，然后自顾自离开。他的目的依然不清楚。"
+    },
+    {
+      "id": "acted.azita.mob.edge",
+      "label": "已阅读：阿齐塔",
+      "desc": "阿齐塔去了考纳斯，她声称，要按着清算人的脑袋，让他们坐下来谈谈。"
+    },
+    {
+      "id": "acted.rowena.numa.grail.a.grail",
+      "label": "已阅读：罗威娜",
+      "desc": "“如果我在这里，这会使我快慰；如果我在这里，我会给你比现在更高的酬劳。”"
+    },
+    {
+      "id": "acted.aladim.omen.horizon.rose",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人怀疑亨德里克·德沃尔夫并不只是个寻常的佣兵队长……而布兰库格与伊苏之间的神秘联系意味着，他可能会从这座岛屿踏上前往伊苏的旅程。"
+    },
+    {
+      "id": "acted.zachary.heist.knock",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德对他关于奥里弗拉姆事件真相的猜测守口如瓶，但他确实给了一个暗示：“一门闭，一扉启，另有一扉。”"
+    },
+    {
+      "id": "acted.connie.observe.scaly.sky",
+      "label": "已阅读：康妮",
+      "desc": "为来自西方的呼唤而挂虑，副警监李决定不亲自前往那里调查——而是决定防剿局应该尽其所能地保护沿海地区的安全。"
+    },
+    {
+      "id": "acted.ehsan.curse.heart",
+      "label": "已阅读：埃桑",
+      "desc": "埃桑应防剿局之请，帮助他们解决格吕内瓦尔德相关事务，他来噤声居屋寻找在此过程中的自保之法。"
+    },
+    {
+      "id": "acted.coquille.heist.knock",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔在调查奥里弗拉姆失窃案的具体手法的过程中，碰巧发现了某种“更加轰动的东西”。"
+    },
+    {
+      "id": "acted.yvette.box.moon",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士，受到圣米哈尔之棺传闻的启发，前来研究圣哥伦巴石棺的传说，并且似乎找到了她想要的东西。“浪潮依旧”，她说到……"
+    },
+    {
+      "id": "acted.ehsan.opera.apollo.sky",
+      "label": "已阅读：埃桑",
+      "desc": "在噤声居屋学到的东西让埃桑相信，那件作品不会打扰到下层天域——尤其，也许，在他的调停之下。"
+    },
+    {
+      "id": "acted.serena.heist.forge",
+      "label": "已阅读：瑟雷娜",
+      "desc": "布莱克伍德博士怀疑是奥里弗拉姆内部的某人编造了整个失窃案件。她想不出原因——但她在我这里了解的信息足以让她在那里的联络人认真对待此事。"
+    },
+    {
+      "id": "acted.douglas.curse.heart",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "受他在噤声居屋学到东西的鼓舞，启明警探摩尔前去解决格吕内瓦尔德造成的麻烦。"
+    },
+    {
+      "id": "acted.dagmar.stalk.rose",
+      "label": "已阅读：妲格玛",
+      "desc": "“日魇”已经动身去布达佩斯调查与美杜莎有关的事。她坚称这么做不是为了帮助自己的朋友，尤其不是为了某个名字以K开头的。"
+    },
+    {
+      "id": "acted.hokobald.opera.wings.grail",
+      "label": "已阅读：霍科博尔德",
+      "desc": "在拜访噤声居屋后，霍科博尔德大师认为自己已经准备好“充分利用”在歌剧上演时将出现的灾难。尽管他似乎并不特别感激。"
+    },
+    {
+      "id": "acted.arthur.hunt.changing.edge",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉决定将阿贝卡西斯交由群狮迷宫看管。"
+    },
+    {
+      "id": "acted.douglas.mystical.lantern",
+      "label": "已阅读：道格拉斯·摩尔",
+      "desc": "启明警探摩尔最担心的是那些教派可能成为新长生者的摇篮——进而增加发生天孽的风险。"
+    },
+    {
+      "id": "acted.coquille.opera.wings.grail",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔希望在歌剧的台下找到自己的家人——准确来说，是她“最新的”家人。"
+    },
+    {
+      "id": "acted.auntmopsy.numa.wood.nectar",
+      "label": "已阅读：M阿姨",
+      "desc": "“没错，亲爱的。没有树木就没有纸张；没有森林就没有斧头；没有记忆就没有忘却。祝你好梦。”"
+    },
+    {
+      "id": "acted.agdistis.project.ingenious.sky",
+      "label": "已阅读：阿格狄斯提斯",
+      "desc": "阿格狄斯提斯先生写下了祖斯马林·齐达内的悼歌。"
+    },
+    {
+      "id": "acted.connie.rising.moon",
+      "label": "已阅读：康妮",
+      "desc": "副警监李的上级要求她研究一则来自“冉升之时”的神谕，这最终让她充满疑虑——她担心“大赝身”在王国的内政中扮演了某种角色。"
+    },
+    {
+      "id": "acted.yvette.rising.moon",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士，为梦境所扰，惧怕溺亡。"
+    },
+    {
+      "id": "acted.dagmar.intrusion.knock",
+      "label": "已阅读：妲格玛",
+      "desc": "“日魇”对防剿局自称的专业性不以为意。她动身前往克拉科夫，以确保拘束蠕虫的防护措施符合自己的标准。"
+    },
+    {
+      "id": "acted.hokobald.project.solar.forge",
+      "label": "已阅读：霍科博尔德",
+      "desc": "霍科博尔德大师想要尽可能地了解“王室之举”的目的与性质。他似乎对那个项目十分满意；他似乎对噤声居屋也几乎满意。"
+    },
+    {
+      "id": "acted.olympe.opera.wings.moth",
+      "label": "已阅读：奥兰普",
+      "desc": "贝谢女士希望她能帮助一位朋友完成歌剧表演……或者至少从中幸存下来。在噤声居屋，她发现了一些希望能有所帮助的东西。"
+    },
+    {
+      "id": "acted.julian.numa.moon.a.moon",
+      "label": "已阅读：科赛利",
+      "desc": "“……伊苏，例外之城。可在永恒面前，一切例外都只是过眼云烟。这才是重点！唯有当我接受……”"
+    },
+    {
+      "id": "acted.aladim.rite.awakening.scale",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人声称那座檀木雕像应该被扔进火里，因为他担心那将“开始嗡鸣作响”。"
+    },
+    {
+      "id": "acted.zachary.mystical.winter",
+      "label": "已阅读：扎迦利",
+      "desc": "尚不清楚扎迦利·韦克菲尔德对那些新兴教派持何态度……但很明显，他并没有给出什么特别有建设性的见解。"
+    },
+    {
+      "id": "acted.ehsan.observe.scaly.sky",
+      "label": "已阅读：埃桑",
+      "desc": "埃桑开始帮助那些听到云层召唤的病人——抑制他们向西进发的狂热——尽管他尚有疑虑。"
+    },
+    {
+      "id": "acted.chaima.stalk.rose",
+      "label": "已阅读：柴玛",
+      "desc": "拉拉·柴玛已经动身去了布达佩斯，以跟踪美杜莎——她在噤声居屋学到的第一点就是，一定要表现出足够的尊重。"
+    },
+    {
+      "id": "acted.coquille.revolution.grail",
+      "label": "已阅读：科基尔",
+      "desc": "贵胄科基尔为她在门关军团的一位十分特别的军官朋友找到了一份十分特别的礼物。"
+    },
+    {
+      "id": "acted.morgen.observe.scaly.sky",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士，备好了知识，打算亲自动身去西方了解情况；并警告说，某种存在也可能会来到布兰库格上空的云层中。"
+    },
+    {
+      "id": "acted.julian.numa.moon.b.moon",
+      "label": "已阅读：科赛利",
+      "desc": "“……是我的傲慢。为了推翻必然而战。我不会说我的时间都是白费的——对暴政的打击没有白费。但唯当我看到……”"
+    },
+    {
+      "id": "acted.aladim.hunt.changing.scale",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人开始相信阿贝卡西斯已经接受了“为蛇哺乳之人”向他提供的食物。"
+    },
+    {
+      "id": "acted.aladim.rising.scale",
+      "label": "已阅读：阿迪姆",
+      "desc": "阿勒颇人推测七蟠和太阳之间存在某种联系，却又担心自己在冉升之时的神谕者那里会得知令他害怕的真相……最终决定不前往那里。"
+    },
+    {
+      "id": "acted.stanislav.pan.heart",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父决定和莱特里昂的几位赞助人谈谈，希望能对“世界脉搏的节奏”中的变化有所了解。"
+    },
+    {
+      "id": "acted.ehsan.pan.heart",
+      "label": "已阅读：埃桑",
+      "desc": "埃桑注意到，在莱特里昂被创作出的作品，与居屋第七任图书管理员蒂尔扎·布雷克的作品有相似之处。"
+    },
+    {
+      "id": "acted.zachary.intrusion.winter",
+      "label": "已阅读：扎迦利",
+      "desc": "扎迦利·韦克菲尔德认为，他的朋友霍布森，现在可能已经是他的朋友们了。在“向外”和“向下”的问题上，他选择了“向下”。"
+    },
+    {
+      "id": "acted.hokobald.opera.apollo.grail",
+      "label": "已阅读：霍科博尔德",
+      "desc": "在拜访噤声居屋后，霍科博尔德大师相信他已经找到了最适合赠送给表演者的礼物。他差点就为此感谢我了。"
+    },
+    {
+      "id": "acted.corso.project.solar.lantern",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索有些沮丧地回到他的“外国朋友”那里，警告他们对“王室之举”本质的担忧或许是合理的。"
+    },
+    {
+      "id": "acted.stanislav.pan.nectar",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父决心去黑森林看看，他感觉这是个让某些旧事物重生的机会——“以正确或错误的方式”。"
+    },
+    {
+      "id": "acted.morgen.opera.apollo.grail",
+      "label": "已阅读：摩根",
+      "desc": "平旦女士确信自己将会是观众席上打扮得最漂亮的女人。"
+    },
+    {
+      "id": "acted.corso.mystical.lantern",
+      "label": "已阅读：科尔索",
+      "desc": "科尔索认为，最近兴起的教派向他暗示了某种联系——名为制烛人的神秘司辰，与守夜人的具名者日落西莉亚之间的联系。"
+    },
+    {
+      "id": "acted.fraser.rite.awakening.scale",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "弗雷泽·斯特拉思科因声称他打算将斯特拉斯堡教堂的檀木雕像沉入水中，希望它会“继续成长”。"
+    },
+    {
+      "id": "acted.azita.hunt.changing.edge",
+      "label": "已阅读：阿齐塔",
+      "desc": "刃之长生者阿齐塔永恒的孪敌，迈哈德，计划让阿贝卡西斯光荣地死去。带着歉意，阿齐塔决定着手于阻止此事发生。"
+    },
+    {
+      "id": "acted.serena.omen.dawn.lantern",
+      "label": "已阅读：瑟雷娜",
+      "desc": "拜访布兰库格后，布莱克伍德博士强烈怀疑墨萨拿异状的罪魁祸首根本不是守夜人的具名者……而是制烛人的具名者。"
+    },
+    {
+      "id": "acted.connie.box.moon",
+      "label": "已阅读：康妮",
+      "desc": "副警监李怀疑圣米哈尔之棺内可能收容着一位制烛人的具名者……按照她的说法，这似乎是她今年第二次听说此类情况。她对此种可能性感到忧虑。"
+    },
+    {
+      "id": "acted.arthur.mystical.lantern",
+      "label": "已阅读：亚瑟·摩尔",
+      "desc": "摩尔中尉希望他已经开始理解所谓“太阳的计划”。"
+    },
+    {
+      "id": "acted.fraser.project.solar.lantern",
+      "label": "已阅读：斯特拉思科因",
+      "desc": "王室之举的采购委员会似乎是弗雷泽·斯特拉思科因的众多客户之一。所以他来噤声居屋研究他们的订单中隐藏的秘密：“战舰；浮空器；火车头。这些东西的共同点是什么，图书管理员？告诉你吧：它们皆具其名。”"
+    },
+    {
+      "id": "acted.arun.rite.renewal.moon",
+      "label": "已阅读：褪皮",
+      "desc": "褪皮博士已动身去参观将在格拉德温湖进行的仪式，还提到了几个不详的名字：罗比戈，慷慨待主者；戴冠之孳；奥尔图基奥……"
+    },
+    {
+      "id": "acted.yvette.wound.winter",
+      "label": "已阅读：伊薇特",
+      "desc": "骚赛博士不奢望能治愈“开启牧师”的肉体——但他曾是她的病人，而她认为他可能再次成为她的病人。"
+    },
+    {
+      "id": "acted.stanislav.wound.heart",
+      "label": "已阅读：斯坦尼斯拉夫神父",
+      "desc": "沙勒神父，那位“开启牧师”曾经的朋友，认为他在这里学到了足够的知识，可以给他提供“他可能想要的东西”。"
+    }
+  ]
+}

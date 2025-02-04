@@ -1,0 +1,64 @@
+{
+  "elements": [
+    {
+      "id": "fleeting",
+      "label": "一瞬追忆",
+      "desc": "回首某个瞬间。下个瞬间即告消逝。[如果不使用，回忆会随着拂晓到来而消散。]"
+    },
+    {
+      "id": "dregs",
+      "label": "残渣",
+      "desc": "这曾为某物。"
+    },
+    {
+      "id": "scraps",
+      "label": "残羹冷炙",
+      "desc": "此曾为某些更多的物什。"
+    },
+    {
+      "id": "departure.visiting",
+      "label": "离去的访客",
+      "desc": "某人回家了。"
+    },
+    {
+      "id": "rind",
+      "label": "躯壳",
+      "desc": "这曾容纳某物。"
+    },
+    {
+      "id": "departure.assistance.longer",
+      "label": "回家路上",
+      "desc": "某人已经完成了工作，是时候回家了。"
+    },
+    {
+      "id": "departure.assistance",
+      "label": "归途",
+      "desc": "某人已经完成了工作。"
+    },
+    {
+      "id": "echo",
+      "label": "回声",
+      "desc": "[这段回忆已成为其他存在的一部分。]"
+    },
+    {
+      "id": "lesson.giribrago",
+      "label": "多刻面的教诲",
+      "desc": "光会渗入何处，光自哪里渗出，光是如何泄漏。[这是一个不寻常的多用途教诲，而且<b>不会存续到拂晓之后</b>。尽快使用。]"
+    },
+    {
+      "id": "dust",
+      "label": "尘埃",
+      "desc": "这曾为某物。"
+    },
+    {
+      "id": "residue",
+      "label": "残余",
+      "desc": "这曾为某物。"
+    },
+    {
+      "id": "vapours",
+      "label": "蒸汽",
+      "desc": "转瞬即逝的气氛。"
+    }
+  ]
+}

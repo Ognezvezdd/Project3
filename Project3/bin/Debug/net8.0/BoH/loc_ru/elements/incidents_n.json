@@ -1,0 +1,563 @@
+﻿{
+  "elements": [
+    {
+      "id": "incident.consultation",
+      "label": "Консультация",
+      "desc": "Кто-то захотел что-то узнать.",
+      "inherits": "_incident"
+    },
+    {
+      "id": "affair.box",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.revolution",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.heist",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.stalk",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.wound",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.intrusion",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.pan",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.curse",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.omen.dawn",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.omen.horizon",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.mob",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.rising",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.lost.find",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.project.ingenious",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.project.solar",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.mystical",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.opera.apollo",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.opera.wings",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.box",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.rite.renewal",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.rite.awakening",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.hunt.changing",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.observe.scaly",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.grail.a",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.grail.b",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.moon.a",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.moon.b",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.winter.a",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "affair.numa.wood",
+      "isaspect": true,
+      "ishidden": true
+    },
+    {
+      "id": "incident.box",
+      "achievements": [
+        "A_AFFAIR_CASKET"
+      ],
+      "label": "История о саркофаге посланника",
+      "icon": "city.cluj",
+      "aspects": {
+        "affair.box": 1,
+        "relevance.knock": 1,
+        "relevance.moon": 1
+      },
+      "desc": "В потаённом горном ущелье близ городка Клуж хранится загадочная реликвия — её называют саркофагом святого Михала. Десятилетия усердных трудов наконец позволили проделать отверстие в его крышке. [Если посетителей интересуют <sprite name=knock> или <sprite name=moon>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.curse",
+      "achievements": [
+        "A_AFFAIR_GRUNEWALD"
+      ],
+      "label": "История об особом аукционе",
+      "icon": "vaultlandbeyondforest3",
+      "aspects": {
+        "affair.curse": 1,
+        "relevance.heart": 1,
+        "relevance.winter": 1
+      },
+      "desc": "Бюро продало имущество оседлого цирка Груневальд с закрытого аукциона. Периодически Бюро настигает кризис финансирования, поэтому в тот раз оно санкционировало продажу имущества цирка, минуя обычные проверки на онейрическую опасность. Теперь похоже, что лучше было этого не делать. [Если посетителей интересуют <sprite name=heart> или <sprite name=winter>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.heist",
+      "achievements": [
+        "A_AFFAIR_HEIST"
+      ],
+      "label": "История об ограблении «Орифламмы»",
+      "icon": "city.london",
+      "aspects": {
+        "affair.heist": 1,
+        "relevance.knock": 1,
+        "relevance.forge": 1
+      },
+      "desc": "Аукционный дом «Орифламма» ограбить невозможно. Но что, если это неправда? Что, если в какой-то момент бесценные сокровища заменили дорогостоящими подделками? Как мы вообще можем быть в чём-то уверены? [Если посетителей интересуют <sprite name=knock> или <sprite name=forge>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.hunt.changing",
+      "achievements": [
+        "A_AFFAIR_SKIN"
+      ],
+      "label": "История о второй коже",
+      "icon": "city.marrakech",
+      "aspects": {
+        "affair.hunt.changing": 1,
+        "relevance.edge": 1,
+        "relevance.scale": 1
+      },
+      "desc": "Бессмертные меняются медленнее, чем большинство из нас – но иногда меняются даже они. В городе Марракеш лабит Абекассий начал опасную и внезапную метаморфозу, которая пугает его друзей не меньше, чем врагов… [Если посетителей интересуют <sprite name=edge> или <sprite name=scale>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.intrusion",
+      "achievements": [
+        "A_AFFAIR_GUEST"
+      ],
+      "label": "История о нескончаемом госте",
+      "icon": "city.krakow",
+      "aspects": {
+        "affair.intrusion": 1,
+        "relevance.knock": 1,
+        "relevance.winter": 1
+      },
+      "desc": "Проникновение Червей – дело нешуточное... На этот раз Черви проникли в некоего Спенсера Гобсона, которого Бюро умолчания отправило с поручением в Краков. Для жертвы проникновения Гобсон сохранил на редкость трезвый рассудок; и похоже, что он считает Червей своим «гостем». [Если посетителей интересуют <sprite name=knock> или <sprite name=winter>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.lost.find",
+      "achievements": [
+        "A_AFFAIR_ROSE"
+      ],
+      "label": "История о крапчатой розе",
+      "icon": "vaultloneandlevelsandsdefault",
+      "aspects": {
+        "affair.lost.find": 1,
+        "relevance.moth": 1,
+        "relevance.rose": 1
+      },
+      "desc": "Среди шелестящих барханов, где некогда возвышался город Миах, ещё один человек расстался с жизнью. Но он почти сумел выбраться. Он прополз так далеко, что на него наткнулся козопас из окрестной деревни. Перед смертью он бредил о садах, а в руке его был зажат цветок... [Если посетителей интересуют <sprite name=moth> или <sprite name=rose>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.mob",
+      "achievements": [
+        "A_AFFAIR_DEBT"
+      ],
+      "label": "История о простительном долге",
+      "icon": "city.kaunas",
+      "aspects": {
+        "affair.mob": 1,
+        "relevance.moon": 1,
+        "relevance.edge": 1
+      },
+      "desc": "Как и многие преступники, считальцы дают ссуды неосмотрительным и отчаявшимся – но в их случае речь идёт не о деньгах, а о годах жизни. Обычно они держатся в тени, но вот две группировки развязали войну в малоприметном литовском городке Каунас. Зачем? И что такого в Каунасе? [Если посетителей интересуют <sprite name=moon> или <sprite name=edge>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.mystical",
+      "achievements": [
+        "A_AFFAIR_MYSTIQUE"
+      ],
+      "label": "История о событиях исключительной таинственности",
+      "icon": "vaultcapital2",
+      "aspects": {
+        "affair.mystical": 1,
+        "relevance.winter": 1,
+        "relevance.lantern": 1
+      },
+      "desc": "Внимание Бюро умолчания привлекла распространяющаяся мода на экзотические – и нередко провидческие – религиозные течения... Все они держатся в рамках закона. В них нет ничего зловещего. Все эти движения чтут Солнце, что не может не радовать. Но кажется, что дело всё же нечисто. [Если посетителей интересуют <sprite name=winter> или <sprite name=lantern>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.observe.scaly",
+      "achievements": [
+        "A_AFFAIR_CLAWCLOUDS"
+      ],
+      "label": "История о когте и облаках",
+      "icon": "vaulteveningisles4",
+      "aspects": {
+        "affair.observe.scaly": 1,
+        "relevance.scale": 1,
+        "relevance.sky": 1
+      },
+      "desc": "Из далёкого монастыря Св. Тентрето на Сумеречных островах до нас доходят смутные и противоречивые слухи о необычных посетителях — тех, что приходят из-за неба... [Если посетителей интересуют <sprite name=scale> или <sprite name=sky>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.omen.dawn",
+      "achievements": [
+        "A_AFFAIR_EYE"
+      ],
+      "label": "История о раскрепощённом оке",
+      "icon": "vaultloneandlevelsands3",
+      "aspects": {
+        "affair.omen.dawn": 1,
+        "relevance.lantern": 1
+      },
+      "desc": "Мессана: процветающая деревенька в пустыне, в последние годы сделавшаяся местом паломничества. Недавно там начались крайне необычные происшествия – местные жители прозревают или, напротив, начинают страдать слепотой. Церковь отправила своих представителей провести расследование. [Если посетителей интересует <sprite name=lantern>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.omen.horizon",
+      "achievements": [
+        "A_AFFAIR_HORIZON"
+      ],
+      "label": "История о сокрытых землях",
+      "icon": "vaulteveningisles1",
+      "aspects": {
+        "affair.omen.horizon": 1,
+        "relevance.rose": 1
+      },
+      "desc": "У моряков есть слово, чтобы обозначить причудливое поведение компаса, после которого вскоре возникает Кер-Ис... Они говорят, что тот «ухватил кружащийся горизонт». В этом году корабли в Северном море необычно подвержены кружению. [Если посетителей интересует <sprite name=rose>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.opera.apollo",
+      "achievements": [
+        "A_AFFAIR_APOLLOMARSYAS"
+      ],
+      "label": "История об «Аполлоне и Марсии»",
+      "icon": "city.paris",
+      "aspects": {
+        "affair.opera.apollo": 1,
+        "relevance.grail": 1,
+        "relevance.sky": 1
+      },
+      "desc": "Говорят, к постановке готовится опера с весьма и весьма древней историей. [Если посетителей интересуют <sprite name=grail> или <sprite name=sky>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.opera.wings",
+      "achievements": [
+        "A_AFFAIR_OPERA"
+      ],
+      "label": "История о невидимой опере",
+      "icon": "city.venice",
+      "aspects": {
+        "affair.opera.wings": 1,
+        "relevance.grail": 1,
+        "relevance.moth": 1
+      },
+      "desc": "Ещё никому не удавалось поставить «Крылья в крыльях» от начала и до конца. Должно быть, именно поэтому сие произведение прозвали «Невидимой оперой». Однако кто-то готов попробовать ещё раз. [Если посетителей интересуют <sprite name=grail> или <sprite name=moth>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.pan",
+      "achievements": [
+        "A_AFFAIR_GOD"
+      ],
+      "label": "История о лесном боге",
+      "icon": "vaultcontinent3",
+      "aspects": {
+        "affair.pan": 1,
+        "relevance.heart": 1,
+        "relevance.nectar": 1
+      },
+      "desc": "Модный санаторий «Литерион» в Чёрном лесу привлёк к себе внимание тем, что многие из посетивших его отрыли в себе художественный талант необычного, а подчас и пугающего свойства. [Если посетителей интересуют <sprite name=heart> или <sprite name=nectar>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.project.ingenious",
+      "achievements": [
+        "A_AFFAIR_LARK"
+      ],
+      "label": "История о незаконченном жаворонке",
+      "icon": "city.algiers",
+      "aspects": {
+        "affair.project.ingenious": 1,
+        "relevance.forge": 1,
+        "relevance.sky": 1
+      },
+      "desc": "Скульптор-адепт Зутималим Зидейн три года трудился над своим шедевром – абстрактной скульптурой, которая «поёт голосом пустынного жаворонка». Но теперь в газетах сообщают, что он мёртв. [Если посетителей интересуют <sprite name=forge> или <sprite name=sky>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.project.solar",
+      "achievements": [
+        "A_AFFAIR_ENDEAVOUR"
+      ],
+      "label": "История о королевском начинании",
+      "icon": "vaultcapitaldefault",
+      "aspects": {
+        "affair.project.solar": 1,
+        "relevance.forge": 1,
+        "relevance.lantern": 1
+      },
+      "desc": "Новый король дал высочайшее дозволение направить средства казначейства на смелый промышленный проект – он преобразит экономику державы и наполнит её чувством патриотизма. Ошеломлённый парламент уже принял «Закон о королевском начинании», который предписывает начать строительство необходимых объектов – хотя никто не может назвать подробности. [Если посетителей интересуют <sprite name=forge> или <sprite name=lantern>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.revolution",
+      "achievements": [
+        "A_AFFAIR_REVOLUTION"
+      ],
+      "label": "История о восстании Пределов",
+      "icon": "city.meshad",
+      "aspects": {
+        "affair.revolution": 1,
+        "relevance.edge": 1,
+        "relevance.grail": 1
+      },
+      "desc": "Лежион дю Сёй поддерживает в сухих районах Пределов жестокий мир. Быть может, необходимый. Однако в Лежион дю Сёй набирают чудовищ из Пределов. Можно ли вообще ему доверять? [Если посетителей интересуют <sprite name=edge> или <sprite name=grail>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.rising",
+      "achievements": [
+        "A_AFFAIR_WHILE"
+      ],
+      "label": "История о Грядущем Времени",
+      "icon": "vaultloneandlevelsands4",
+      "aspects": {
+        "affair.rising": 1,
+        "relevance.moon": 1,
+        "relevance.scale": 1
+      },
+      "desc": "На дальнем берегу внутреннего моря, где-то за песками далёких пустынь самопровозглашённая пифия разбила палаточный городок и проповедует своим приверженцам «пророчество завтрашнего дня». Адепты незримых искусств не стали бы обращать на неё внимания... Если бы не тот факт, что шатры стоят в тени храма Семи-Витков, и пока что никто никого не пожрал. [Если посетителей интересуют <sprite name=moon> или <sprite name=scale>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.rite.awakening",
+      "achievements": [
+        "A_AFFAIR_SAINT"
+      ],
+      "label": "История о сандаловой реликвии",
+      "icon": "city.strasbourg",
+      "aspects": {
+        "affair.rite.awakening": 1,
+        "relevance.nectar": 1,
+        "relevance.scale": 1
+      },
+      "desc": "Любопытная статуэтка в одной из страсбургских церквей стала предметом фантастических слухов об исцелениях и неуспокоенных душах. Если дело дойдёт до церковных иерархов, это объявят чудом или ересью... Но кто-то может расследовать происшествие раньше них. [Если посетителей интересуют <sprite name=nectar> или <sprite name=scale>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.rite.renewal",
+      "achievements": [
+        "A_AFFAIR_TAPESTRY"
+      ],
+      "label": "История о гобелене послушника",
+      "icon": "vaultshires1",
+      "aspects": {
+        "affair.rite.renewal": 1,
+        "relevance.moon": 1,
+        "relevance.nectar": 1
+      },
+      "desc": "Из Гаустория сообщают о краже гобелена, изображавшего некий весьма древний обряд – который можно провести на берегах озера Глэдвин только «когда созреет луна». Что или кто обретёт при этом вторую жизнь – непонятно, но кто-нибудь обязательно попробует. [Если посетителей интересуют <sprite name=moon> или <sprite name=nectar>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.stalk",
+      "achievements": [
+        "A_AFFAIR_FRIEND"
+      ],
+      "label": "История о несуществующем друге",
+      "icon": "city.budapest",
+      "aspects": {
+        "affair.stalk": 1,
+        "relevance.edge": 1,
+        "relevance.rose": 1
+      },
+      "desc": "Лигения Медуза давно мертва, что подтверждают многочисленные свидетельства. Не менее многочисленные свидетельства подтверждают, что лунными ночами она бродит по улицам Будапешта. Такое случается. Однако теперь – впервые за всё это время – её стали видеть и при дневном свете. Что это предвещает? [Если посетителей интересуют <sprite name=edge> или <sprite name=rose>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.wound",
+      "achievements": [
+        "A_AFFAIR_WOUND"
+      ],
+      "label": "История об отворённом патере",
+      "icon": "vaultcapital4",
+      "aspects": {
+        "affair.wound": 1,
+        "relevance.heart": 1,
+        "relevance.winter": 1
+      },
+      "desc": "Доктора одной весьма специализированной клиники в дальнем уголке столицы наблюдают за экстатической агонией пациента, известного лишь как «отворённый патер». Не так давно он служил викарием прихода Св. Агнессы. Благословения святой Агнессы Неугасимой и святой Агнессы Остригающей часто бывают немилосердны. Но самым жестоким аспектом всё же считают святую Агнессу Граничную... [Если посетителей интересуют <sprite name=heart> или <sprite name=winter>, они захотят обсудить это происшествие.]",
+      "inherits": "_incident"
+    },
+    {
+      "id": "incident.numa.grail.a",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос о времени утешения",
+      "aspects": {
+        "affair.numa.grail.a": 1,
+        "relevance.grail": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить вопросы утешения, радости и потери. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=grail>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    },
+    {
+      "id": "incident.numa.grail.b",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос о званых на пир",
+      "aspects": {
+        "affair.numa.grail.b": 1,
+        "relevance.grail": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить вопросы крови, страстей и сопутствующих угроз. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=grail>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    },
+    {
+      "id": "incident.numa.moon.a",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос о подложном воспоминании",
+      "aspects": {
+        "affair.numa.moon.a": 1,
+        "relevance.moon": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить ходы и приёмы, к которым Часы прибегали в тайне. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=moon>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    },
+    {
+      "id": "incident.numa.moon.b",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос о полуночном двойнике",
+      "aspects": {
+        "affair.numa.moon.b": 1,
+        "relevance.moon": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить вопросы тени и сущности, забвения и откровения. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=moon>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    },
+    {
+      "id": "incident.numa.winter.a",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос о милосердном холоде",
+      "aspects": {
+        "affair.numa.winter.a": 1,
+        "relevance.winter": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить, когда и как приходит конец. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=winter>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    },
+    {
+      "id": "incident.numa.wood",
+      "achievements": [
+        "A_AFFAIR_NUMA"
+      ],
+      "label": "Вопрос об Узле и Сплетении",
+      "aspects": {
+        "affair.numa.wood": 1,
+        "relevance.grail": 1,
+        "relevance.nectar": 1
+      },
+      "desc": "Во время нумы посетители захотят обсудить Часы, которых чтили сёстры Тройственного узла. [Пока у вас есть эта карта, приходящих в нуму гостей будет интересовать <sprite name=grail> или <sprite name=nectar>. Скорее всего, они будут взыскательней, чем обычные посетители.]",
+      "inherits": "_incident.numa"
+    }
+  ]
+}
+

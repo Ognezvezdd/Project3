@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "circ.waters.receding",
+      "label": "水位下降",
+      "desc": "又一次，积水从居屋的地下退去。"
+    },
+    {
+      "id": "circ.depths.uncovered",
+      "label": "深窟浮现",
+      "desc": "又一次，海水从岛屿的洞窟退去。"
+    }
+  ]
+}

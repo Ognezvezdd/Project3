@@ -1,0 +1,52 @@
+{
+  "elements": [
+    {
+      "id": "uncatbook.nocturnal",
+      "label": "未编目的书（夜勤时期）"
+    },
+    {
+      "id": "uncatpile",
+      "label": "未编目的一堆书"
+    },
+    {
+      "id": "uncatpile.nocturnal",
+      "label": "未编目的一堆书（夜勤时期）"
+    },
+    {
+      "id": "uncatbook.nocturnal.everyman",
+      "label": "未编目的书（夜勤时期）"
+    },
+    {
+      "id": "uncatbook.solar",
+      "label": "未编目的书（太阳时期）"
+    },
+    {
+      "id": "uncatbook.baronial",
+      "label": "未编目的书（男爵时期）"
+    },
+    {
+      "id": "uncatpile.curia",
+      "label": "未编目的一堆书（决议会时期）"
+    },
+    {
+      "id": "uncatpile.dawn",
+      "label": "未编目的一堆书（拂晓时期）"
+    },
+    {
+      "id": "uncatpile.baronial",
+      "label": "未编目的一堆书（男爵时期）"
+    },
+    {
+      "id": "uncatpile.solar",
+      "label": "未编目的一堆书（太阳时期）"
+    },
+    {
+      "id": "uncatbook.dawn",
+      "label": "未编目的书（拂晓时期）"
+    },
+    {
+      "id": "uncatbook.curia",
+      "label": "未编目的书（决议会时期）"
+    }
+  ]
+}

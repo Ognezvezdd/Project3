@@ -1,0 +1,260 @@
+{
+  "elements": [
+    {
+      "Label": "习得回忆：慰藉",
+      "id": "precursor.mem.solace",
+      "desc": "化险为夷。"
+    },
+    {
+      "Label": "听闻野蛮颂歌",
+      "id": "precursor.music.savage"
+    },
+    {
+      "Label": "习得回忆：触感",
+      "id": "precursor.mem.touch",
+      "desc": "手艺唯有通过指尖的触碰方能学习。"
+    },
+    {
+      "Label": "听闻怅惘曲调",
+      "id": "precursor.music.wistful"
+    },
+    {
+      "xexts": {
+        "scrutiny": "有人在座垫下面塞了一个伤心的小宝藏……"
+      },
+      "Label": "？",
+      "id": "precursor.pale.mommet.fromchair",
+      "desc": "有人在座垫下面塞了一个伤心的小宝藏……"
+    },
+    {
+      "Label": "习得回忆：盐",
+      "id": "precursor.mem.salt",
+      "desc": "海上薄雾，渊洋之殇。"
+    },
+    {
+      "Label": "理解罕奇直觉",
+      "id": "precursor.curious.hunch"
+    },
+    {
+      "Label": "习得回忆：景象",
+      "id": "precursor.mem.sight",
+      "desc": "“眼见胜于心知。”——布雷克"
+    },
+    {
+      "Label": "习得回忆：气味",
+      "id": "precursor.mem.scent",
+      "desc": "绿茵之香让人想起雨水。"
+    },
+    {
+      "Label": "习得回忆：悔恨",
+      "id": "precursor.mem.regret",
+      "desc": "每重选择皆有其影。"
+    },
+    {
+      "Label": "习得回忆：启示",
+      "id": "precursor.mem.revelation",
+      "desc": "有些真相是我们从外面，或从上面得知的。"
+    },
+    {
+      "Label": "习得命名日之谜",
+      "id": "precursor.riddle.nameday"
+    },
+    {
+      "Label": "习得回忆：声音",
+      "id": "precursor.mem.sound",
+      "desc": "回忆比回声更持久。当然，当言辞进入世界，我们可以用语言把回声变成词语时，事情就变得更复杂了。"
+    },
+    {
+      "Label": "习得回忆：满足",
+      "id": "precursor.mem.satisfaction",
+      "desc": "有些欲望比其他的更容易满足。"
+    },
+    {
+      "xexts": {
+        "scrutiny": "靠垫的背后藏着什么？一个意想不到的小宝藏。"
+      },
+      "Label": "一枚古铜币？",
+      "id": "precursor.spintria.bronze.fromsofa",
+      "desc": "靠垫的背后藏着什么？一个意想不到的小宝藏。"
+    },
+    {
+      "Label": "习得混淆寓言",
+      "id": "precursor.confounding.parable"
+    },
+    {
+      "Label": "习领大地之兆",
+      "id": "precursor.earthsign"
+    },
+    {
+      "Label": "习领静待之风",
+      "id": "precursor.windinwaiting"
+    },
+    {
+      "Label": "习领孪星降梦",
+      "id": "precursor.didumos"
+    },
+    {
+      "Label": "习领震灾之名",
+      "id": "precursor.name.earthquake"
+    },
+    {
+      "Label": "理解旧日时刻",
+      "id": "precursor.old.moment"
+    },
+    {
+      "xexts": {
+        "scrutiny": "这支蜡烛比它应有的重得多：有什么东西被封在了蜡里……"
+      },
+      "Label": "？",
+      "id": "precursor.gervinite.fromcandle",
+      "desc": "这支蜡烛比它应有的重得多：有什么东西被封在了蜡里……"
+    },
+    {
+      "Label": "习领苦艾之梦",
+      "id": "precursor.wormwood.dream"
+    },
+    {
+      "Label": "听见方兴和声",
+      "id": "precursor.ascendant.harmony"
+    },
+    {
+      "Label": "习得回忆：滋味",
+      "id": "precursor.mem.taste",
+      "desc": "“每种甜蜜都有其酸涩。”——爱默生"
+    },
+    {
+      "Label": "理解致胜之着",
+      "id": "precursor.winning.move"
+    },
+    {
+      "Label": "习得回忆：恐惧",
+      "id": "precursor.mem.fear",
+      "desc": "“人类最古老最强烈的情绪是恐惧，而最古老最强烈的恐惧是对未知的恐惧。”——洛夫克拉夫特"
+    },
+    {
+      "Label": "习得回忆：失落",
+      "id": "precursor.mem.loss",
+      "desc": "无论曾经为何，它都不复从前。"
+    },
+    {
+      "Label": "习得回忆：矛盾",
+      "id": "precursor.mem.contradiction",
+      "desc": "让人不适之事。"
+    },
+    {
+      "Label": "习领禁断的史诗",
+      "id": "precursor.forbidden.epic"
+    },
+    {
+      "Label": "习得回忆：偷来的秘密",
+      "id": "precursor.mem.dreamt",
+      "desc": "梦中偶闻之事？"
+    },
+    {
+      "Label": "听见蜂巢挽歌",
+      "id": "precursor.music.hive"
+    },
+    {
+      "Label": "理解古老创伤",
+      "id": "precursor.old.wound"
+    },
+    {
+      "Label": "习得回忆：直觉",
+      "id": "precursor.mem.intuition",
+      "desc": "你就是明白，你明白吗？"
+    },
+    {
+      "xexts": {
+        "scrutiny": "有人把一个闪闪发光的透镜塞进了它的一边眼窝里。"
+      },
+      "Label": "？",
+      "id": "precursor.dearday.lens.fromskull",
+      "desc": "有人把一个闪闪发光的透镜塞进了它的一边眼窝里。"
+    },
+    {
+      "Label": "习领密教残篇",
+      "id": "precursor.occult.scrap"
+    },
+    {
+      "Label": "听闻轰雷之皮的赞歌",
+      "id": "precursor.music.thunderskin"
+    },
+    {
+      "Label": "习得风之流言",
+      "id": "precursor.windrumour"
+    },
+    {
+      "Label": "习得回忆：冲动",
+      "id": "precursor.mem.impulse",
+      "desc": "很难说得清——但我还是明白了。"
+    },
+    {
+      "Label": "听闻欢快小调",
+      "id": "precursor.music.cheerful"
+    },
+    {
+      "xexts": {
+        "scrutiny": "南瓜的外皮有被侵入过的痕迹。里面塞满了黏糊糊的意想不到的好东西。"
+      },
+      "Label": "？",
+      "id": "precursor.honey.cuckoo.frompumpkin",
+      "desc": "南瓜的外皮有被侵入过的痕迹。里面塞满了黏糊糊的意想不到的好东西。"
+    },
+    {
+      "Label": "研究弥久映像",
+      "id": "precursor.enduring.reflection"
+    },
+    {
+      "Label": "习领极目远眺",
+      "id": "precursor.horizonsight"
+    },
+    {
+      "Label": "习得回忆：风暴",
+      "id": "precursor.mem.storm",
+      "desc": "足以撼动天上月亮，动摇颅中思想的风暴。"
+    },
+    {
+      "Label": "习领无敌勇莽",
+      "id": "precursor.invincible.audacity"
+    },
+    {
+      "Label": "习得回忆：后见之明",
+      "id": "precursor.mem.hindsight",
+      "desc": "有些事只有在消逝之后才能理解。"
+    },
+    {
+      "Label": "习领秘密门关",
+      "id": "precursor.secret.threshold"
+    },
+    {
+      "Label": "理解狂热猜度",
+      "id": "precursor.wild.surmise"
+    },
+    {
+      "Label": "理解苦乐参半的必然",
+      "id": "precursor.bittersweet.certainty"
+    },
+    {
+      "Label": "习得回忆：先见之明",
+      "id": "precursor.mem.foresight",
+      "desc": "“才智的重塑与迸发，思想的凝炼与回旋。”——柯勒律治，《论多恩的诗歌》"
+    },
+    {
+      "xexts": {
+        "scrutiny": "一枚小宝藏不小心掉进了罐子里！"
+      },
+      "Label": "？",
+      "id": "precursor.spintria.iron.fromspanners",
+      "desc": "一枚小宝藏不小心掉进了罐子里！"
+    },
+    {
+      "Label": "习得回忆：流言",
+      "id": "precursor.mem.gossip",
+      "desc": "轻浮，但美味可口。"
+    },
+    {
+      "Label": "听闻诱人旋律",
+      "id": "precursor.music.beguiling"
+    }
+  ]
+}

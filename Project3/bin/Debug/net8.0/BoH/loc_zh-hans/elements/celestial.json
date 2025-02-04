@@ -1,0 +1,99 @@
+{
+  "elements": [
+    {
+      "id": "time.dawn",
+      "label": "拂晓",
+      "desc": "“梦更加明亮，风愈发冷冽的时刻……”——弗莱克"
+    },
+    {
+      "id": "season.autumn.paused",
+      "label": "秋[暂停]",
+      "desc": ".."
+    },
+    {
+      "id": "time.afternoon",
+      "label": "下午",
+      "desc": "第五祷"
+    },
+    {
+      "id": "towards.numa",
+      "label": "闰时已至",
+      "desc": "名为闰时的时节每九个时节都会造访布兰库格岛，然而闰时仍然像雾一样难以捉摸——实际上，它会在这九个时节之间降临——这确实很难摸清规律，甚至很难分辨，但有一点可以肯定：这九个时节越临近结束，闰时便越有可能到来。"
+    },
+    {
+      "id": "block.numa",
+      "label": "闰时未至",
+      "desc": "Prevents Numa being drawn for a while - one of these should be purged each numa draw.（内部文本？）"
+    },
+    {
+      "id": "season.summer.paused",
+      "label": "夏[暂停]",
+      "desc": ".."
+    },
+    {
+      "id": "season.winter.paused",
+      "label": "冬[暂停]",
+      "desc": ".."
+    },
+    {
+      "id": "season.numa",
+      "label": "闰时",
+      "desc": ".."
+    },
+    {
+      "id": "time.daybreak",
+      "label": "破晓",
+      "desc": "[daybreak]"
+    },
+    {
+      "id": "next.numa",
+      "label": "闰时将至",
+      "desc": "下一个时节将是闰时。"
+    },
+    {
+      "id": "season.autumn",
+      "label": "秋",
+      "desc": ".."
+    },
+    {
+      "id": "time.morning",
+      "label": "上午",
+      "desc": "午前祷"
+    },
+    {
+      "id": "season.spring",
+      "label": "春",
+      "desc": ".."
+    },
+    {
+      "id": "time.midday",
+      "label": "正午",
+      "desc": "午时祷"
+    },
+    {
+      "id": "time.night",
+      "label": "夜晚",
+      "desc": "夜祷"
+    },
+    {
+      "id": "season.spring.paused",
+      "label": "春[暂停]",
+      "desc": ".."
+    },
+    {
+      "id": "season.winter",
+      "label": "冬",
+      "desc": ".."
+    },
+    {
+      "id": "season.summer",
+      "label": "夏",
+      "desc": ".."
+    },
+    {
+      "id": "time.dusk",
+      "label": "黄昏",
+      "desc": "晚祷"
+    }
+  ]
+}

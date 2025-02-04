@@ -1,0 +1,173 @@
+{
+  "elements": [
+    {
+      "xexts": {
+        "dissatisfying": "“还有这儿的天气。这儿的天气也令人失望。”"
+      },
+      "id": "embarking_chaima",
+      "label": "拉拉·柴玛"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“这种事在岛屿决议会时期是绝不会发生的。再见。”"
+      },
+      "id": "embarking_fraser",
+      "label": "弗雷泽·斯特拉思科因先生"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“别担心！能呼吸点海边的空气真好。”"
+      },
+      "id": "embarking_dagmar",
+      "label": "“日魇”"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“我不敢相信我们曾经资助过这个地方。”"
+      },
+      "id": "embarking_connie",
+      "label": "副警监康斯坦丝·李"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“那么，轮到我走了……”"
+      },
+      "id": "embarking_azita",
+      "label": "阿齐塔·布哈拉女士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“嗯。好吧，我们定能再见的。”"
+      },
+      "id": "embarking_aladim",
+      "label": "伊本·阿迪姆博士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“我来时已肚子空空，去时更是<i>饥肠辘辘</i>。有人将为此而后悔……但不是你，不是今天。”"
+      },
+      "id": "embarking_morgen",
+      "label": "玛格特·平旦女士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“这就是该死的图书馆的该死之处。”"
+      },
+      "id": "embarking_franklin",
+      "label": "富兰克林·班克罗夫特勋爵"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "韦克菲尔德什么也没有说。但他很少这么做。"
+      },
+      "id": "embarking_zachary",
+      "label": "扎迦利·韦克菲尔德先生"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“也许我永远无法理解……”"
+      },
+      "id": "embarking_yvette",
+      "label": "伊薇特·骚赛博士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“好吧，没什么好抱怨的。”"
+      },
+      "id": "embarking_douglas",
+      "label": "启蒙警探道格拉斯·摩尔"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“愿牝马祝福你。还有你的树。”"
+      },
+      "id": "embarking_auntmopsy",
+      "label": "A·M氏"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“不要紧。旅者总会归来，不是吗？所以若我迟些时日回返，是那时算我踏上归途？还是此时算我踏上归途？”"
+      },
+      "id": "embarking_arun",
+      "label": "阿伦·褪皮博士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“我知道居屋经历过一段艰难的时期。但失落虽多，留存亦多，不是吗？下次吧。”"
+      },
+      "id": "embarking_ehsan",
+      "label": "埃桑·费克里先生"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“那我只能去别处寻找启迪了。祝你有美好的一天。”"
+      },
+      "id": "embarking_arthur",
+      "label": "亚瑟·托马斯·摩尔中尉（已退役）"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“为什么这个该死的鬼地方总是那么该死地想浪费我那该死的时间？”"
+      },
+      "id": "embarking_hokobald",
+      "label": "霍科博尔德大师"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“我想这是神的旨意。（别问我是哪个神！）”"
+      },
+      "id": "embarking_stanislav",
+      "label": "斯坦尼斯拉夫·约翰·沙勒神父"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“失落甚多，不是吗？我不会埋怨你的。祝你好运。”"
+      },
+      "id": "embarking_serena",
+      "label": "瑟雷娜·布莱克伍德博士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“噢，亲爱的。我没有失望，只是……好吧，也许我是<i>有点儿</i>失望。”"
+      },
+      "id": "embarking_coquille",
+      "label": "贵胄科基尔·阿米雷吉比"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“信托期望的比这更好……”"
+      },
+      "id": "embarking_rowena",
+      "label": "罗威娜·亨格斯特教授"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“<i>C'est la vie</i>（这就是生活）。”"
+      },
+      "id": "embarking_olympe",
+      "label": "奥兰普·贝谢女士"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“有的时候，结局来得更快。有的时候，该死的结局压根就不存在。”"
+      },
+      "id": "embarking_julian",
+      "label": "朱利安·科赛利"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“好吧，我还有其他人能联系……”"
+      },
+      "id": "embarking_corso",
+      "label": "科尔索·雷维特先生"
+    },
+    {
+      "xexts": {
+        "dissatisfying": "“你什么都没有？没关系，没关系！总有机会的。”"
+      },
+      "id": "embarking_agdistis",
+      "label": "彼得·阿格狄斯提斯先生",
+      "desc": "[阿格狄斯提斯先生很快就会离开。]"
+    }
+  ]
+}

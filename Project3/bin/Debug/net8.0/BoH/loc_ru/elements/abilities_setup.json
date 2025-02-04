@@ -1,0 +1,92 @@
+﻿{
+  "elements": [
+    {
+      "id": "setup.cho",
+      "icon": "xcho",
+      "label": "Воспоминание: хор?",
+      "desc": "Хор – рвение, инстинкт, ритм. Знакомо ли мне всё это?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xcho",
+        "recovering.ability": "xcho"
+      }
+    },
+    {
+      "id": "setup.ere",
+      "icon": "xere",
+      "label": "Воспоминание: эреб?",
+      "desc": "Эреб – гордыня и сострадание, ненависть и страх. Одержим ли я этими страстями?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xere",
+        "recovering.ability": "xere"
+      }
+    },
+    {
+      "id": "setup.fet",
+      "icon": "xfet",
+      "label": "Воспоминание: фет?",
+      "desc": "Фет – та наша часть, что странствует во снах. Что значат для меня сновидения?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xfet",
+        "recovering.ability": "xfet"
+      }
+    },
+    {
+      "id": "setup.met",
+      "icon": "xmet",
+      "label": "Воспоминание: решимость?",
+      "desc": "Решимость – способность действовать в нужный момент. Доказал ли я, что умею выбирать свой путь?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xmet",
+        "recovering.ability": "xmet"
+      }
+    },
+    {
+      "id": "setup.pho",
+      "icon": "xpho",
+      "label": "Воспоминание: фост?",
+      "desc": "Фост – зрение, чувства, наитие; всё, чем наделила нас Слава. Ярко ли горит мой дух?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xpho",
+        "recovering.ability": "xpho"
+      }
+    },
+    {
+      "id": "setup.sha",
+      "icon": "xsha",
+      "label": "Воспоминание: шапт?",
+      "desc": "Шапт – слова и разумение. И вход, и выход суть одна и та же Дверь. Открыта ли моя душа познанию?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xsha",
+        "recovering.ability": "xsha"
+      }
+    },
+    {
+      "id": "setup.tri",
+      "icon": "xtri",
+      "label": "Воспоминание: трист?",
+      "desc": "Тристом называют непостоянство и томление. Тоскую ли я по тому, чего не было?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xtri",
+        "recovering.ability": "xtri"
+      }
+    },
+    {
+      "id": "setup.wis",
+      "icon": "xwis",
+      "label": "Воспоминание: вист?",
+      "desc": "Вист – имя, память; то, что остаётся. Важно ли для меня, чтобы ничто не забылось?",
+      "inherits": "_ability.setup",
+      "xtriggers": {
+        "recovering": "xwis",
+        "recovering.ability": "xwis"
+      }
+    }
+  ]
+}

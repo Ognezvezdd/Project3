@@ -1,0 +1,252 @@
+{
+  "elements": [
+    {
+      "id": "contains.wire.copper",
+      "label": "内藏圆硬之物"
+    },
+    {
+      "id": "orderplaced.oil.moth",
+      "label": "颤油（订购）"
+    },
+    {
+      "id": "contains.ham.canned",
+      "label": "内藏方硬之物。"
+    },
+    {
+      "id": "orderplaced.beef",
+      "label": "订购牛肉"
+    },
+    {
+      "id": "orderplaced.almonds",
+      "label": "订购杏仁"
+    },
+    {
+      "id": "orderplaced.dripping",
+      "label": "订购烤肉滴油"
+    },
+    {
+      "id": "contains.coffee.dawnlion",
+      "label": "淡淡的水果咖啡香。"
+    },
+    {
+      "id": "contains.tea.lapsang",
+      "label": "淡淡的烟熏味"
+    },
+    {
+      "id": "contains.sugar",
+      "label": "内藏硬实之物。"
+    },
+    {
+      "id": "orderplaced.packet.cocoa",
+      "label": "可可（订购）"
+    },
+    {
+      "id": "orderplaced.bottle.strathcoyne",
+      "label": "斯特拉思科因威士忌（订购）"
+    },
+    {
+      "id": "contains.oil.forge",
+      "label": "内藏晃动的液体。"
+    },
+    {
+      "id": "orderplaced.bottle.raveline",
+      "label": "拉维林酒庄产酒（订购）"
+    },
+    {
+      "id": "contains.parchment.nivine",
+      "label": "内藏方硬之物。"
+    },
+    {
+      "id": "orderplaced.bottle.armagnac",
+      "label": "雅文邑（订购）"
+    },
+    {
+      "id": "orderplaced.oil.moon",
+      "label": "暗油（订购）"
+    },
+    {
+      "id": "orderplaced.tea.assam",
+      "label": "阿萨姆茶（订购）"
+    },
+    {
+      "id": "contains.potatoes",
+      "label": "内藏沉重之物。"
+    },
+    {
+      "id": "orderplaced.glue",
+      "label": "胶水（订购）"
+    },
+    {
+      "id": "orderplaced.flour",
+      "label": "订购面粉"
+    },
+    {
+      "id": "contains.witchworms.desiccated",
+      "label": "包裹贴有警告标识。"
+    },
+    {
+      "id": "contains.bottle.jannings",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "orderplaced.tea.lapsang",
+      "label": "正山小种（订购）"
+    },
+    {
+      "id": "orderplaced.wire.copper",
+      "label": "铜丝（订购）"
+    },
+    {
+      "id": "contains.plums",
+      "label": "内藏湿软之物"
+    },
+    {
+      "id": "contains.pheasant",
+      "label": "内藏软塌之物。"
+    },
+    {
+      "id": "orderplaced.quire.paper",
+      "label": "纸（订购）"
+    },
+    {
+      "id": "orderplaced.milk",
+      "label": "订购牛奶"
+    },
+    {
+      "id": "orderplaced.bottle.roscraggan",
+      "label": "罗斯克拉根威士忌（订购）"
+    },
+    {
+      "id": "orderplaced.pheasant",
+      "label": "订购野鸡"
+    },
+    {
+      "id": "orderplaced.coffee.eveningisles",
+      "label": "薄暮群屿咖啡（订购）"
+    },
+    {
+      "id": "contains.butter",
+      "label": "内藏湿软之物"
+    },
+    {
+      "id": "orderplaced.bottle.lambig",
+      "label": "苹果酒（订购）"
+    },
+    {
+      "id": "orderplaced.coffee.dawnlion",
+      "label": "晨狮牌咖啡（订购）"
+    },
+    {
+      "id": "contains.glue",
+      "label": "内藏湿软之物"
+    },
+    {
+      "id": "contains.coffee.eveningisles",
+      "label": "淡淡的明亮咖啡香。"
+    },
+    {
+      "id": "contains.almonds",
+      "label": "内藏嗒嗒作响之物。"
+    },
+    {
+      "id": "contains.oil.moon",
+      "label": "内藏轻柔晃动的液体。"
+    },
+    {
+      "id": "contains.bottle.lambig",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "contains.bottle.armagnac",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "contains.tea.assam",
+      "label": "淡淡的芳香。"
+    },
+    {
+      "id": "contains.dripping",
+      "label": "内藏油腻之物。"
+    },
+    {
+      "id": "contains.flour",
+      "label": "内藏粉状之物。"
+    },
+    {
+      "id": "contains.bottle.raveline",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "orderplaced.parchment.nivine",
+      "label": "素洁羊皮纸（订购）"
+    },
+    {
+      "id": "orderplaced.bottle.jannings",
+      "label": "雅宁斯古堡产酒（订购）"
+    },
+    {
+      "id": "contains.milk",
+      "label": "内藏黏软之物。"
+    },
+    {
+      "id": "orderplaced.sugar",
+      "label": "订购糖"
+    },
+    {
+      "id": "contains.bottle.strathcoyne",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "contains.packet.cocoa",
+      "label": "一股浓郁的巧克力香。"
+    },
+    {
+      "id": "orderplaced.witchworms.desiccated",
+      "label": "巫蠹干（订购）"
+    },
+    {
+      "id": "orderplaced.potatoes",
+      "label": "订购土豆"
+    },
+    {
+      "id": "orderplaced.ham.canned",
+      "label": "火腿罐头（订购）"
+    },
+    {
+      "id": "orderplaced.arsenic",
+      "label": "砒霜（订购）"
+    },
+    {
+      "id": "contains.arsenic",
+      "label": "包裹贴有警告标识。"
+    },
+    {
+      "id": "orderplaced.plums",
+      "label": "订购西梅"
+    },
+    {
+      "id": "contains.bottle.roscraggan",
+      "label": "内藏易碎之物。"
+    },
+    {
+      "id": "contains.quire.paper",
+      "label": "内藏方硬之物。"
+    },
+    {
+      "id": "contains.beef",
+      "label": "内藏软塌之物。"
+    },
+    {
+      "id": "orderplaced.oil.forge",
+      "label": "烁油（订购）"
+    },
+    {
+      "id": "orderplaced.butter",
+      "label": "订购黄油"
+    },
+    {
+      "id": "contains.oil.moth",
+      "label": "内藏狡黠晃动的液体。"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "id": "hint.required",
+      "label": "必需",
+      "desc": "放置槽中的卡牌必须符合其中的一项。"
+    },
+    {
+      "id": "hint.essential",
+      "label": "必须",
+      "desc": "放置槽中的卡牌必须符合其中的一项。"
+    },
+    {
+      "id": "hint.tothethresholdofthehouse",
+      "label": "居屋之槛",
+      "desc": "[物品栏只能放置五件物品，第六件物品将被自动遗弃，除非它已有了归处。被遗弃的物品会在居屋外等着你。]"
+    },
+    {
+      "id": "hint.forbidden",
+      "label": "禁止",
+      "desc": "卡牌如果符合其中的一项，它将无法被置于卡槽中。"
+    },
+    {
+      "id": "hint.workstation",
+      "label": "工作台的提示",
+      "desc": "可能在这里用得上的性相：\n\n[further]"
+    }
+  ]
+}

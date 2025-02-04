@@ -1,0 +1,474 @@
+﻿{
+  "elements": [
+    {
+      "id": "_reply",
+      "aspects": {
+        "post.ready": 1
+      },
+      "icon": "reply",
+      "slots": [
+        {
+          "id": "postage",
+          "label": "Расходы",
+          "required": {
+            "pence": 1
+          },
+          "actionid": "village.postoffice.open",
+          "description": "Почтмейстерша соблаговолит отправить моё письмо, буде я освящу его надлежащим образом оплаченной маркой."
+        }
+      ]
+    },
+    {
+      "id": "_reply.occult",
+      "aspects": {
+        "post.ready": 1
+      },
+      "icon": "reply",
+      "slots": [
+        {
+          "id": "due",
+          "label": "Плата",
+          "required": {
+            "tally": 3
+          },
+          "actionid": "village.postoffice.open",
+          "description": "Почтмейстерша могла бы приложить к моему письму печать, которая откроет для него пути Нижних небес. Это будет стоить мне одну оловянную спинтрию."
+        }
+      ]
+    },
+    {
+      "id": "_request",
+      "aspects": {
+        "post.ready": 1,
+        "invitation": 1
+      },
+      "icon": "letter.generic",
+      "slots": [
+        {
+          "id": "postage",
+          "label": "Расходы",
+          "required": {
+            "pence": 1
+          },
+          "actionid": "village.postoffice.open",
+          "description": "Почтмейстерша соблаговолит отправить моё письмо, буде я освящу его надлежащим образом оплаченной маркой."
+        }
+      ]
+    },
+    {
+      "id": "_invitation",
+      "aspects": {
+        "post.ready": 1,
+        "invitation": 1
+      },
+      "slots": [
+        {
+          "id": "postage",
+          "label": "Расходы",
+          "required": {
+            "pence": 1
+          },
+          "actionid": "village.postoffice.open",
+          "description": "Почтмейстерша соблаговолит отправить моё письмо, буде я освящу его надлежащим образом оплаченной маркой."
+        }
+      ]
+    },
+    {
+      "id": "_order",
+      "icon": "letter.generic",
+      "aspects": {
+        "readable": 1,
+        "form.order": 1
+      },
+      "slots": [
+        {
+          "id": "postage",
+          "label": "Сумма",
+          "required": {
+            "pence": 1
+          },
+          "actionid": "village.postoffice.open",
+          "description": "Бланк следует сопроводить почтовым поручением на соответствующую сумму."
+        }
+      ]
+    },
+    {
+      "id": "_purchase.tally",
+      "slots": [
+        {
+          "id": "payment",
+          "label": "Плата",
+          "actionid": "desk.*",
+          "required": {
+            "tally": 1
+          }
+        },
+        {
+          "id": "postage",
+          "label": "Расходы",
+          "actionid": "village.postoffice",
+          "required": {
+            "pence": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "_purchase.pence",
+      "slots": [
+        {
+          "id": "payment",
+          "label": "Плата",
+          "actionid": "desk.*",
+          "required": {
+            "tally": 1
+          }
+        },
+        {
+          "id": "postage",
+          "label": "Расходы",
+          "actionid": "village.postoffice",
+          "required": {
+            "pence": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "letter.rhonwen.act1",
+      "label": "Письмо, адресованное библиотекарю",
+      "desc": "Письмо из фонда Св. Ронвен. Насколько можно судить, участие Фонда в судьбе Дома безмолвия носит благотворительный, хотя и неизменно туманный характер.",
+      "icon": "letter.generic",
+      "aspects": {
+        "correspondence": 1,
+        "readable": 1,
+        "message.rhonwen.act1": 1
+      },
+      "xtriggers": {
+        "replying": "reply.rhonwen.act1"
+      },
+      "xexts": {
+        "reading.correspondence": "Фонд Св. Ронвен спешит поздравить меня с назначением на должность библиотекаря Дома безмолвия. Меня заверяют, что обещанные средства будут отчисляться мне каждую весну... но предупреждают, что возможности Фонда ограничены, и предлагают задействовать в деле восстановления Дома местные ресурсы. «Дайте знать, когда Дом будет вновь готов принимать посетителей», – завершается письмо. Подпись гласит просто: «Попечительский совет»."
+      }
+    },
+    {
+      "id": "reminder.rhonwen.act1",
+      "label": "Повторное письмо библиотекарю",
+      "desc": "Напоминание от фонда Св. Ронвен, что я так и не ответил на их письмо.",
+      "icon": "letter.generic",
+      "aspects": {
+        "correspondence": 1,
+        "readable": 1,
+        "message.rhonwen.act1": 1
+      },
+      "xtriggers": {
+        "replying": "reply.rhonwen.act1"
+      },
+      "xexts": {
+        "reading.correspondence": "Фонд выражает надежду, что я прибыл на место в целости и сохранности, и недоумевает, почему от меня по-прежнему не поступило ответа. Подпись гласит просто: «Попечительский совет»."
+      }
+    },
+    {
+      "id": "message.numa.invocation",
+      "label": "Прошение о сезоне загадок",
+      "desc": "Если прошение дойдёт до адресата, возможно, на остров придёт нума.",
+      "icon": "next.numa",
+      "xtriggers": {
+        "delivering": "next.numa"
+      },
+      "inherits": "_reply.occult",
+      "aspects": {
+        "readable": 1
+      },
+      "unique": "true",
+      "xexts": {
+        "posting": "Нума не слушает приказов, но изредка прислушивается к просящим."
+      }
+    },
+    {
+      "id": "reply.rhonwen.act1",
+      "label": "Ответ Фонду",
+      "desc": "Я мог бы отнести это на почту, чтобы отправить в фонд Св. Ронвен. Если я сообщу им, что прибыл на место, совет вышлет мне содержание... Надеюсь.",
+      "icon": "reply",
+      "xtriggers": {
+        "delivering": "status.rhonwen.open"
+      },
+      "inherits": "_reply",
+      "xexts": {
+        "posting": "Теперь меня ждут посетители, письма и – каждую весну – назначенное мне Фондом денежное содержание."
+      }
+    },
+    {
+      "id": "status.rhonwen.open",
+      "label": "Фонд в курсе!",
+      "desc": "Игрок ответил на первое письмо Фонда."
+    },
+    {
+      "id": "request.catalogue.oriflammes",
+      "inherits": "_request",
+      "label": "Просьба выслать каталог",
+      "desc": "Краткое, но вежливое письмо с просьбой выслать актуальный каталог аукционного дома «Орифламма».",
+      "xtriggers": {
+        "delivering": "purchase.uncat"
+      }
+    },
+    {
+      "id": "purchase.uncat",
+      "label": "Покупка: новые книги для коллекции",
+      "desc": "ПРЕДМЕТ: три оккультных книги неизвестного происхождения и ценности.",
+      "aspects": {
+        "cost.tally": 5
+      },
+      "xtriggers": {
+        "delivering": "uncatpile"
+      },
+      "inherits": "_purchase.tally"
+    },
+    {
+      "ID": "wc",
+      "Label": "Записная книжка",
+      "Desc": "Добротная отделанная латунью записная книжка, служившая уже по меньшей мере трём поколениям библиотекарей. [Воспользуйтесь записной книжкой, чтобы пригласить на ваш приём посетителей. Чтобы пригласить местного жителя, навестите его в деревне и используйте записную книжку в качестве темы для беседы.]",
+      "reverseambittablesdisplay": false,
+      "ambits": {
+        "address.agdistis": 1,
+        "address.aladim": 1,
+        "address.arthur": 1,
+        "address.arun": 1,
+        "address.azita": 1,
+        "address.chaima": 1,
+        "address.connie": 1,
+        "address.coquille": 1,
+        "address.corso": 1,
+        "address.dagmar": 1,
+        "address.douglas": 1,
+        "address.ehsan": 1,
+        "address.fraser": 1,
+        "address.hokobald": 1,
+        "address.morgen": 1,
+        "address.olympe": 1,
+        "address.serena": 1,
+        "address.stanislav": 1,
+        "address.yvette": 1,
+        "address.zachary": 1,
+        "ink": 1,
+        "edge": 7,
+        "forge": 7,
+        "grail": 7,
+        "heart": 7,
+        "knock": 7,
+        "lantern": 7,
+        "moon": 7,
+        "moth": 7,
+        "nectar": 7,
+        "rose": 7,
+        "scale": 7,
+        "sky": 7,
+        "winter": 7,
+        "orpiment.exultant": 1
+      },
+      "comments": "Ambitting here depends on some semi-intentional behaviour - the wc occurs earlier than skills - and might break later.'",
+      "aspects": {
+        "address.serena": 1,
+        "blank": 1,
+        "wc.markeraspect": 1,
+        "thing": 1
+      },
+      "audio": "Book",
+      "manifestationtype": "Book"
+    },
+    {
+      "id": "letter.summon.agdistis",
+      "label": "Приглашение Агдистису",
+      "desc": "«Уважаемый мистер Агдистис...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.aladim",
+      "label": "Приглашение аль-Адиму",
+      "desc": "«Дорогой доктор аль-Адим...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.arthur",
+      "label": "Приглашение Артуру Муру",
+      "desc": "«Дорогой лейтенант Мур...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.arun",
+      "label": "Приглашение Пилу",
+      "desc": "«Дорогой доктор Пил...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.azita",
+      "label": "Приглашение Азите",
+      "desc": "«Дорогая мисс Бухара...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.chaima",
+      "label": "Приглашение Хаиме",
+      "desc": "«Достопочтенная Лалла Хаима...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.connie",
+      "label": "Приглашение Конни",
+      "desc": "«Младшему констеблю-окулянту Бюро умолчания Констанции Ли...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.coquille",
+      "label": "Приглашение Кокиль",
+      "desc": "«Её Высочеству княжне Кокиль Амирэджиби...» ",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.corso",
+      "label": "Приглашение Корсо",
+      "desc": "«Дорогой синьор Реверте...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.dagmar",
+      "label": "Приглашение Гризельде",
+      "desc": "«Дорогая леди Гризельда...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.douglas",
+      "label": "Приглашение Дугласу Муру",
+      "desc": "«Инспектору Бюро умолчания Дугласу Муру...» ",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.ehsan",
+      "label": "Приглашение Эхсану",
+      "desc": "«Дорогой мистер Фекри...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.fraser",
+      "label": "Приглашение Фрейзеру",
+      "desc": "«Дорогой мистер Стрэткойн...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.hokobald",
+      "label": "Приглашение Хокобальду",
+      "desc": "«Дорогой магистр Хокобальд...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.morgen",
+      "label": "Приглашение Морген",
+      "desc": "«Дорогая мадемуазель Матутин...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.olympe",
+      "label": "Приглашение Олимпии",
+      "desc": "«Дорогая мадам Беше...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.serena",
+      "label": "Приглашение Серене",
+      "desc": "«Дорогая доктор Блэквуд...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.stanislav",
+      "label": "Приглашение о. Станиславу",
+      "desc": "«Дорогой отец Шаллер...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.yvette",
+      "label": "Приглашение Иветте",
+      "desc": "«Дорогая доктор Саути...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "letter.summon.zachary",
+      "label": "Приглашение Захарии",
+      "desc": "«Дорогой мистер Уэйкфилд...»",
+      "inherits": "_invitation",
+      "icon": "letter.generic"
+    },
+    {
+      "id": "form.order.ch",
+      "inherits": "_order",
+      "label": "Бланк заказа «Кейтер и Хиро»",
+      "desc": "У «Кейтер и Хиро» есть отделения практически по всему королевству. Разумеется, за исключением этого его туманного уголка. Но они всё же готовы доставлять сюда заказы по почте. [Используйте бланк и чернила, чтобы заказать интересующие вас предметы. Не беспокойтесь: поставить пару отметок на бланке не будет стоить целой баночки чернил. Новый бланк вы получите по почте вместе с вашим заказом.]",
+      "ambits": {
+        "form.order.ch": 1,
+        "ink": 1
+      },
+      "unique": true,
+      "xtriggers": {
+        "wrapping": "delivery.ch"
+      }
+    },
+    {
+      "id": "delivery.ch",
+      "label": "Заказ от «Кейтер и Хиро»",
+      "desc": "Мне пришло что-то полезное!",
+      "aspects": {
+        "considerable": 1,
+        "delivery": 1
+      },
+      "xtriggers": {
+        "unwrapping": "form.order.ch"
+      },
+      "comments": "Effectively unique also, but leave the tag out to minimise the possibility of overwrites in testing"
+    },
+    {
+      "id": "form.order.trn",
+      "inherits": "_order",
+      "label": "Бланк заказа T.R.N. Ltd.",
+      "desc": "Компания T.R.N. весьма тщательно – можно даже сказать, придирчиво – относится к отбору клиентов. Они редко дают рекламные объявления. Однако всю долгую историю её существования предоставляемые товары пользуются неизменным спросом. [Используйте бланк и чернила, чтобы заказать интересующие вас предметы. Не беспокойтесь, поставить пару отметок на бланке не будет стоить целой банки чернил. Новый бланк вы получите по почте вместе с вашим заказом.]",
+      "ambits": {
+        "form.order.trn": 1,
+        "ink": 1
+      },
+      "unique": true,
+      "xtriggers": {
+        "wrapping": "delivery.trn"
+      }
+    },
+    {
+      "id": "delivery.trn",
+      "label": "Заказ от T.R.N. Ltd.",
+      "desc": "Мне пришло что-то восхитительное!",
+      "aspects": {
+        "considerable": 1,
+        "delivery": 1
+      },
+      "xtriggers": {
+        "unwrapping": "form.order.trn"
+      },
+      "comments": "Effectively unique also, but leave the tag out to minimise the possibility of overwrites in testing"
+    }
+  ]
+}

@@ -1,0 +1,1085 @@
+﻿{
+  "elements": [
+    {
+      "id": "agdistis",
+      "label": "Мистер Питер Агдистис",
+      "desc": "Чародей, мистик, импресарио. Когда-то Агдистис был танцором, это становится понятным с первого взгляда. Рана в бедре закрыла для него сцену, но ритм молебна по-прежнему скользит в его каждом движении.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.heart": 3,
+        "interest.sky": 3,
+        "u.fucine": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.phrygian": 1,
+        "convo.chor": 1,
+        "convo.trist": 1,
+        "prefs.agdistis": 1
+      },
+      "decayto": "embarking_agdistis",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_agdistis",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.salvant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_agdistis",
+        "befriend.agdistis.chaima": [
+          {
+            "id": "agdistis.likes.chaima",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.agdistis.chaima": "Агдистис и Хаима стали дружны."
+      }
+    },
+    {
+      "id": "aladim",
+      "label": "Доктор Ибн аль-Адим",
+      "desc": "«Алеппинец»: историк, доктор, но прежде всего путешественник. Добрый доктор побывал во всех библиотеках Древа Дозорного, кроме одной. Одно время он даже исполнял обязанности Нунциатического советника Дома Безмолвия, но так и не сумел найти общий язык с Бюро умолчания.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.scale": 3,
+        "interest.rose": 3,
+        "u.sabazine": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "u.sanskrit": 1,
+        "convo.fet": 1,
+        "convo.wist": 1,
+        "prefs.aladim": 1
+      },
+      "decayto": "embarking_aladim",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_aladim",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.nunciant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_aladim",
+        "befriend.aladim.connie": [
+          {
+            "id": "aladim.likes.connie",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.aladim.connie": "Аль-Адим и Конни планируют после приёма продолжить знакомство."
+      }
+    },
+    {
+      "id": "arthur",
+      "label": "Лейтенант Артур Томас Мур",
+      "desc": "Герой, паломник, предатель. Он останется солдатом до конца своих дней, но уже никогда не будет <i>просто</i> солдатом.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.lantern": 3,
+        "interest.edge": 3,
+        "edge": 1,
+        "u.sabazine": 1,
+        "u.aramaic": 1,
+        "u.latin": 1,
+        "convo.phost": 1,
+        "convo.trist": 1,
+        "prefs.arthur": 1
+      },
+      "decayto": "embarking_arthur",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_arthur",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.vigilant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_arthur",
+        "retiring.arthur": "retired_arthur",
+        "befriend.arthur.douglas": [
+          {
+            "id": "arthur.likes.douglas",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "mistrust.arthur.coquille": [
+          {
+            "id": "arthur.mistrusts.coquille",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.arthur.douglas": "Артур и Дуглас пришли к мысли, что могли бы время от времени общаться.",
+        "mistrust.arthur.coquille": "Артур решил не спускать глаз с Кокиль."
+      }
+    },
+    {
+      "id": "arun",
+      "label": "Доктор Арун Пил",
+      "desc": "Изгнанник, любитель загадок, приверженец Громового Ритма («Я бы предпочёл \"наперсник\"»). Одет с иголочки, но носит исключительно тёмное сукно, на котором не видны пятна. Даже повязки на лодыжках и запястьях выкрашены в чёрный цвет. («Нет, я не присяду. Предложить с вашей стороны было очень учтиво. Но согласиться было бы неучтиво с моей».)",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.moon": 3,
+        "interest.moth": 3,
+        "moon": 1,
+        "u.vak": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "u.sanskrit": 1,
+        "convo.fet": 1,
+        "convo.shapt": 1,
+        "prefs.arun": 1
+      },
+      "decayto": "embarking_arun",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_arun",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.enigmatic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_arun",
+        "befriend.arun.coquille": [
+          {
+            "id": "arun.likes.coquille",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.arun.denzil": [
+          {
+            "id": "arun.likes.denzil",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.arun.yvette": [
+          {
+            "id": "arun.likes.yvette",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.arun.coquille": "Арун и Кокиль пришли к мысли, что могли бы быть друзьями. Возможно.",
+        "befriend.arun.yvette": "После приёма Арун намерен проводить Иветту...",
+        "befriend.arun.denzil": "Арун и Дензил незаметно сдружились."
+      }
+    },
+    {
+      "id": "auntmopsy",
+      "label": "Тётушка Мопси",
+      "desc": "Собирательница пословиц и поговорок, любительница вин. Вестница Часа, известного как Кобылица-в-Ветвях.",
+      "inherits": "_visitor.numa",
+      "aspects": {
+        "campable": 1,
+        "numatic": 1,
+        "interest.nectar": 7,
+        "interest.moon": 7,
+        "u.hyksos": 1,
+        "u.phrygian": 1
+      },
+      "decayto": "embarking_auntmopsy",
+      "lifetime": 120,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_auntmopsy",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "dissatisfying": "embarking_auntmopsy"
+      }
+    },
+    {
+      "id": "azita",
+      "label": "Мисс Азита Бухара",
+      "desc": "Делец, гроссмейстер, посвящённая покрытого шрамами Часа, что мы зовём Полковником.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.edge": 3,
+        "interest.sky": 3,
+        "edge": 1,
+        "u.mandaic": 1,
+        "u.aramaic": 1,
+        "u.phrygian": 1,
+        "u.latin": 1,
+        "convo.mettle": 1,
+        "convo.ereb": 1,
+        "prefs.azita": 1
+      },
+      "decayto": "embarking_azita",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_azita",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.vigilant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_azita",
+        "retiring.azita": "retired_azita",
+        "befriend.azita.yvette": [
+          {
+            "id": "azita.likes.yvette",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.azita.yvette": "Похоже, что Азита и Иветта заметно сблизились. С какой целью – пока не ясно."
+      }
+    },
+    {
+      "id": "chaima",
+      "label": "Лалла Хаима",
+      "desc": "Охотница, гумьер, внештатный консультант Бюро. Когда Бюро сталкивается с чем-то, что отказывается умирать, хотя должно, Бюро посылает за Хаимой.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.edge": 3,
+        "interest.rose": 3,
+        "edge": 1,
+        "u.greek": 1,
+        "u.cracktrack": 1,
+        "u.aramaic": 1,
+        "convo.mettle": 1,
+        "convo.fet": 1,
+        "prefs.chaima": 1
+      },
+      "decayto": "embarking_chaima",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_chaima",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.vigilant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_chaima",
+        "retiring.chaima": "retired_chaima",
+        "befriend.agdistis.chaima": [
+          {
+            "id": "chaima.likes.agdistis",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.chaima.zachary": [
+          {
+            "id": "chaima.likes.zachary",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.chaima.zachary": "Между Хаимой и Захарией возникло некое подобие дружбы."
+      }
+    },
+    {
+      "id": "connie",
+      "label": "Младший констебль-окулянт Ли",
+      "desc": "Конни сделала стремительную карьеру. Сейчас она уже младший констебль-окулянт – далеко не последний человек в Бюро умолчания. Лучше не вставать у неё на пути.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.sky": 3,
+        "interest.moon": 3,
+        "moon": 1,
+        "u.killasimi": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "convo.shapt": 1,
+        "convo.wist": 1,
+        "prefs.connie": 1
+      },
+      "decayto": "embarking_connie",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_connie",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.nunciant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_connie",
+        "connie.resigning": [
+          {
+            "id": "agenda.secrecy",
+            "morpheffect": "mutate",
+            "level": -1
+          },
+          {
+            "id": "connie.resigned",
+            "morpheffect": "transform"
+          }
+        ],
+        "befriend.aladim.connie": [
+          {
+            "id": "connie.likes.aladim",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "coquille",
+      "label": "Княжна Кокиль Амирэджиби",
+      "desc": "Художница, светская львица... взломщица? Невыразимо очаровательная женщина, обладающая редким даром убеждать людей её удочерить.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.grail": 3,
+        "interest.knock": 3,
+        "u.vak": 1,
+        "u.greek": 1,
+        "u.sanskrit": 1,
+        "convo.ereb": 1,
+        "convo.shapt": 1,
+        "prefs.coquille": 1
+      },
+      "decayto": "embarking_coquille",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_coquille",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.treasurer",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_coquille",
+        "befriend.arun.coquille": [
+          {
+            "id": "coquille.likes.arun",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.coquille.douglas": [
+          {
+            "id": "coquille.likes.douglas",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "mistrust.arthur.coquille": [
+          {
+            "id": "coquille.mistrusts.arthur",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.coquille.douglas": "Кокиль решила, что Дуглас мог бы стать её... другом."
+      }
+    },
+    {
+      "id": "corso",
+      "label": "Синьор Корсо Реверте",
+      "desc": "Охотник за рукописями, расхититель наследия... наёмник? Многие сомневаются в его моральных качествах, но никто не оспаривает его проницательность.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.grail": 3,
+        "interest.lantern": 3,
+        "u.phrygian": 1,
+        "u.hyksos": 1,
+        "u.greek": 1,
+        "u.sanskrit": 1,
+        "convo.ereb": 1,
+        "convo.wist": 1,
+        "prefs.corso": 1
+      },
+      "decayto": "embarking_corso",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_corso",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.enigmatic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_corso"
+      }
+    },
+    {
+      "id": "dagmar",
+      "label": "«Дневная Грёза»",
+      "desc": "Графиня Фредерика Гризельда София Тереза Елена Бенина фон Нагельсбург, если вам так угодно. Ей – нет.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.knock": 3,
+        "interest.rose": 3,
+        "u.ramsund": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "convo.chor": 1,
+        "convo.shapt": 1,
+        "prefs.dagmar": 1
+      },
+      "decayto": "embarking_dagmar",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_dagmar",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.treasurer",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_dagmar"
+      }
+    },
+    {
+      "id": "douglas",
+      "label": "Дуглас Мур",
+      "desc": "Инспектор-иллюминант Бюро умолчания. Очень усталый детектив. Больше всего на свете хочет переехать в Чингфорд и выращивать розы, но «эти паршивцы» не дают ему выйти на пенсию.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.lantern": 3,
+        "interest.heart": 3,
+        "u.greek": 1,
+        "convo.chor": 1,
+        "convo.wist": 1,
+        "prefs.douglas": 1
+      },
+      "decayto": "embarking_douglas",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_douglas",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.vigilant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_douglas",
+        "befriend.arthur.douglas": [
+          {
+            "id": "douglas.likes.arthur",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.coquille.douglas": [
+          {
+            "id": "douglas.likes.coquille",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.douglas.hokobald": [
+          {
+            "id": "douglas.likes.hokobald",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.douglas.hokobald": "Оказалось, что Дуглас готов мириться с нравом Хокобальда."
+      }
+    },
+    {
+      "id": "ehsan",
+      "label": "Господин Эхсан Фекри",
+      "desc": "За свою жизнь Эхсан успел побывать целителем, не человеком и Асклепическим советником Дома безмолвия. Но не одновременно. Суетлив, покладист и сказочно уродлив.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.heart": 3,
+        "interest.sky": 3,
+        "u.mandaic": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "convo.mettle": 1,
+        "convo.chor": 1,
+        "prefs.ehsan": 1
+      },
+      "decayto": "embarking_ehsan",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_ehsan",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.salvant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_ehsan"
+      }
+    },
+    {
+      "id": "franklin",
+      "label": "Лорд Франклин Банкрофт",
+      "desc": "Беспутник, дилетант, неистовый виртуоз. Возможно, мёртв. Возможно, реален.",
+      "inherits": "_visitor.numa",
+      "aspects": {
+        "numatic": 1,
+        "interest.grail": 7,
+        "u.mandaic": 1,
+        "u.aramaic": 1,
+        "u.latin": 1,
+        "u.greek": 1
+      },
+      "decayto": "embarking_franklin",
+      "lifetime": 120,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_franklin",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "dissatisfying": "embarking_franklin"
+      }
+    },
+    {
+      "id": "fraser",
+      "label": "Мистер Фрейзер Стрэткойн",
+      "desc": "Коллекционер, филантроп, бывший библиотекарь. Человек неоднозначный, но не жестокий.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.scale": 3,
+        "interest.lantern": 3,
+        "u.ramsund": 1,
+        "convo.trist": 1,
+        "convo.wist": 1,
+        "prefs.fraser": 1,
+        "sympathy.carapace": 1
+      },
+      "decayto": "embarking_fraser",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_fraser",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.treasurer",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_fraser"
+      }
+    },
+    {
+      "id": "hokobald",
+      "label": "Магистр Хокобальд",
+      "desc": "Гурман, исследователь металлов, падший бессмертный. И, как он сам утверждает, незаконнорождённый королевский отпрыск.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.forge": 3,
+        "interest.grail": 3,
+        "u.mandaic": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "convo.mettle": 1,
+        "convo.ereb": 1,
+        "prefs.hokobald": 1
+      },
+      "decayto": "embarking_hokobald",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_hokobald",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.treasurer",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_hokobald",
+        "befriend.douglas.hokobald": [
+          {
+            "id": "hokobald.likes.douglas",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "julian",
+      "label": "Джулиан Косли",
+      "desc": "Маг, Вечный Зимы, неоднозначный философ. Джулиан удивительно разговорчив для бессмертного, которого возвысил Час Тишины и который, предположительно, всё-таки умер.",
+      "inherits": "_visitor.numa",
+      "aspects": {
+        "numatic": 1,
+        "interest.moon": 7,
+        "interest.winter": 7,
+        "u.ericapaean": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1
+      },
+      "decayto": "embarking_julian",
+      "lifetime": 120,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_julian",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "dissatisfying": "embarking_julian"
+      }
+    },
+    {
+      "id": "morgen",
+      "label": "Мадемуазель Марго Матутин",
+      "desc": "Светская львица, владелица личной яхты... А также алукит – лигения, известная под именем Морген. Среди прочего, первое означает, что она ест людей. Среди прочего, последнее означает, что её опасно недооценивать.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.sky": 3,
+        "interest.grail": 3,
+        "u.killasimi": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "convo.ereb": 1,
+        "convo.phost": 1,
+        "prefs.morgen": 1
+      },
+      "decayto": "embarking_morgen",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_morgen",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.persistent",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_morgen",
+        "befriend.morgen.zachary": [
+          {
+            "id": "zachary.likes.morgen",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "befriend.morgen.zachary": "В общении Морген с Захарией сквозит едва ли не забота."
+      }
+    },
+    {
+      "id": "olympe",
+      "label": "Мадам Олимпия Беше",
+      "desc": "Очеркистка, художница-иллюстратор, критик. Редактор «Керишемского альманаха».",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.forge": 3,
+        "interest.moth": 3,
+        "u.ramsund": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "convo.fet": 1,
+        "convo.shapt": 1,
+        "prefs.olympe": 1
+      },
+      "decayto": "embarking_olympe",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_olympe",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.nunciant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_olympe"
+      }
+    },
+    {
+      "id": "rowena",
+      "label": "Профессор Ровена Хёнгерст",
+      "desc": "На протяжении многих лет и под многими именами Ровена творила, училась и поедала то, что изучать, делать или есть определённо не следует. И на протяжении всех этих лет, под многими именами, она оставалась защитницей Дома безмолвия.",
+      "inherits": "_visitor.numa",
+      "aspects": {
+        "numatic": 1,
+        "interest.grail": 7,
+        "interest.winter": 7,
+        "u.henavek": 1,
+        "u.greek": 1,
+        "u.phrygian": 1
+      },
+      "decayto": "embarking_rowena",
+      "lifetime": 120,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_rowena",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "dissatisfying": "embarking_rowena"
+      }
+    },
+    {
+      "id": "serena",
+      "label": "Доктор Серена Блэквуд",
+      "desc": "В прошлом библиотекарь Дома безмолвия, в прошлом библиотекарь Невидимого Серапеума в Александрии, а теперь... кто знает? Серена немногословна, но я знаю, что она некогда сотрудничала с фондом Св. Ронвен.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.forge": 3,
+        "interest.lantern": 3,
+        "u.fucine": 1,
+        "u.aramaic": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "convo.mettle": 1,
+        "convo.phost": 1,
+        "prefs.serena": 1
+      },
+      "decayto": "embarking_serena",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_serena",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.nunciant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_serena"
+      }
+    },
+    {
+      "id": "stanislav",
+      "label": "О. Станислав Иоанн Шаллер",
+      "desc": "Священник, дипломат, садовник: мягкий мужчина с очень твёрдым взглядом.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.heart": 3,
+        "interest.nectar": 3,
+        "u.fucine": 1,
+        "u.cracktrack": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "u.sanskrit": 1,
+        "convo.chor": 1,
+        "convo.trist": 1,
+        "prefs.stanislav": 1
+      },
+      "decayto": "embarking_stanislav",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_stanislav",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.salvant",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_stanislav"
+      }
+    },
+    {
+      "id": "yvette",
+      "label": "Доктор Иветта Саути",
+      "desc": "Драматург, психоаналитик, филолог: вопросы радуют её не меньше ответов.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.moon": 3,
+        "interest.winter": 3,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.ericapaean": 1,
+        "u.henavek": 1,
+        "convo.phost": 1,
+        "convo.trist": 1,
+        "prefs.yvette": 1
+      },
+      "decayto": "embarking_yvette",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_yvette",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.enigmatic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_yvette",
+        "retiring.yvette": "retired_yvette",
+        "befriend.arun.yvette": [
+          {
+            "id": "yvette.likes.arun",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.azita.yvette": [
+          {
+            "id": "yvette.likes.azita",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "zachary",
+      "label": "Мистер Захария Уэйкфилд",
+      "desc": "Меткий стрелок, детектив, отступник. Он всегда был молчалив, но, покинув Бюро умолчания, сделался ещё тише. Захария совершенно неподвижен – за исключением пальцев и глаз, всегда пребывающих в беспокойном движении.",
+      "inherits": "_visitor",
+      "aspects": {
+        "campable": 1,
+        "interest.knock": 3,
+        "interest.winter": 3,
+        "u.killasimi": 1,
+        "u.greek": 1,
+        "u.latin": 1,
+        "u.phrygian": 1,
+        "u.fucine": 1,
+        "convo.trist": 1,
+        "convo.wist": 1,
+        "prefs.zachary": 1
+      },
+      "decayto": "embarking_zachary",
+      "lifetime": 360,
+      "xtriggers": {
+        "satisfying": [
+          "embarking_zachary",
+          {
+            "id": "grateful",
+            "morpheffect": "mutate",
+            "level": "^"
+          }
+        ],
+        "appointing": [
+          {
+            "id": "appointment.enigmatic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "dissatisfying": "embarking_zachary",
+        "retiring.zachary": "retired_zachary",
+        "befriend.chaima.zachary": [
+          {
+            "id": "zachary.likes.chaima",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "befriend.morgen.zachary": [
+          {
+            "id": "zachary.likes.morgen",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      }
+    }
+  ]
+}

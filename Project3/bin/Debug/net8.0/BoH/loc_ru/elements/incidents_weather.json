@@ -1,0 +1,130 @@
+﻿{
+  "elements": [
+    {
+      "id": "weather.rain",
+      "label": "Дождь",
+      "desc": "Тихий шелест дождя приносит жизнь.",
+      "aspects": {
+        "nectar": 2,
+        "grail": 2,
+        "boost.nectar": 2,
+        "boost.grail": 2
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.snow",
+      "label": "Снег",
+      "desc": "Сегодня мир бледен. «Белизна лежит на западе, а Зима не станет ждать вечно», – сказал однажды Соломон Хашер.",
+      "aspects": {
+        "winter": 3,
+        "sky": 3,
+        "boost.winter": 3,
+        "boost.sky": 3
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.storm",
+      "label": "Шторм",
+      "icon": "mem.storm",
+      "desc": "Небо ревёт и хлещет себя плетью молний.",
+      "aspects": {
+        "heart": 4,
+        "sky": 4,
+        "boost.heart": 4,
+        "boost.sky": 4
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.fog",
+      "label": "Туман",
+      "desc": "Бледный и покойный, как лунный свет, туман прячет из вида море.",
+      "aspects": {
+        "knock": 3,
+        "moon": 3,
+        "boost.knock": 3,
+        "boost.moon": 3
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.numa",
+      "label": "Туманы нумы",
+      "desc": "Мглистая дымка нумы.",
+      "aspects": {
+        "knock": 5,
+        "moon": 5,
+        "rose": 5,
+        "winter": 5,
+        "boost.knock": 5,
+        "boost.moon": 5,
+        "boost.rose": 5,
+        "boost.winter": 5
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.hail",
+      "label": "Град",
+      "desc": "Лёд стучит по крышам и кронам деревьев.",
+      "aspects": {
+        "edge": 3,
+        "sky": 3,
+        "boost.edge": 3,
+        "boost.sky": 3
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.gale",
+      "label": "Шквал",
+      "desc": "Стены скрипят, ветви рвутся к земле, каждый порыв заставляет путников согнуться.",
+      "aspects": {
+        "heart": 3,
+        "sky": 3,
+        "boost.heart": 3,
+        "boost.sky": 3
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.sunny",
+      "label": "Солнце",
+      "desc": "Солнце уже не тот, что раньше, но сегодня он улыбается.",
+      "aspects": {
+        "lantern": 2,
+        "sky": 2,
+        "boost.lantern": 2,
+        "boost.sky": 2
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.clouds",
+      "label": "Облака",
+      "desc": "Небо в этих краях редко бывает чистым. Сегодня Солнце шествует в облачных ризах.",
+      "aspects": {
+        "moth": 1,
+        "moon": 1,
+        "boost.moth": 1,
+        "boost.moon": 1
+      },
+      "inherits": "_weather.memory"
+    },
+    {
+      "id": "weather.earthquake",
+      "label": "Землетрясение",
+      "desc": "Легчайшие подземные толчки. Выйдите вон, ибо не умерла земля, но спит.",
+      "aspects": {
+        "scale": 5,
+        "edge": 5,
+        "boost.scale": 5,
+        "boost.edge": 5
+      },
+      "inherits": "_weather.memory"
+    }
+  ]
+}
+

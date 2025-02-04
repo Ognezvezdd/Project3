@@ -1,0 +1,88 @@
+﻿{
+  "elements": [
+    {
+      "id": "uncatpile",
+      "label": "Стопка некаталогизированных книг",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatpile.dawn",
+      "label": "Стопка некаталогизированных книг (Рассвет)",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatpile.solar",
+      "label": "Стопка некаталогизированных книг (Солнечная готика)",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatpile.baronial",
+      "label": "Стопка некаталогизированных книг (Вотчина)",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatpile.curia",
+      "label": "Стопка некаталогизированных книг (Курия)",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatpile.nocturnal",
+      "label": "Стопка некаталогизированных книг (Отдел)",
+      "inherits": "_book.unc",
+      "aspects": {
+        "count": 3
+      }
+    },
+    {
+      "id": "uncatbook.dawn",
+      "label": "Некаталогизированная книга (Рассвет)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    },
+    {
+      "id": "uncatbook.solar",
+      "label": "Некаталогизированная книга (Солнечная готика)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    },
+    {
+      "id": "uncatbook.baronial",
+      "label": "Некаталогизированная книга (Вотчина)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    },
+    {
+      "id": "uncatbook.curia",
+      "label": "Некаталогизированная книга (Курия)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    },
+    {
+      "id": "uncatbook.nocturnal",
+      "label": "Некаталогизированная книга (Отдел)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    },
+    {
+      "id": "uncatbook.nocturnal.everyman",
+      "label": "Некаталогизированная книга (Отдел)",
+      "inherits": "_book.unc",
+      "audio": "Book"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "elements": [
+    {
+      "id": "nx.obscuring",
+      "label": "模糊"
+    },
+    {
+      "id": "nx.healing",
+      "label": "治愈"
+    },
+    {
+      "id": "nx.sealing",
+      "label": "封印"
+    },
+    {
+      "id": "nx.harming",
+      "label": "伤害"
+    },
+    {
+      "id": "nx.opening",
+      "label": "开启"
+    },
+    {
+      "id": "nx.revealing",
+      "label": "揭示"
+    },
+    {
+      "id": "nx.helping",
+      "label": "帮助"
+    },
+    {
+      "id": "nx.concluding",
+      "label": "阻挠"
+    },
+    {
+      "id": "nx.thwarting",
+      "label": "阻挠"
+    }
+  ]
+}

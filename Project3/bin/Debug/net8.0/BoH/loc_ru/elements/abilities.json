@@ -1,0 +1,686 @@
+﻿{
+  "elements": [
+    {
+      "id": "_ability.fatigued",
+      "aspects": {
+        "ability": 1,
+        "fatigued": 1
+      },
+      "noartneeded": true
+    },
+    {
+      "ID": "xcho",
+      "label": "Хор",
+      "desc": "Рвение. Инстинкт. Ритм. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "heart": 2,
+        "grail": 1,
+        "boost.heart": 2,
+        "boost.grail": 1,
+        ".cho": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zcho",
+        "fatiguing.ability": "zcho",
+        "malady.inflicting": "mcho",
+        "contamination.bloodlines": "mcho",
+        "contamination.keeperskin": "mcho"
+      }
+    },
+    {
+      "id": "xere",
+      "label": "Эреб",
+      "desc": "Гордыня и сострадание. Ненависть и страх. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "grail": 2,
+        "edge": 1,
+        "boost.grail": 2,
+        "boost.edge": 1,
+        ".ere": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zere",
+        "fatiguing.ability": "zere",
+        "malady.inflicting": "mere",
+        "contamination.bloodlines": "mere",
+        "contamination.keeperskin": "mere"
+      }
+    },
+    {
+      "id": "xfet",
+      "label": "Фет",
+      "desc": "Та наша часть, что странствует во снах. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "rose": 2,
+        "moth": 1,
+        "boost.rose": 2,
+        "boost.moth": 1,
+        ".fet": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zfet",
+        "fatiguing.ability": "zfet",
+        "malady.inflicting": "mfet",
+        "contamination.curse.fifth.eye": "mfet",
+        "contamination.winkwell": "mfet"
+      }
+    },
+    {
+      "id": "xhea",
+      "label": "Здоровье",
+      "desc": "Вместилище души. [Девятая, осязаемая часть души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "heart": 1,
+        "scale": 1,
+        "nectar": 1,
+        "boost.heart": 1,
+        "boost.scale": 1,
+        "boost.nectar": 1,
+        ".hea": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zhea",
+        "fatiguing.ability": "zhea",
+        "malady.inflicting": "mhea",
+        "contamination.chionic": "mhea",
+        "contamination.sthenic.taint": "mhea"
+      }
+    },
+    {
+      "id": "xhea.halfdrowned",
+      "label": "Здоровье [озноб]",
+      "desc": "Я промок до костей и замёрз. [Вас бьёт крупная дрожь. Ищите место, где вас обогреют.]",
+      "aspects": {
+        "rank": 12,
+        "soaked": 1,
+        "heart": 1,
+        "winter": 1,
+        "ability": 1,
+        "malady": 1
+      },
+      "xtriggers": {
+        "drying": "xhea"
+      },
+      "lifetime": 360,
+      "icon": "xhea",
+      "decayto": "xhea.freezing"
+    },
+    {
+      "id": "xhea.freezing",
+      "label": "Здоровье [переохлаждение]",
+      "desc": "Я уже не чувствую холода. Я мог бы лечь прямо тут. Лечь. Уснуть. [Вам нужно в тепло. Как можно скорее.]",
+      "aspects": {
+        "rank": 12,
+        "soaked": 1,
+        "winter": 1,
+        "ability": 1,
+        "malady": 1
+      },
+      "xtriggers": {
+        "drying": "xhea"
+      },
+      "icon": "xhea",
+      "lifetime": 360,
+      "decayto": "xhea.freezing"
+    },
+    {
+      "id": "xmet",
+      "label": "Решимость",
+      "desc": "Воля. Самодисциплина. Та наша часть, что выбирает путь. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "forge": 2,
+        "edge": 1,
+        "boost.forge": 2,
+        "boost.edge": 1,
+        ".met": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zmet",
+        "fatiguing.ability": "zmet"
+      }
+    },
+    {
+      "id": "xpho",
+      "label": "Фост",
+      "desc": "Зрение. Чувства. Наитие. Всё, чем наделила нас Слава. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "lantern": 2,
+        "sky": 1,
+        "boost.lantern": 2,
+        "boost.sky": 1,
+        ".pho": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zpho",
+        "fatiguing.ability": "zpho",
+        "malady.inflicting": "mpho",
+        "contamination.curse.fifth.eye": "mpho",
+        "contamination.actinic": "mpho"
+      }
+    },
+    {
+      "id": "xsha",
+      "label": "Шапт",
+      "desc": "Слова и разумение. И вход, и выход суть одна и та же Дверь. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "knock": 2,
+        "forge": 1,
+        "boost.knock": 2,
+        "boost.forge": 1,
+        ".sha": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zsha",
+        "fatiguing.ability": "zsha",
+        "malady.inflicting": "msha",
+        "contamination.sthenic.taint": "msha",
+        "contamination.witchworms": "msha"
+      }
+    },
+    {
+      "id": "xtri",
+      "label": "Трист",
+      "desc": "Непостоянство и томление. [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "moth": 2,
+        "moon": 1,
+        "boost.moth": 2,
+        "boost.moon": 1,
+        ".tri": 1
+      },
+      "xtriggers": {
+        "fatiguing": "ztri",
+        "fatiguing.ability": "ztri",
+        "malady.inflicting": "mtri",
+        "contamination.chionic": "mtri",
+        "contamination.actinic": "mtri"
+      }
+    },
+    {
+      "id": "xwis",
+      "label": "Вист",
+      "desc": "Имя. Память. То, что остаётся. Мы знаем, что у книг есть души. О, если бы нам попадались книги с одним лишь вистом! [Одна из девяти частей души человека.]",
+      "aspects": {
+        "rank": 12,
+        "campable": 1,
+        "ability": 1,
+        "winter": 2,
+        "lantern": 1,
+        "boost.winter": 2,
+        "boost.lantern": 1,
+        ".wis": 1
+      },
+      "xtriggers": {
+        "fatiguing": "zwis",
+        "fatiguing.ability": "zwis",
+        "malady.inflicting": "mwis",
+        "contamination.witchworms": "mwis",
+        "contamination.winkwell": "mwis"
+      }
+    },
+    {
+      "id": "zcho",
+      "label": "Хор [изнурён]",
+      "desc": "Рвение. Инстинкт. Ритм.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zheart": 2,
+        "zgrail": 1
+      },
+      "xtriggers": {
+        "recovering": "xcho",
+        "recovering.ability": "xcho",
+        "malady.inflicting": "mcho",
+        "contamination.bloodlines": "mcho",
+        "contamination.keeperskin": "mcho"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zere",
+      "label": "Эреб [изнурён]",
+      "desc": "Гордыня и сострадание. Ненависть и страх.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zgrail": 2,
+        "zedge": 1
+      },
+      "xtriggers": {
+        "recovering": "xere",
+        "recovering.ability": "xere",
+        "malady.inflicting": "mere",
+        "contamination.bloodlines": "mere",
+        "contamination.keeperskin": "mere"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zfet",
+      "label": "Фет [изнурён]",
+      "desc": "Та наша часть, что странствует во снах.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zrose": 2,
+        "zmoth": 1
+      },
+      "xtriggers": {
+        "recovering": "xfet",
+        "recovering.ability": "xfet",
+        "malady.inflicting": "mfet",
+        "contamination.winkwell": "mfet",
+        "contamination.curse.fifth.eye": "mfet"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zhea",
+      "label": "Здоровье [изнурено]",
+      "desc": "Вместилище души.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zheart": 1,
+        "znectar": 1,
+        "zscale": 1
+      },
+      "xtriggers": {
+        "recovering": "xhea",
+        "recovering.ability": "xhea",
+        "malady.inflicting": "mhea",
+        "contamination.chionic": "mhea",
+        "contamination.sthenic.taint": "mhea"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zmet",
+      "label": "Решимость [изнурена]",
+      "desc": "Способность действовать в решающий момент.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zforge": 2,
+        "zedge": 1
+      },
+      "xtriggers": {
+        "recovering": "xmet",
+        "recovering.ability": "xmet"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zpho",
+      "label": "Фост [изнурён]",
+      "desc": "Зрение. Чувства. Наитие. Всё, чем наделила нас Слава.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zlantern": 2,
+        "zsky": 1
+      },
+      "xtriggers": {
+        "recovering": "xpho",
+        "recovering.ability": "xpho",
+        "malady.inflicting": "mpho",
+        "contamination.curse.fifth.eye": "mpho",
+        "contamination.actinic": "mpho"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zsha",
+      "label": "Шапт [изнурён]",
+      "desc": "Слова и разумение. И вход, и выход суть одна и та же Дверь.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zknock": 2,
+        "zforge": 1
+      },
+      "xtriggers": {
+        "recovering": "xsha",
+        "recovering.ability": "xsha",
+        "malady.inflicting": "msha",
+        "contamination.sthenic.taint": "msha"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "ztri",
+      "label": "Трист [изнурён]",
+      "desc": "Непостоянство и томление.",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zmoth": 2,
+        "zmoon": 1
+      },
+      "xtriggers": {
+        "recovering": "xtri",
+        "recovering.ability": "xtri",
+        "malady.inflicting": "mtri",
+        "contamination.chionic": "mtri",
+        "contamination.actinic": "mtri"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "zwis",
+      "label": "Вист [изнурён]",
+      "desc": "Имя. Память. То, что остаётся. (Мы знаем, что у книг есть души. О, если бы нам попадались книги с одним лишь вистом!)",
+      "inherits": "_ability.fatigued",
+      "aspects": {
+        "rank": 1,
+        "zwinter": 2,
+        "zlantern": 1
+      },
+      "xtriggers": {
+        "recovering": "xwis",
+        "recovering.ability": "xwis",
+        "malady.inflicting": "mwis",
+        "contamination.witchworms": "mwis",
+        "contamination.winkwell": "mwis"
+      },
+      "resaturate": true
+    },
+    {
+      "id": "mcho",
+      "label": "Хор: дуэндратизм",
+      "desc": "Дуэндратизм. Болезнь помешанных, поэтов и одержимых. В вое ветра, шуме волн и треске поленьев есть музыка, что слышна лишь мне. Когда я ей внимаю, мир рдеет, словно роза.",
+      "xtriggers": {
+        "malady.curing": "zcho",
+        "contamination.bloodlines": [
+          {
+            "id": "ability.exposed.bloodlines",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.keeperskin": [
+          {
+            "id": "ability.exposed.keeperskin",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Я не в силах обуздать мысли и слышу, будто вдали бьют в барабан. [Ваш хор постиг недуг.]",
+        "contamination.bloodlines": "Я чувствую зуд в кончиках пальцев. Вот они уже выстукивают ритм. Эта книга заражена гемоглоссами, и там, где паразиты разъели оболочку моей души, к ней пристал дуэндразон. [Ваш хор постиг недуг; предмет оказался заражён паразитом.]",
+        "contamination.keeperskin": "Кончики моих пальцев распухли и побелели. Вот они уже выстукивают ритм. Эта книга заражена бледным струпом, и там, где грибок разъел оболочку моей души, к ней пристал дуэндразон. [Ваш хор постиг недуг; предмет оказался с болезнью.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "heart": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.moth": 5
+      }
+    },
+    {
+      "id": "mere",
+      "label": "Эреб: вестенгрюр",
+      "desc": "«Вестенгрюр» – так звала братия Св. Брендана эту хворь. Монахи писали о тоске по зелени, о прелести запустения, об ужасе пустыни. Теперь я их понимаю. О, Лес. О, Лес. О, Лес!..",
+      "xtriggers": {
+        "malady.curing": "zere",
+        "contamination.bloodlines": [
+          {
+            "id": "ability.exposed.bloodlines",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.keeperskin": [
+          {
+            "id": "ability.exposed.keeperskin",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "В минуту уныния скрипучий страх незримо проник в моё сердце, словно незваный гость, вползающий в неплотно затворённое окно. [Ваш эреб постиг недуг.] ",
+        "contamination.bloodlines": "Слова в этой книге сочатся кровью – она заражена гемоглоссами. Бережно промокая страницы, я вдруг ощущаю беспричинный страх сродни страху темноты – не просто чёрной, но сырой и затхлой. [Ваш эреб постиг недуг; предмет оказался заражён паразитом.]",
+        "contamination.keeperskin": "Поверхность этого предмета покрыта пятнами фосфоресцирующего грибка. Бледный струп. Я вижу его слабое свечение, даже когда закрываю глаза. Что-то пахнущее сыростью, древесное оставило свой отпечаток в моей душе. [Ваш эреб постиг недуг; предмет оказался с болезнью.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "nectar": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.forge": 5
+      }
+    },
+    {
+      "id": "mfet",
+      "label": "Фет: гистинг",
+      "desc": "Во снах я был в Доме, что за гранью мира... и теперь, даже когда я проснулся, некая часть меня по-прежнему пребывает там.",
+      "xtriggers": {
+        "malady.curing": "zfet",
+        "contamination.winkwell": [
+          {
+            "id": "ability.exposed.winkwell",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.curse.fifth.eye": [
+          {
+            "id": "ability.exposed.curse.fifth.eye",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Мысли путаются, и вот уже частица моей души упархивает куда-то, стремясь к далёкому свету – то ли вещественному, то ли кажущемуся. [Ваш фет постиг недуг.]",
+        "contamination.winkwell": "Глаза. Там. Еле видимые, они лукаво подмигивают мне. Это ненасытные очи. Я всё ещё вижу их, даже сомкнув веки. [Ваш фет постиг недуг; предмет оказался с болезнью.]",
+        "contamination.curse.fifth.eye": "Проклятие! Сомнений нет: это проклятие пятого глаза, и теперь оно распахнуло некогда сомкнутое око моей души. [Ваш фет постиг недуг; на предмет наложено проклятие.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "rose": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.grail": 5
+      }
+    },
+    {
+      "id": "mhea",
+      "label": "Здоровье: болезнь",
+      "desc": "Мне нехорошо.",
+      "xtriggers": {
+        "malady.curing": "zhea",
+        "contamination.chionic": [
+          {
+            "id": "ability.exposed.chionic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.sthenic.taint": [
+          {
+            "id": "ability.exposed.sthenic.taint",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Мои телесные силы истощены. [Ваше здоровье ослаблено недугом.]",
+        "contamination.chionic": "Бледное сияние обожгло холодом мои руки. Теоплазмическая порча. [Ваших членов, как и этого предмета, коснулась порча.]",
+        "contamination.sthenic.taint": "Боль множеством невидимых уколов пронзает мои руки, словно кто-то утыкал их крошечными иглами. Порча – то ли яд, то ли проклятие, называемое стенической немощью. [Ваше здоровье ослаблено недугом.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "winter": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.heart": 5
+      }
+    },
+    {
+      "id": "mpho",
+      "label": "Фост: фиксация",
+      "desc": "Я ВОЗНОШУСЬ и вижу ВСЁ БОЛЬШЕ",
+      "xtriggers": {
+        "malady.curing": "zpho",
+        "contamination.actinic": [
+          {
+            "id": "ability.exposed.actinic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.curse.fifth.eye": [
+          {
+            "id": "ability.exposed.curse.fifth.eye",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Огонь моей души мигает – и вдруг ослепительно вспыхивает. Мной завладела опасная фиксация. [Ваш фост постиг недуг.]",
+        "contamination.curse.fifth.eye": "Проклятие! Сомнений нет: это проклятие пятого глаза, и теперь оно распахнуло некогда сомкнутое око моей души. [Ваш фост постиг недуг.]",
+        "contamination.actinic": "Предмет окружён сиянием, от которого режет в глазах. Теоплазмическая порча. [Ваш фост постиг недуг; предмет оказался с порчей.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "lantern": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.nectar": 5
+      }
+    },
+    {
+      "id": "msha",
+      "label": "Шапт: акузия",
+      "desc": "Двери моей души безжалостно распахнуты. Каждый звук отдаётся колокольным гулом. Каждое слово ранит глаз и кожу...",
+      "xtriggers": {
+        "malady.curing": "zsha",
+        "contamination.witchworms": [
+          {
+            "id": "ability.exposed.witchworms",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.sthenic.taint": [
+          {
+            "id": "ability.exposed.sthenic.taint",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Двери моей души безжалостно распахнуты. Каждый звук отдаётся колокольным гулом. Каждое слово ранит глаз и кожу...",
+        "contamination.sthenic.taint": "Боль множеством невидимых уколов пронзает мои руки, словно кто-то утыкал их крошечными иглами. Порча – то ли яд, то ли проклятие, называемое стенической немощью. [Ваш шапт постиг недуг.]",
+        "contamination.witchworms": "Приникая к странице, я слышу тихий шёпот. Ведьмин червь! [Вы прислушались к нашёптыванию червя, и теперь ваш шапт постиг недуг; предмет оказался заражён паразитом.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "knock": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.winter": 5
+      }
+    },
+    {
+      "id": "mtri",
+      "label": "Трист: отчаяние",
+      "desc": "Меланхолия – туман, которым подёргивается гладь души. Отчаяние – волк, рыщущий у её берегов.",
+      "xtriggers": {
+        "malady.curing": "ztri",
+        "contamination.actinic": [
+          {
+            "id": "ability.exposed.actinic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.chionic": [
+          {
+            "id": "ability.exposed.chionic",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Чрезмерное душевное напряжение подточило мои силы. [Ваш трист постиг недуг.]",
+        "contamination.chionic": "Бледное сияние обожгло холодом мои руки. Теоплазмическая порча. [На вашем тристе, как и на этом предмете, теперь лежит порча.]",
+        "contamination.actinic": "Предмет окружён сиянием, от которого режет в глазах. Теоплазмическая порча. [На вашем тристе, как и на этом предмете, теперь лежит порча.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "edge": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.sky": 5
+      }
+    },
+    {
+      "id": "mwis",
+      "label": "Вист: память хитина",
+      "desc": "Я путаюсь в незнакомых мыслях. В людях всегда было что-то от Хитинового Креста – тех, что предваряли нас. Теперь оно вернулось.",
+      "xtriggers": {
+        "malady.curing": "zwis",
+        "contamination.winkwell": [
+          {
+            "id": "ability.exposed.winkwell",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ],
+        "contamination.witchworms": [
+          {
+            "id": "ability.exposed.witchworms",
+            "morpheffect": "mutate",
+            "level": 1
+          }
+        ]
+      },
+      "xexts": {
+        "malady.inflicting": "Мой разум утомлён. В голове мелькают смутные, чужие мысли. [Ваш вист постиг недуг.]",
+        "contamination.witchworms": "Приникая к странице, я слышу тихий шёпот. Ведьмин червь! [Вы прислушались к нашёптыванию червя, и теперь ваш вист постиг недуг; предмет оказался заражён паразитом.]",
+        "contamination.winkwell": "Глаза. Там. Еле видимые, они лукаво подмигивают мне. Это ненасытные очи. Я всё ещё вижу их, даже сомкнув веки. [Ваш вист постиг недуг; предмет оказался с болезнью.]"
+      },
+      "aspects": {
+        "rank": 11,
+        "scale": 1,
+        "ability": 1,
+        "malady": 1,
+        "malady.cure.lantern": 5
+      }
+    }
+  ]
+}

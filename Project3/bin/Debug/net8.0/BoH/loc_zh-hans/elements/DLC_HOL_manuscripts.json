@@ -1,0 +1,369 @@
+{
+  "elements": [
+    {
+      "id": "manuscript.wolfstories",
+      "label": "狼的故事手稿",
+      "desc": "于此，我记录下了我对“狼的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.killasimi",
+      "label": "夜魄语手稿",
+      "desc": "于此，我记录下了我对“夜魄语”的所思所想。"
+    },
+    {
+      "id": "manuscript.coil.chasm",
+      "label": "虬蟠与裂隙手稿",
+      "desc": "于此，我记录下了我对“虬蟠与裂隙”的所思所想。"
+    },
+    {
+      "id": "manuscript.thegreatsignsandthegreatscars",
+      "label": "伟大符印与伟大伤疤手稿",
+      "desc": "于此，我记录下了我对“伟大符印与伟大伤疤”的所思所想。"
+    },
+    {
+      "id": "manuscript.tridesmahiera",
+      "label": "三重誓之仪手稿",
+      "desc": "于此，我记录下了我对“三重誓之仪”的所思所想。"
+    },
+    {
+      "id": "manuscript.hyksos",
+      "label": "希克索斯语手稿",
+      "desc": "于此，我记录下了我对“希克索斯语”的所思所想。"
+    },
+    {
+      "id": "manuscript.leaves.thorns",
+      "label": "叶片与棘刺手稿",
+      "desc": "于此，我记录下了我对“叶片与棘刺”的所思所想。"
+    },
+    {
+      "id": "manuscript.seastories",
+      "label": "大海的故事手稿",
+      "desc": "于此，我记录下了我对“大海的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.meniscatereflections",
+      "label": "弧月的倒影手稿",
+      "desc": "于此，我记录下了我对“弧月的倒影”的所思所想。"
+    },
+    {
+      "id": "manuscript.stitching.binding",
+      "label": "缝合与装订手稿",
+      "desc": "于此，我记录下了我对“缝合与装订”的所思所想。"
+    },
+    {
+      "id": "manuscript.ericapaean",
+      "label": "厄里卡帕奥语手稿",
+      "desc": "于此，我记录下了我对“厄里卡帕奥语”的所思所想。"
+    },
+    {
+      "id": "manuscript.solutions.separations",
+      "label": "溶解与离析手稿",
+      "desc": "于此，我记录下了我对“溶解与离析”的所思所想。"
+    },
+    {
+      "id": "manuscript.orchids.narcotics",
+      "label": "兰花与迷药手稿",
+      "desc": "于此，我记录下了我对“兰花与迷药”的所思所想。"
+    },
+    {
+      "id": "manuscript.auroralcontemplations",
+      "label": "曙光的静观手稿",
+      "desc": "于此，我记录下了我对“曙光的静观”的所思所想。"
+    },
+    {
+      "id": "manuscript.inks.revelation",
+      "label": "启示之墨手稿",
+      "desc": "于此，我记录下了我对“启示之墨”的所思所想。"
+    },
+    {
+      "id": "manuscript.mandaic",
+      "label": "渊深曼达安语手稿",
+      "desc": "于此，我记录下了我对“渊深曼达安语”的所思所想。"
+    },
+    {
+      "id": "manuscript.ouranoscopy",
+      "label": "窥天术手稿",
+      "desc": "于此，我记录下了我对“窥天术”的所思所想。"
+    },
+    {
+      "id": "manuscript.sacrasolisinvicti",
+      "label": "无敌太阳典仪手稿",
+      "desc": "于此，我记录下了我对“无敌太阳典仪”的所思所想。"
+    },
+    {
+      "id": "manuscript.anbary.lapidary",
+      "label": "雕珀与琢石手稿",
+      "desc": "于此，我记录下了我对“雕珀与琢石”的所思所想。"
+    },
+    {
+      "id": "manuscript.vak",
+      "label": "伐诃语手稿",
+      "desc": "于此，我记录下了我对“伐诃语”的所思所想。"
+    },
+    {
+      "id": "manuscript.sandstories",
+      "label": "沙的故事手稿",
+      "desc": "于此，我记录下了我对“沙的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.watchmansparadoxes",
+      "label": "守夜人的悖论手稿",
+      "desc": "于此，我记录下了我对“守夜人的悖论”的所思所想。"
+    },
+    {
+      "id": "manuscript.ramsund",
+      "label": "拉姆桑德语手稿",
+      "desc": "于此，我记录下了我对“拉姆桑德语”的所思所想。"
+    },
+    {
+      "id": "manuscript.door.wall",
+      "label": "门扉与墙垣手稿",
+      "desc": "于此，我记录下了我对“门扉与墙垣”的所思所想。"
+    },
+    {
+      "id": "manuscript.putrefactions.calcinations",
+      "label": "腐化与煅烧手稿",
+      "desc": "于此，我记录下了我对“腐化与煅烧”的所思所想。"
+    },
+    {
+      "id": "manuscript.fucine",
+      "label": "富奇诺语手稿",
+      "desc": "于此，我记录下了我对“富奇诺语”的所思所想。"
+    },
+    {
+      "id": "manuscript.drums.dances",
+      "label": "鼓点与舞步手稿",
+      "desc": "于此，我记录下了我对“鼓点与舞步”的所思所想。"
+    },
+    {
+      "id": "manuscript.inks.power",
+      "label": "力量之墨手稿",
+      "desc": "于此，我记录下了我对“力量之墨”的所思所想。"
+    },
+    {
+      "id": "manuscript.skystories",
+      "label": "天空的故事手稿",
+      "desc": "于此，我记录下了我对“天空的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.glaziery.lightsmithing",
+      "label": "玻璃与锻光手稿",
+      "desc": "于此，我记录下了我对“玻璃与锻光”的所思所想。"
+    },
+    {
+      "id": "manuscript.pearl.tide",
+      "label": "珍珠与浪潮手稿",
+      "desc": "于此，我记录下了我对“珍珠与浪潮”的所思所想。"
+    },
+    {
+      "id": "manuscript.weaving.knotworking",
+      "label": "缝纫与编织手稿",
+      "desc": "于此，我记录下了我对“缝纫与编织”的所思所想。"
+    },
+    {
+      "id": "manuscript.bells.brazieries",
+      "label": "洪钟与铜器手稿",
+      "desc": "于此，我记录下了我对“洪钟与铜器”的所思所想。"
+    },
+    {
+      "id": "manuscript.path.pilgrim",
+      "label": "道途与朝圣手稿",
+      "desc": "于此，我记录下了我对“道途与朝圣”的所思所想。"
+    },
+    {
+      "id": "manuscript.snowstories",
+      "label": "白雪的故事手稿",
+      "desc": "于此，我记录下了我对“白雪的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.pyroglyphics",
+      "label": "焰篆体手稿",
+      "desc": "于此，我记录下了我对“焰篆体”的所思所想。"
+    },
+    {
+      "id": "manuscript.purifications.exaltations",
+      "label": "精炼与擢升手稿",
+      "desc": "于此，我记录下了我对“精炼与擢升”的所思所想。"
+    },
+    {
+      "id": "manuscript.spices.savours",
+      "label": "香料与滋味手稿",
+      "desc": "于此，我记录下了我对“香料与滋味”的所思所想。"
+    },
+    {
+      "id": "manuscript.resurgences.emergences",
+      "label": "复苏与羽化手稿",
+      "desc": "于此，我记录下了我对“复苏与羽化”的所思所想。"
+    },
+    {
+      "id": "manuscript.pentiments.precursors",
+      "label": "覆画残迹与古老前身手稿",
+      "desc": "于此，我记录下了我对“覆画残迹与古老前身”的所思所想。"
+    },
+    {
+      "id": "manuscript.quenchings.quellings",
+      "label": "淬火与熄焰手稿",
+      "desc": "于此，我记录下了我对“淬火与熄焰”的所思所想。"
+    },
+    {
+      "id": "manuscript.lockworks.clockworks",
+      "label": "锁簧与发条手稿",
+      "desc": "于此，我记录下了我对“锁簧与发条”的所思所想。"
+    },
+    {
+      "id": "manuscript.raggedcrossroads",
+      "label": "残破十字路手稿",
+      "desc": "于此，我记录下了我对“残破十字路”的所思所想。"
+    },
+    {
+      "id": "manuscript.disciplines.thescar",
+      "label": "伤疤的戒律手稿",
+      "desc": "于此，我记录下了我对“伤疤的戒律”的所思所想。"
+    },
+    {
+      "id": "manuscript.cracktrack",
+      "label": "解踪语手稿",
+      "desc": "于此，我记录下了我对“解踪语”的所思所想。"
+    },
+    {
+      "id": "manuscript.furs.feathers",
+      "label": "毛皮与羽翎手稿",
+      "desc": "于此，我记录下了我对“毛皮与羽翎”的所思所想。"
+    },
+    {
+      "id": "manuscript.herbs.infusions",
+      "label": "草药与药汤手稿",
+      "desc": "于此，我记录下了我对“草药与药汤”的所思所想。"
+    },
+    {
+      "id": "manuscript.preliminalmeter",
+      "label": "阙前格律手稿",
+      "desc": "于此，我记录下了我对“阙前格律”的所思所想。"
+    },
+    {
+      "id": "manuscript.transformations.liberations",
+      "label": "嬗变与解放手稿",
+      "desc": "于此，我记录下了我对“嬗变与解放”的所思所想。"
+    },
+    {
+      "id": "manuscript.edictsmartial",
+      "label": "武力之敕令手稿",
+      "desc": "于此，我记录下了我对“武力之敕令”的所思所想。"
+    },
+    {
+      "id": "manuscript.rites.theroots",
+      "label": "根系之仪手稿",
+      "desc": "于此，我记录下了我对“根系之仪”的所思所想。"
+    },
+    {
+      "id": "manuscript.applebrighteuphonies",
+      "label": "光明果悦音手稿",
+      "desc": "于此，我记录下了我对“光明果悦音”的所思所想。"
+    },
+    {
+      "id": "manuscript.strings.songs",
+      "label": "弦乐与歌谣手稿",
+      "desc": "于此，我记录下了我对“弦乐与歌谣”的所思所想。"
+    },
+    {
+      "id": "manuscript.sacralimiae",
+      "label": "利米亚典仪手稿",
+      "desc": "于此，我记录下了我对“利米亚典仪”的所思所想。"
+    },
+    {
+      "id": "manuscript.surgeries.exsanguinations",
+      "label": "手术与放血手稿",
+      "desc": "于此，我记录下了我对“手术与放血”的所思所想。"
+    },
+    {
+      "id": "manuscript.edictsinviolable",
+      "label": "无侵之敕令手稿",
+      "desc": "于此，我记录下了我对“无侵之敕令”的所思所想。"
+    },
+    {
+      "id": "manuscript.sickle.eclipse",
+      "label": "镰刀与日蚀手稿",
+      "desc": "于此，我记录下了我对“镰刀与日蚀”的所思所想。"
+    },
+    {
+      "id": "manuscript.serpents.venoms",
+      "label": "群蛇与毒液手稿",
+      "desc": "于此，我记录下了我对“群蛇与毒液”的所思所想。"
+    },
+    {
+      "id": "manuscript.hill.hollow",
+      "label": "丘陵与孔窍手稿",
+      "desc": "于此，我记录下了我对“丘陵与孔窍”的所思所想。"
+    },
+    {
+      "id": "manuscript.sharps",
+      "label": "锋锐手稿",
+      "desc": "于此，我记录下了我对“锋锐”的所思所想。"
+    },
+    {
+      "id": "manuscript.sabazine",
+      "label": "萨巴佐因语手稿",
+      "desc": "于此，我记录下了我对“萨巴佐因语”的所思所想。"
+    },
+    {
+      "id": "manuscript.inks.containment",
+      "label": "收容之墨手稿",
+      "desc": "于此，我记录下了我对“收容之墨”的所思所想。"
+    },
+    {
+      "id": "manuscript.stonestories",
+      "label": "岩石的故事手稿",
+      "desc": "于此，我记录下了我对“岩石的故事”的所思所想。"
+    },
+    {
+      "id": "manuscript.desires.dissolutions",
+      "label": "诱惑与消殒手稿",
+      "desc": "于此，我记录下了我对“诱惑与消殒”的所思所想。"
+    },
+    {
+      "id": "manuscript.edictsliminal",
+      "label": "阈限之敕令手稿",
+      "desc": "于此，我记录下了我对“阈限之敕令”的所思所想。"
+    },
+    {
+      "id": "manuscript.henavek",
+      "label": "赫沃尔语手稿",
+      "desc": "于此，我记录下了我对“赫沃尔语”的所思所想。"
+    },
+    {
+      "id": "manuscript.horns.ivories",
+      "label": "兽角与象牙手稿",
+      "desc": "于此，我记录下了我对“兽角与象牙”的所思所想。"
+    },
+    {
+      "id": "manuscript.sights.sensations",
+      "label": "景象与感知手稿",
+      "desc": "于此，我记录下了我对“景象与感知”的所思所想。"
+    },
+    {
+      "id": "manuscript.insects.nectars",
+      "label": "昆虫与花蜜手稿",
+      "desc": "于此，我记录下了我对“昆虫与花蜜”的所思所想。"
+    },
+    {
+      "id": "manuscript.rhyme.remembrance",
+      "label": "音律与铭记手稿",
+      "desc": "于此，我记录下了我对“音律与铭记”的所思所想。"
+    },
+    {
+      "id": "manuscript.disciplines.thehammer",
+      "label": "锤砧的戒律手稿",
+      "desc": "于此，我记录下了我对“锤砧的戒律”的所思所想。"
+    },
+    {
+      "id": "manuscript.glassblowing.vesselcrafting",
+      "label": "玻璃吹制与容器制造手稿",
+      "desc": "于此，我记录下了我对“玻璃吹制与容器制造”的所思所想。"
+    },
+    {
+      "id": "manuscript.maggephenemysteries",
+      "label": "疫疠之秘手稿",
+      "desc": "于此，我记录下了我对“疫疠之秘”的所思所想。"
+    }
+  ]
+}
